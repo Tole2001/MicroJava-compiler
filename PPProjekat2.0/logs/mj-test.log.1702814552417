@@ -1,0 +1,30 @@
+INFO  14:29:54,820 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  14:29:54,825 - #11 program
+INFO  14:29:54,825 - #47 mojProgram
+INFO  14:29:54,825 - #12 namespace
+INFO  14:29:54,826 - #47 belo
+INFO  14:29:54,826 - #16 {
+INFO  14:29:54,826 - #16 {
+INFO  14:29:54,826 - #17 }
+INFO  14:29:54,827 - #17 }
+INFO  14:29:54,827 - #16 {
+INFO  14:29:54,827 - #17 }
+INFO  14:29:54,828 - Program(
+ mojProgram
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     belo
+      InitListDerived1(
+      ) [InitListDerived1]
+      MethodDeclListDerived1(
+      ) [MethodDeclListDerived1]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitListDerived1(
+  ) [InitListDerived1]
+  MethodDeclListDerived1(
+  ) [MethodDeclListDerived1]
+) [Program]
+INFO  14:29:54,828 - ===================================

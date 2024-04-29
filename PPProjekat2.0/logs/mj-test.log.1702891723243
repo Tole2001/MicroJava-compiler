@@ -1,0 +1,1310 @@
+INFO  10:28:21,124 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  10:28:21,744 - #11 program
+INFO  10:28:21,744 - #47 test301
+INFO  10:28:21,744 - #12 namespace
+INFO  10:28:21,757 - #47 Konstante
+INFO  10:28:21,757 - #16 {
+INFO  10:28:21,757 - #21 const
+INFO  10:28:21,762 - #47 int
+INFO  10:28:21,762 - #47 nula
+INFO  10:28:21,763 - #7 =
+INFO  10:28:21,763 - #46 0
+INFO  10:28:21,763 - #8 ;
+INFO  10:28:21,775 - #21 const
+INFO  10:28:21,775 - #47 int
+INFO  10:28:21,775 - #47 jedan
+INFO  10:28:21,775 - #7 =
+INFO  10:28:21,775 - #46 1
+INFO  10:28:21,775 - #8 ;
+INFO  10:28:21,775 - #21 const
+INFO  10:28:21,775 - #47 int
+INFO  10:28:21,775 - #47 pet
+INFO  10:28:21,775 - #7 =
+INFO  10:28:21,776 - #46 5
+INFO  10:28:21,776 - #8 ;
+INFO  10:28:21,776 - #17 }
+ERROR 10:28:21,776 - 
+Sintaksna greska na liniji 9, 0
+INFO  10:28:21,776 - #12 namespace
+INFO  10:28:21,776 - #47 Nizovi
+INFO  10:28:21,776 - #16 {
+INFO  10:28:21,776 - #47 int
+INFO  10:28:21,776 - #47 niz
+INFO  10:28:21,776 - #14 [
+INFO  10:28:21,777 - #15 ]
+INFO  10:28:21,777 - #8 ;
+INFO  10:28:21,777 - #47 char
+INFO  10:28:21,777 - #47 nizch
+INFO  10:28:21,777 - #14 [
+ERROR 10:28:21,777 - Sintaksa greska deklaracije globalne promenljive na liniji 8
+INFO  10:28:21,782 - #15 ]
+INFO  10:28:21,782 - #8 ;
+INFO  10:28:21,789 - #16 {
+INFO  10:28:21,789 - #17 }
+INFO  10:28:21,794 - #17 }
+INFO  10:28:21,794 - #47 int
+INFO  10:28:21,802 - #47 a
+INFO  10:28:21,802 - #8 ;
+INFO  10:28:21,802 - #16 {
+INFO  10:28:21,802 - #26 void
+INFO  10:28:21,802 - #47 main
+INFO  10:28:21,803 - #10 (
+INFO  10:28:21,803 - #13 )
+INFO  10:28:21,803 - #47 int
+INFO  10:28:21,812 - #47 bodovi
+INFO  10:28:21,812 - #8 ;
+INFO  10:28:21,812 - #47 bool
+INFO  10:28:21,812 - #47 bt
+INFO  10:28:21,812 - #8 ;
+INFO  10:28:21,812 - #16 {
+INFO  10:28:21,812 - #47 bodovi
+INFO  10:28:21,817 - #7 =
+INFO  10:28:21,817 - #46 0
+INFO  10:28:21,826 - #8 ;
+INFO  10:28:21,832 - #47 bodovi
+INFO  10:28:21,832 - #33 ++
+INFO  10:28:21,832 - #8 ;
+INFO  10:28:21,832 - #47 bodovi
+INFO  10:28:21,832 - #7 =
+INFO  10:28:21,832 - #47 bodovi
+INFO  10:28:21,832 - #2 +
+INFO  10:28:21,832 - #47 Konstante
+INFO  10:28:21,840 - #19 :
+INFO  10:28:21,840 - #19 :
+INFO  10:28:21,841 - #47 jedan
+INFO  10:28:21,841 - #8 ;
+INFO  10:28:21,841 - #47 bodovi
+INFO  10:28:21,841 - #7 =
+INFO  10:28:21,841 - #47 bodovi
+INFO  10:28:21,841 - #4 *
+INFO  10:28:21,841 - #47 Konstante
+INFO  10:28:21,849 - #19 :
+INFO  10:28:21,849 - #19 :
+INFO  10:28:21,849 - #47 pet
+INFO  10:28:21,849 - #8 ;
+INFO  10:28:21,850 - #47 bodovi
+INFO  10:28:21,850 - #32 --
+INFO  10:28:21,850 - #8 ;
+INFO  10:28:21,850 - #24 print
+INFO  10:28:21,850 - #10 (
+INFO  10:28:21,850 - #47 bodovi
+INFO  10:28:21,850 - #13 )
+INFO  10:28:21,850 - #8 ;
+INFO  10:28:21,850 - #47 Nizovi
+INFO  10:28:21,850 - #19 :
+INFO  10:28:21,850 - #19 :
+INFO  10:28:21,850 - #47 niz
+INFO  10:28:21,850 - #7 =
+INFO  10:28:21,850 - #28 new
+INFO  10:28:21,850 - #47 int
+INFO  10:28:21,850 - #14 [
+INFO  10:28:21,850 - #46 3
+INFO  10:28:21,850 - #15 ]
+INFO  10:28:21,851 - #8 ;
+INFO  10:28:21,851 - #47 Nizovi
+INFO  10:28:21,851 - #19 :
+INFO  10:28:21,851 - #19 :
+INFO  10:28:21,851 - #47 niz
+INFO  10:28:21,851 - #14 [
+INFO  10:28:21,851 - #47 Konstante
+INFO  10:28:21,851 - #19 :
+INFO  10:28:21,851 - #19 :
+INFO  10:28:21,851 - #47 nula
+INFO  10:28:21,851 - #15 ]
+INFO  10:28:21,851 - #7 =
+INFO  10:28:21,851 - #47 Konstante
+INFO  10:28:21,851 - #19 :
+INFO  10:28:21,851 - #19 :
+INFO  10:28:21,851 - #47 jedan
+INFO  10:28:21,851 - #8 ;
+INFO  10:28:21,851 - #47 Nizovi
+INFO  10:28:21,851 - #19 :
+INFO  10:28:21,851 - #19 :
+INFO  10:28:21,851 - #47 niz
+INFO  10:28:21,851 - #14 [
+INFO  10:28:21,851 - #46 1
+INFO  10:28:21,851 - #15 ]
+INFO  10:28:21,852 - #7 =
+INFO  10:28:21,852 - #46 2
+INFO  10:28:21,852 - #8 ;
+INFO  10:28:21,852 - #47 Nizovi
+INFO  10:28:21,852 - #19 :
+INFO  10:28:21,852 - #19 :
+INFO  10:28:21,852 - #47 niz
+INFO  10:28:21,852 - #14 [
+INFO  10:28:21,852 - #47 Nizovi
+INFO  10:28:21,852 - #19 :
+INFO  10:28:21,852 - #19 :
+INFO  10:28:21,852 - #47 niz
+INFO  10:28:21,852 - #14 [
+INFO  10:28:21,852 - #47 Konstante
+INFO  10:28:21,852 - #19 :
+INFO  10:28:21,852 - #19 :
+INFO  10:28:21,852 - #47 jedan
+INFO  10:28:21,852 - #15 ]
+INFO  10:28:21,852 - #15 ]
+INFO  10:28:21,852 - #7 =
+INFO  10:28:21,852 - #47 Nizovi
+INFO  10:28:21,852 - #19 :
+INFO  10:28:21,852 - #19 :
+INFO  10:28:21,852 - #47 niz
+INFO  10:28:21,852 - #14 [
+INFO  10:28:21,852 - #47 Nizovi
+INFO  10:28:21,853 - #19 :
+INFO  10:28:21,853 - #19 :
+INFO  10:28:21,853 - #47 niz
+INFO  10:28:21,853 - #14 [
+INFO  10:28:21,853 - #46 0
+INFO  10:28:21,853 - #15 ]
+INFO  10:28:21,853 - #15 ]
+INFO  10:28:21,853 - #4 *
+INFO  10:28:21,853 - #46 3
+INFO  10:28:21,853 - #8 ;
+INFO  10:28:21,853 - #47 bodovi
+INFO  10:28:21,853 - #7 =
+INFO  10:28:21,853 - #47 Nizovi
+INFO  10:28:21,853 - #19 :
+INFO  10:28:21,853 - #19 :
+INFO  10:28:21,853 - #47 niz
+INFO  10:28:21,853 - #14 [
+INFO  10:28:21,853 - #46 2
+INFO  10:28:21,853 - #15 ]
+INFO  10:28:21,853 - #5 /
+INFO  10:28:21,853 - #47 Nizovi
+INFO  10:28:21,858 - #19 :
+INFO  10:28:21,859 - #19 :
+INFO  10:28:21,859 - #47 niz
+INFO  10:28:21,859 - #14 [
+INFO  10:28:21,859 - #46 0
+INFO  10:28:21,859 - #15 ]
+INFO  10:28:21,859 - #8 ;
+INFO  10:28:21,859 - #24 print
+INFO  10:28:21,859 - #10 (
+INFO  10:28:21,859 - #47 bodovi
+INFO  10:28:21,859 - #13 )
+INFO  10:28:21,859 - #8 ;
+INFO  10:28:21,859 - #24 print
+INFO  10:28:21,859 - #10 (
+INFO  10:28:21,859 - #47 Nizovi
+INFO  10:28:21,859 - #19 :
+INFO  10:28:21,859 - #19 :
+INFO  10:28:21,859 - #47 niz
+INFO  10:28:21,859 - #14 [
+INFO  10:28:21,859 - #46 2
+INFO  10:28:21,859 - #15 ]
+INFO  10:28:21,859 - #13 )
+INFO  10:28:21,860 - #8 ;
+INFO  10:28:21,860 - #47 Nizovi
+INFO  10:28:21,860 - #19 :
+INFO  10:28:21,860 - #19 :
+INFO  10:28:21,860 - #47 nizch
+INFO  10:28:21,860 - #7 =
+INFO  10:28:21,860 - #28 new
+INFO  10:28:21,860 - #47 char
+INFO  10:28:21,860 - #14 [
+INFO  10:28:21,860 - #46 3
+INFO  10:28:21,860 - #15 ]
+INFO  10:28:21,860 - #8 ;
+INFO  10:28:21,860 - #47 Nizovi
+INFO  10:28:21,860 - #19 :
+INFO  10:28:21,860 - #19 :
+INFO  10:28:21,860 - #47 nizch
+INFO  10:28:21,860 - #14 [
+INFO  10:28:21,860 - #46 0
+INFO  10:28:21,860 - #15 ]
+INFO  10:28:21,860 - #7 =
+INFO  10:28:21,860 - #48 'a'
+INFO  10:28:21,860 - #8 ;
+INFO  10:28:21,860 - #47 Nizovi
+INFO  10:28:21,860 - #19 :
+INFO  10:28:21,860 - #19 :
+INFO  10:28:21,860 - #47 nizch
+INFO  10:28:21,860 - #14 [
+INFO  10:28:21,860 - #47 Konstante
+INFO  10:28:21,860 - #19 :
+INFO  10:28:21,860 - #19 :
+INFO  10:28:21,861 - #47 jedan
+INFO  10:28:21,861 - #15 ]
+INFO  10:28:21,861 - #7 =
+INFO  10:28:21,861 - #48 'b'
+INFO  10:28:21,861 - #8 ;
+INFO  10:28:21,861 - #47 Nizovi
+INFO  10:28:21,861 - #19 :
+INFO  10:28:21,861 - #19 :
+INFO  10:28:21,861 - #47 nizch
+INFO  10:28:21,861 - #14 [
+INFO  10:28:21,861 - #47 Konstante
+INFO  10:28:21,861 - #19 :
+INFO  10:28:21,861 - #19 :
+INFO  10:28:21,861 - #47 pet
+INFO  10:28:21,861 - #3 -
+INFO  10:28:21,861 - #46 3
+INFO  10:28:21,866 - #15 ]
+INFO  10:28:21,866 - #7 =
+INFO  10:28:21,866 - #48 'c'
+INFO  10:28:21,866 - #8 ;
+INFO  10:28:21,866 - #24 print
+INFO  10:28:21,866 - #10 (
+INFO  10:28:21,866 - #47 Nizovi
+INFO  10:28:21,866 - #19 :
+INFO  10:28:21,866 - #19 :
+INFO  10:28:21,866 - #47 nizch
+INFO  10:28:21,866 - #14 [
+INFO  10:28:21,866 - #46 1
+INFO  10:28:21,866 - #15 ]
+INFO  10:28:21,866 - #13 )
+INFO  10:28:21,866 - #8 ;
+INFO  10:28:21,867 - #24 print
+INFO  10:28:21,867 - #10 (
+INFO  10:28:21,867 - #47 Nizovi
+INFO  10:28:21,867 - #19 :
+INFO  10:28:21,867 - #19 :
+INFO  10:28:21,867 - #47 nizch
+INFO  10:28:21,867 - #14 [
+INFO  10:28:21,867 - #47 Konstante
+INFO  10:28:21,867 - #19 :
+INFO  10:28:21,867 - #19 :
+INFO  10:28:21,867 - #47 jedan
+INFO  10:28:21,867 - #4 *
+INFO  10:28:21,867 - #46 2
+INFO  10:28:21,867 - #15 ]
+INFO  10:28:21,867 - #13 )
+INFO  10:28:21,867 - #8 ;
+INFO  10:28:21,867 - #47 a
+INFO  10:28:21,867 - #7 =
+INFO  10:28:21,867 - #46 1
+INFO  10:28:21,867 - #8 ;
+INFO  10:28:21,867 - #31 read
+INFO  10:28:21,867 - #10 (
+INFO  10:28:21,867 - #47 bodovi
+INFO  10:28:21,867 - #13 )
+INFO  10:28:21,867 - #8 ;
+INFO  10:28:21,867 - #47 bodovi
+INFO  10:28:21,867 - #7 =
+INFO  10:28:21,867 - #3 -
+INFO  10:28:21,867 - #47 bodovi
+INFO  10:28:21,867 - #2 +
+INFO  10:28:21,867 - #10 (
+INFO  10:28:21,867 - #47 Konstante
+INFO  10:28:21,868 - #19 :
+INFO  10:28:21,868 - #19 :
+INFO  10:28:21,868 - #47 pet
+INFO  10:28:21,868 - #4 *
+INFO  10:28:21,868 - #47 a
+INFO  10:28:21,868 - #5 /
+INFO  10:28:21,868 - #46 2
+INFO  10:28:21,868 - #3 -
+INFO  10:28:21,868 - #47 Konstante
+INFO  10:28:21,868 - #19 :
+INFO  10:28:21,868 - #19 :
+INFO  10:28:21,868 - #47 jedan
+INFO  10:28:21,868 - #13 )
+INFO  10:28:21,868 - #4 *
+INFO  10:28:21,868 - #47 bodovi
+INFO  10:28:21,868 - #3 -
+INFO  10:28:21,868 - #10 (
+INFO  10:28:21,868 - #46 3
+INFO  10:28:21,868 - #6 %
+INFO  10:28:21,868 - #46 2
+INFO  10:28:21,873 - #2 +
+INFO  10:28:21,873 - #46 3
+INFO  10:28:21,873 - #4 *
+INFO  10:28:21,873 - #46 2
+INFO  10:28:21,873 - #3 -
+INFO  10:28:21,873 - #46 3
+INFO  10:28:21,873 - #13 )
+INFO  10:28:21,873 - #8 ;
+INFO  10:28:21,873 - #24 print
+INFO  10:28:21,873 - #10 (
+INFO  10:28:21,873 - #47 bodovi
+INFO  10:28:21,873 - #13 )
+INFO  10:28:21,873 - #8 ;
+INFO  10:28:21,873 - #17 }
+INFO  10:28:21,873 - #17 }
+INFO  10:28:21,881 - Program(
+  Prog_id(
+   test301
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     Konstante
+      InitLists(
+        InitLists(
+          InitLists(
+            InitLists(
+              NoInitLists(
+              ) [NoInitLists]
+              ConstPart(
+                Const_dec(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                 nula
+                  IntInitializer(
+                   0
+                  ) [IntInitializer]
+                  NoConstLista(
+                  ) [NoConstLista]
+                ) [Const_dec]
+              ) [ConstPart]
+            ) [InitLists]
+            ConstPart(
+              Const_dec(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+               jedan
+                IntInitializer(
+                 1
+                ) [IntInitializer]
+                NoConstLista(
+                ) [NoConstLista]
+              ) [Const_dec]
+            ) [ConstPart]
+          ) [InitLists]
+          ErrorGlobalParamsSemi(
+          ) [ErrorGlobalParamsSemi]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+            VarOrArrayId(
+              VarArrayId(
+               nizch
+              ) [VarArrayId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      Var_dec(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+        VarOrArrayId(
+          VarId(
+           a
+          ) [VarId]
+        ) [VarOrArrayId]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  Methods(
+    NoMethods(
+    ) [NoMethods]
+    MethodDecVoid(
+     main
+      NoFormParsOpt(
+      ) [NoFormParsOpt]
+      YesVarList(
+        YesVarList(
+          NoVarList(
+          ) [NoVarList]
+          Var_dec(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+            VarOrArrayId(
+              VarId(
+               bodovi
+              ) [VarId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [YesVarList]
+        Var_dec(
+          OnceIdent(
+           bool
+          ) [OnceIdent]
+          VarOrArrayId(
+            VarId(
+             bt
+            ) [VarId]
+          ) [VarOrArrayId]
+        ) [Var_dec]
+      ) [YesVarList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      StmtList(
+                                        StmtList(
+                                          StmtList(
+                                            StmtList(
+                                              StmtList(
+                                                StmtList(
+                                                  StmtList(
+                                                    NoStmtList(
+                                                    ) [NoStmtList]
+                                                    StatementDesi(
+                                                      DesiAssign(
+                                                        ErrCheckDesiAsign(
+                                                          OnlyIdentDesig(
+                                                           bodovi
+                                                          ) [OnlyIdentDesig]
+                                                          AssignopDerived1(
+                                                          ) [AssignopDerived1]
+                                                          ExprNoMinus(
+                                                            TermExpr(
+                                                              Term(
+                                                                SimpleFactor(
+                                                                  FactNum(
+                                                                   0
+                                                                  ) [FactNum]
+                                                                ) [SimpleFactor]
+                                                              ) [Term]
+                                                            ) [TermExpr]
+                                                          ) [ExprNoMinus]
+                                                        ) [ErrCheckDesiAsign]
+                                                      ) [DesiAssign]
+                                                    ) [StatementDesi]
+                                                  ) [StmtList]
+                                                  StatementDesi(
+                                                    DesiPlusPlus(
+                                                      OnlyIdentDesig(
+                                                       bodovi
+                                                      ) [OnlyIdentDesig]
+                                                    ) [DesiPlusPlus]
+                                                  ) [StatementDesi]
+                                                ) [StmtList]
+                                                StatementDesi(
+                                                  DesiAssign(
+                                                    ErrCheckDesiAsign(
+                                                      OnlyIdentDesig(
+                                                       bodovi
+                                                      ) [OnlyIdentDesig]
+                                                      AssignopDerived1(
+                                                      ) [AssignopDerived1]
+                                                      ExprNoMinus(
+                                                        AddExpr(
+                                                          TermExpr(
+                                                            Term(
+                                                              SimpleFactor(
+                                                                FactDesiNoParen(
+                                                                  OnlyIdentDesig(
+                                                                   bodovi
+                                                                  ) [OnlyIdentDesig]
+                                                                ) [FactDesiNoParen]
+                                                              ) [SimpleFactor]
+                                                            ) [Term]
+                                                          ) [TermExpr]
+                                                          PlusOp(
+                                                          ) [PlusOp]
+                                                          Term(
+                                                            SimpleFactor(
+                                                              FactDesiNoParen(
+                                                                IdentDoubleDotIdent(
+                                                                 Konstante
+                                                                 jedan
+                                                                ) [IdentDoubleDotIdent]
+                                                              ) [FactDesiNoParen]
+                                                            ) [SimpleFactor]
+                                                          ) [Term]
+                                                        ) [AddExpr]
+                                                      ) [ExprNoMinus]
+                                                    ) [ErrCheckDesiAsign]
+                                                  ) [DesiAssign]
+                                                ) [StatementDesi]
+                                              ) [StmtList]
+                                              StatementDesi(
+                                                DesiAssign(
+                                                  ErrCheckDesiAsign(
+                                                    OnlyIdentDesig(
+                                                     bodovi
+                                                    ) [OnlyIdentDesig]
+                                                    AssignopDerived1(
+                                                    ) [AssignopDerived1]
+                                                    ExprNoMinus(
+                                                      TermExpr(
+                                                        Term(
+                                                          MulopFactor(
+                                                            SimpleFactor(
+                                                              FactDesiNoParen(
+                                                                OnlyIdentDesig(
+                                                                 bodovi
+                                                                ) [OnlyIdentDesig]
+                                                              ) [FactDesiNoParen]
+                                                            ) [SimpleFactor]
+                                                            TimesOp(
+                                                            ) [TimesOp]
+                                                            FactDesiNoParen(
+                                                              IdentDoubleDotIdent(
+                                                               Konstante
+                                                               pet
+                                                              ) [IdentDoubleDotIdent]
+                                                            ) [FactDesiNoParen]
+                                                          ) [MulopFactor]
+                                                        ) [Term]
+                                                      ) [TermExpr]
+                                                    ) [ExprNoMinus]
+                                                  ) [ErrCheckDesiAsign]
+                                                ) [DesiAssign]
+                                              ) [StatementDesi]
+                                            ) [StmtList]
+                                            StatementDesi(
+                                              DesiMinusMinus(
+                                                OnlyIdentDesig(
+                                                 bodovi
+                                                ) [OnlyIdentDesig]
+                                              ) [DesiMinusMinus]
+                                            ) [StatementDesi]
+                                          ) [StmtList]
+                                          StatementPrintNoNum(
+                                            ExprNoMinus(
+                                              TermExpr(
+                                                Term(
+                                                  SimpleFactor(
+                                                    FactDesiNoParen(
+                                                      OnlyIdentDesig(
+                                                       bodovi
+                                                      ) [OnlyIdentDesig]
+                                                    ) [FactDesiNoParen]
+                                                  ) [SimpleFactor]
+                                                ) [Term]
+                                              ) [TermExpr]
+                                            ) [ExprNoMinus]
+                                          ) [StatementPrintNoNum]
+                                        ) [StmtList]
+                                        StatementDesi(
+                                          DesiAssign(
+                                            ErrCheckDesiAsign(
+                                              IdentDoubleDotIdent(
+                                               Nizovi
+                                               niz
+                                              ) [IdentDoubleDotIdent]
+                                              AssignopDerived1(
+                                              ) [AssignopDerived1]
+                                              ExprNoMinus(
+                                                TermExpr(
+                                                  Term(
+                                                    SimpleFactor(
+                                                      FactNewExpr(
+                                                        OnceIdent(
+                                                         int
+                                                        ) [OnceIdent]
+                                                        ExprNoMinus(
+                                                          TermExpr(
+                                                            Term(
+                                                              SimpleFactor(
+                                                                FactNum(
+                                                                 3
+                                                                ) [FactNum]
+                                                              ) [SimpleFactor]
+                                                            ) [Term]
+                                                          ) [TermExpr]
+                                                        ) [ExprNoMinus]
+                                                      ) [FactNewExpr]
+                                                    ) [SimpleFactor]
+                                                  ) [Term]
+                                                ) [TermExpr]
+                                              ) [ExprNoMinus]
+                                            ) [ErrCheckDesiAsign]
+                                          ) [DesiAssign]
+                                        ) [StatementDesi]
+                                      ) [StmtList]
+                                      StatementDesi(
+                                        DesiAssign(
+                                          ErrCheckDesiAsign(
+                                            ExprPlusIdent(
+                                             Nizovi
+                                             niz
+                                              ExprNoMinus(
+                                                TermExpr(
+                                                  Term(
+                                                    SimpleFactor(
+                                                      FactDesiNoParen(
+                                                        IdentDoubleDotIdent(
+                                                         Konstante
+                                                         nula
+                                                        ) [IdentDoubleDotIdent]
+                                                      ) [FactDesiNoParen]
+                                                    ) [SimpleFactor]
+                                                  ) [Term]
+                                                ) [TermExpr]
+                                              ) [ExprNoMinus]
+                                            ) [ExprPlusIdent]
+                                            AssignopDerived1(
+                                            ) [AssignopDerived1]
+                                            ExprNoMinus(
+                                              TermExpr(
+                                                Term(
+                                                  SimpleFactor(
+                                                    FactDesiNoParen(
+                                                      IdentDoubleDotIdent(
+                                                       Konstante
+                                                       jedan
+                                                      ) [IdentDoubleDotIdent]
+                                                    ) [FactDesiNoParen]
+                                                  ) [SimpleFactor]
+                                                ) [Term]
+                                              ) [TermExpr]
+                                            ) [ExprNoMinus]
+                                          ) [ErrCheckDesiAsign]
+                                        ) [DesiAssign]
+                                      ) [StatementDesi]
+                                    ) [StmtList]
+                                    StatementDesi(
+                                      DesiAssign(
+                                        ErrCheckDesiAsign(
+                                          ExprPlusIdent(
+                                           Nizovi
+                                           niz
+                                            ExprNoMinus(
+                                              TermExpr(
+                                                Term(
+                                                  SimpleFactor(
+                                                    FactNum(
+                                                     1
+                                                    ) [FactNum]
+                                                  ) [SimpleFactor]
+                                                ) [Term]
+                                              ) [TermExpr]
+                                            ) [ExprNoMinus]
+                                          ) [ExprPlusIdent]
+                                          AssignopDerived1(
+                                          ) [AssignopDerived1]
+                                          ExprNoMinus(
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  FactNum(
+                                                   2
+                                                  ) [FactNum]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [ExprNoMinus]
+                                        ) [ErrCheckDesiAsign]
+                                      ) [DesiAssign]
+                                    ) [StatementDesi]
+                                  ) [StmtList]
+                                  StatementDesi(
+                                    DesiAssign(
+                                      ErrCheckDesiAsign(
+                                        ExprPlusIdent(
+                                         Nizovi
+                                         niz
+                                          ExprNoMinus(
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  FactDesiNoParen(
+                                                    ExprPlusIdent(
+                                                     Nizovi
+                                                     niz
+                                                      ExprNoMinus(
+                                                        TermExpr(
+                                                          Term(
+                                                            SimpleFactor(
+                                                              FactDesiNoParen(
+                                                                IdentDoubleDotIdent(
+                                                                 Konstante
+                                                                 jedan
+                                                                ) [IdentDoubleDotIdent]
+                                                              ) [FactDesiNoParen]
+                                                            ) [SimpleFactor]
+                                                          ) [Term]
+                                                        ) [TermExpr]
+                                                      ) [ExprNoMinus]
+                                                    ) [ExprPlusIdent]
+                                                  ) [FactDesiNoParen]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [ExprNoMinus]
+                                        ) [ExprPlusIdent]
+                                        AssignopDerived1(
+                                        ) [AssignopDerived1]
+                                        ExprNoMinus(
+                                          TermExpr(
+                                            Term(
+                                              MulopFactor(
+                                                SimpleFactor(
+                                                  FactDesiNoParen(
+                                                    ExprPlusIdent(
+                                                     Nizovi
+                                                     niz
+                                                      ExprNoMinus(
+                                                        TermExpr(
+                                                          Term(
+                                                            SimpleFactor(
+                                                              FactDesiNoParen(
+                                                                ExprPlusIdent(
+                                                                 Nizovi
+                                                                 niz
+                                                                  ExprNoMinus(
+                                                                    TermExpr(
+                                                                      Term(
+                                                                        SimpleFactor(
+                                                                          FactNum(
+                                                                           0
+                                                                          ) [FactNum]
+                                                                        ) [SimpleFactor]
+                                                                      ) [Term]
+                                                                    ) [TermExpr]
+                                                                  ) [ExprNoMinus]
+                                                                ) [ExprPlusIdent]
+                                                              ) [FactDesiNoParen]
+                                                            ) [SimpleFactor]
+                                                          ) [Term]
+                                                        ) [TermExpr]
+                                                      ) [ExprNoMinus]
+                                                    ) [ExprPlusIdent]
+                                                  ) [FactDesiNoParen]
+                                                ) [SimpleFactor]
+                                                TimesOp(
+                                                ) [TimesOp]
+                                                FactNum(
+                                                 3
+                                                ) [FactNum]
+                                              ) [MulopFactor]
+                                            ) [Term]
+                                          ) [TermExpr]
+                                        ) [ExprNoMinus]
+                                      ) [ErrCheckDesiAsign]
+                                    ) [DesiAssign]
+                                  ) [StatementDesi]
+                                ) [StmtList]
+                                StatementDesi(
+                                  DesiAssign(
+                                    ErrCheckDesiAsign(
+                                      OnlyIdentDesig(
+                                       bodovi
+                                      ) [OnlyIdentDesig]
+                                      AssignopDerived1(
+                                      ) [AssignopDerived1]
+                                      ExprNoMinus(
+                                        TermExpr(
+                                          Term(
+                                            MulopFactor(
+                                              SimpleFactor(
+                                                FactDesiNoParen(
+                                                  ExprPlusIdent(
+                                                   Nizovi
+                                                   niz
+                                                    ExprNoMinus(
+                                                      TermExpr(
+                                                        Term(
+                                                          SimpleFactor(
+                                                            FactNum(
+                                                             2
+                                                            ) [FactNum]
+                                                          ) [SimpleFactor]
+                                                        ) [Term]
+                                                      ) [TermExpr]
+                                                    ) [ExprNoMinus]
+                                                  ) [ExprPlusIdent]
+                                                ) [FactDesiNoParen]
+                                              ) [SimpleFactor]
+                                              DivOp(
+                                              ) [DivOp]
+                                              FactDesiNoParen(
+                                                ExprPlusIdent(
+                                                 Nizovi
+                                                 niz
+                                                  ExprNoMinus(
+                                                    TermExpr(
+                                                      Term(
+                                                        SimpleFactor(
+                                                          FactNum(
+                                                           0
+                                                          ) [FactNum]
+                                                        ) [SimpleFactor]
+                                                      ) [Term]
+                                                    ) [TermExpr]
+                                                  ) [ExprNoMinus]
+                                                ) [ExprPlusIdent]
+                                              ) [FactDesiNoParen]
+                                            ) [MulopFactor]
+                                          ) [Term]
+                                        ) [TermExpr]
+                                      ) [ExprNoMinus]
+                                    ) [ErrCheckDesiAsign]
+                                  ) [DesiAssign]
+                                ) [StatementDesi]
+                              ) [StmtList]
+                              StatementPrintNoNum(
+                                ExprNoMinus(
+                                  TermExpr(
+                                    Term(
+                                      SimpleFactor(
+                                        FactDesiNoParen(
+                                          OnlyIdentDesig(
+                                           bodovi
+                                          ) [OnlyIdentDesig]
+                                        ) [FactDesiNoParen]
+                                      ) [SimpleFactor]
+                                    ) [Term]
+                                  ) [TermExpr]
+                                ) [ExprNoMinus]
+                              ) [StatementPrintNoNum]
+                            ) [StmtList]
+                            StatementPrintNoNum(
+                              ExprNoMinus(
+                                TermExpr(
+                                  Term(
+                                    SimpleFactor(
+                                      FactDesiNoParen(
+                                        ExprPlusIdent(
+                                         Nizovi
+                                         niz
+                                          ExprNoMinus(
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  FactNum(
+                                                   2
+                                                  ) [FactNum]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [ExprNoMinus]
+                                        ) [ExprPlusIdent]
+                                      ) [FactDesiNoParen]
+                                    ) [SimpleFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                              ) [ExprNoMinus]
+                            ) [StatementPrintNoNum]
+                          ) [StmtList]
+                          StatementDesi(
+                            DesiAssign(
+                              ErrCheckDesiAsign(
+                                IdentDoubleDotIdent(
+                                 Nizovi
+                                 nizch
+                                ) [IdentDoubleDotIdent]
+                                AssignopDerived1(
+                                ) [AssignopDerived1]
+                                ExprNoMinus(
+                                  TermExpr(
+                                    Term(
+                                      SimpleFactor(
+                                        FactNewExpr(
+                                          OnceIdent(
+                                           char
+                                          ) [OnceIdent]
+                                          ExprNoMinus(
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  FactNum(
+                                                   3
+                                                  ) [FactNum]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [ExprNoMinus]
+                                        ) [FactNewExpr]
+                                      ) [SimpleFactor]
+                                    ) [Term]
+                                  ) [TermExpr]
+                                ) [ExprNoMinus]
+                              ) [ErrCheckDesiAsign]
+                            ) [DesiAssign]
+                          ) [StatementDesi]
+                        ) [StmtList]
+                        StatementDesi(
+                          DesiAssign(
+                            ErrCheckDesiAsign(
+                              ExprPlusIdent(
+                               Nizovi
+                               nizch
+                                ExprNoMinus(
+                                  TermExpr(
+                                    Term(
+                                      SimpleFactor(
+                                        FactNum(
+                                         0
+                                        ) [FactNum]
+                                      ) [SimpleFactor]
+                                    ) [Term]
+                                  ) [TermExpr]
+                                ) [ExprNoMinus]
+                              ) [ExprPlusIdent]
+                              AssignopDerived1(
+                              ) [AssignopDerived1]
+                              ExprNoMinus(
+                                TermExpr(
+                                  Term(
+                                    SimpleFactor(
+                                      FactChar(
+                                       'a'
+                                      ) [FactChar]
+                                    ) [SimpleFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                              ) [ExprNoMinus]
+                            ) [ErrCheckDesiAsign]
+                          ) [DesiAssign]
+                        ) [StatementDesi]
+                      ) [StmtList]
+                      StatementDesi(
+                        DesiAssign(
+                          ErrCheckDesiAsign(
+                            ExprPlusIdent(
+                             Nizovi
+                             nizch
+                              ExprNoMinus(
+                                TermExpr(
+                                  Term(
+                                    SimpleFactor(
+                                      FactDesiNoParen(
+                                        IdentDoubleDotIdent(
+                                         Konstante
+                                         jedan
+                                        ) [IdentDoubleDotIdent]
+                                      ) [FactDesiNoParen]
+                                    ) [SimpleFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                              ) [ExprNoMinus]
+                            ) [ExprPlusIdent]
+                            AssignopDerived1(
+                            ) [AssignopDerived1]
+                            ExprNoMinus(
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    FactChar(
+                                     'b'
+                                    ) [FactChar]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [ExprNoMinus]
+                          ) [ErrCheckDesiAsign]
+                        ) [DesiAssign]
+                      ) [StatementDesi]
+                    ) [StmtList]
+                    StatementDesi(
+                      DesiAssign(
+                        ErrCheckDesiAsign(
+                          ExprPlusIdent(
+                           Nizovi
+                           nizch
+                            ExprNoMinus(
+                              AddExpr(
+                                TermExpr(
+                                  Term(
+                                    SimpleFactor(
+                                      FactDesiNoParen(
+                                        IdentDoubleDotIdent(
+                                         Konstante
+                                         pet
+                                        ) [IdentDoubleDotIdent]
+                                      ) [FactDesiNoParen]
+                                    ) [SimpleFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                                MinusOp(
+                                ) [MinusOp]
+                                Term(
+                                  SimpleFactor(
+                                    FactNum(
+                                     3
+                                    ) [FactNum]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [AddExpr]
+                            ) [ExprNoMinus]
+                          ) [ExprPlusIdent]
+                          AssignopDerived1(
+                          ) [AssignopDerived1]
+                          ExprNoMinus(
+                            TermExpr(
+                              Term(
+                                SimpleFactor(
+                                  FactChar(
+                                   'c'
+                                  ) [FactChar]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [TermExpr]
+                          ) [ExprNoMinus]
+                        ) [ErrCheckDesiAsign]
+                      ) [DesiAssign]
+                    ) [StatementDesi]
+                  ) [StmtList]
+                  StatementPrintNoNum(
+                    ExprNoMinus(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            FactDesiNoParen(
+                              ExprPlusIdent(
+                               Nizovi
+                               nizch
+                                ExprNoMinus(
+                                  TermExpr(
+                                    Term(
+                                      SimpleFactor(
+                                        FactNum(
+                                         1
+                                        ) [FactNum]
+                                      ) [SimpleFactor]
+                                    ) [Term]
+                                  ) [TermExpr]
+                                ) [ExprNoMinus]
+                              ) [ExprPlusIdent]
+                            ) [FactDesiNoParen]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                    ) [ExprNoMinus]
+                  ) [StatementPrintNoNum]
+                ) [StmtList]
+                StatementPrintNoNum(
+                  ExprNoMinus(
+                    TermExpr(
+                      Term(
+                        SimpleFactor(
+                          FactDesiNoParen(
+                            ExprPlusIdent(
+                             Nizovi
+                             nizch
+                              ExprNoMinus(
+                                TermExpr(
+                                  Term(
+                                    MulopFactor(
+                                      SimpleFactor(
+                                        FactDesiNoParen(
+                                          IdentDoubleDotIdent(
+                                           Konstante
+                                           jedan
+                                          ) [IdentDoubleDotIdent]
+                                        ) [FactDesiNoParen]
+                                      ) [SimpleFactor]
+                                      TimesOp(
+                                      ) [TimesOp]
+                                      FactNum(
+                                       2
+                                      ) [FactNum]
+                                    ) [MulopFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                              ) [ExprNoMinus]
+                            ) [ExprPlusIdent]
+                          ) [FactDesiNoParen]
+                        ) [SimpleFactor]
+                      ) [Term]
+                    ) [TermExpr]
+                  ) [ExprNoMinus]
+                ) [StatementPrintNoNum]
+              ) [StmtList]
+              StatementDesi(
+                DesiAssign(
+                  ErrCheckDesiAsign(
+                    OnlyIdentDesig(
+                     a
+                    ) [OnlyIdentDesig]
+                    AssignopDerived1(
+                    ) [AssignopDerived1]
+                    ExprNoMinus(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            FactNum(
+                             1
+                            ) [FactNum]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                    ) [ExprNoMinus]
+                  ) [ErrCheckDesiAsign]
+                ) [DesiAssign]
+              ) [StatementDesi]
+            ) [StmtList]
+            StatementRead(
+              OnlyIdentDesig(
+               bodovi
+              ) [OnlyIdentDesig]
+            ) [StatementRead]
+          ) [StmtList]
+          StatementDesi(
+            DesiAssign(
+              ErrCheckDesiAsign(
+                OnlyIdentDesig(
+                 bodovi
+                ) [OnlyIdentDesig]
+                AssignopDerived1(
+                ) [AssignopDerived1]
+                ExprMinus(
+                  AddExpr(
+                    AddExpr(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            FactDesiNoParen(
+                              OnlyIdentDesig(
+                               bodovi
+                              ) [OnlyIdentDesig]
+                            ) [FactDesiNoParen]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                      PlusOp(
+                      ) [PlusOp]
+                      Term(
+                        MulopFactor(
+                          SimpleFactor(
+                            FactExpr(
+                              ExprNoMinus(
+                                AddExpr(
+                                  TermExpr(
+                                    Term(
+                                      MulopFactor(
+                                        MulopFactor(
+                                          SimpleFactor(
+                                            FactDesiNoParen(
+                                              IdentDoubleDotIdent(
+                                               Konstante
+                                               pet
+                                              ) [IdentDoubleDotIdent]
+                                            ) [FactDesiNoParen]
+                                          ) [SimpleFactor]
+                                          TimesOp(
+                                          ) [TimesOp]
+                                          FactDesiNoParen(
+                                            OnlyIdentDesig(
+                                             a
+                                            ) [OnlyIdentDesig]
+                                          ) [FactDesiNoParen]
+                                        ) [MulopFactor]
+                                        DivOp(
+                                        ) [DivOp]
+                                        FactNum(
+                                         2
+                                        ) [FactNum]
+                                      ) [MulopFactor]
+                                    ) [Term]
+                                  ) [TermExpr]
+                                  MinusOp(
+                                  ) [MinusOp]
+                                  Term(
+                                    SimpleFactor(
+                                      FactDesiNoParen(
+                                        IdentDoubleDotIdent(
+                                         Konstante
+                                         jedan
+                                        ) [IdentDoubleDotIdent]
+                                      ) [FactDesiNoParen]
+                                    ) [SimpleFactor]
+                                  ) [Term]
+                                ) [AddExpr]
+                              ) [ExprNoMinus]
+                            ) [FactExpr]
+                          ) [SimpleFactor]
+                          TimesOp(
+                          ) [TimesOp]
+                          FactDesiNoParen(
+                            OnlyIdentDesig(
+                             bodovi
+                            ) [OnlyIdentDesig]
+                          ) [FactDesiNoParen]
+                        ) [MulopFactor]
+                      ) [Term]
+                    ) [AddExpr]
+                    MinusOp(
+                    ) [MinusOp]
+                    Term(
+                      SimpleFactor(
+                        FactExpr(
+                          ExprNoMinus(
+                            AddExpr(
+                              AddExpr(
+                                TermExpr(
+                                  Term(
+                                    MulopFactor(
+                                      SimpleFactor(
+                                        FactNum(
+                                         3
+                                        ) [FactNum]
+                                      ) [SimpleFactor]
+                                      ModOP(
+                                      ) [ModOP]
+                                      FactNum(
+                                       2
+                                      ) [FactNum]
+                                    ) [MulopFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                                PlusOp(
+                                ) [PlusOp]
+                                Term(
+                                  MulopFactor(
+                                    SimpleFactor(
+                                      FactNum(
+                                       3
+                                      ) [FactNum]
+                                    ) [SimpleFactor]
+                                    TimesOp(
+                                    ) [TimesOp]
+                                    FactNum(
+                                     2
+                                    ) [FactNum]
+                                  ) [MulopFactor]
+                                ) [Term]
+                              ) [AddExpr]
+                              MinusOp(
+                              ) [MinusOp]
+                              Term(
+                                SimpleFactor(
+                                  FactNum(
+                                   3
+                                  ) [FactNum]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [AddExpr]
+                          ) [ExprNoMinus]
+                        ) [FactExpr]
+                      ) [SimpleFactor]
+                    ) [Term]
+                  ) [AddExpr]
+                ) [ExprMinus]
+              ) [ErrCheckDesiAsign]
+            ) [DesiAssign]
+          ) [StatementDesi]
+        ) [StmtList]
+        StatementPrintNoNum(
+          ExprNoMinus(
+            TermExpr(
+              Term(
+                SimpleFactor(
+                  FactDesiNoParen(
+                    OnlyIdentDesig(
+                     bodovi
+                    ) [OnlyIdentDesig]
+                  ) [FactDesiNoParen]
+                ) [SimpleFactor]
+              ) [Term]
+            ) [TermExpr]
+          ) [ExprNoMinus]
+        ) [StatementPrintNoNum]
+      ) [StmtList]
+    ) [MethodDecVoid]
+  ) [Methods]
+) [Program]
+INFO  10:28:21,882 - ===================================

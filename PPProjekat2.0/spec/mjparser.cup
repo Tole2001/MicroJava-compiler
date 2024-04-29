@@ -1,0 +1,351 @@
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+
+parser code {:
+     boolean errorDetected;
+
+    Logger log = Logger.getLogger(getClass());
+
+    // slede redefinisani metodi za prijavu gresaka radi izmene teksta poruke
+
+    public void report_fatal_error(String message, Object info) throws java.lang.Exception {
+      done_parsing();
+      report_error(message, info);
+    }
+
+    public void syntax_error(Symbol cur_token) {
+        report_error("\nSintaksna greska", cur_token);
+    }
+
+    public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception {
+        report_fatal_error("Fatalna greska, parsiranje se ne moze nastaviti", cur_token);
+    }
+
+    public void report_error(String message, Object info) {
+        errorDetected = true;
+        StringBuilder msg = new StringBuilder(message); 
+        if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left).append(", ").append(((Symbol)info).right);
+        log.error(msg.toString());
+    }
+:}
+
+init with {:
+    errorDetected = false;
+:}
+
+scan with {:
+    Symbol s = this.getScanner().next_token();
+    if (s != null && s.value != null) {
+        log.info(s.toString() + " " + s.value.toString());
+    }
+    return s;
+:}
+
+
+
+
+terminal PLUS, MINUS, MUL, DIV,MOD;
+terminal EQUAL, SEMI, COMMA, LPAREN,PROG,NAMESPACE;
+terminal RPAREN, LSQBRACE, RSQBRACE, LBRACE, RBRACE,ARROW,DOUBLEDOT,EXTENDS,CONST,THIS,CLASS;
+terminal PRINT, RETURN, VOID, FINAL, NEW,BREAK,CONTINUE,READ,MINUSMINUS,PLUSPLUS,OR,AND,DOT,FOR,STATIC;
+terminal LESS,GREATER,ELESS,EGREATER,EQUALSTO,DIFFERENT;
+terminal String BOOL;
+terminal Integer NUMBER;
+terminal String IDENT;
+terminal String CHAR;
+terminal IF, ELSE;
+
+nonterminal NamespaceList, MethodDeclList, InitList, VarList;  /* DEFINISI VARLIST */
+
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Program, ProgName, MethodTypeName, Method, InitPart, ConstDeclaration, NameSpaceName, NamespaceDecl;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj VarDeclaration, Designator, DesigAdditional, DesigName, DesigParts, DesignatorNameSpace, DesigNamespaceName;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Type, ConstVal, VarType, MethodType;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Assignop, Expr, Factor, Term;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct CondCheck, Condition, CondFact, CondTerm;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct ExprBody;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct AddTerm;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Statement, Matched, Unmatched;
+
+nonterminal VarL, ConstType, ConstL, OptionalArray, FieldList, DesignatorStatement;
+nonterminal Statements, FormalParam, FormParams, OptExpr;
+nonterminal Addop, Relop, Mulop, Label, OptMinus, OptNumPrint, FormParamList;
+nonterminal Else, If, UnmatchedFor, StaticInitializer, Methods;
+nonterminal OptActPartsOpt, ActPartsOpt, ActParts, DesiOptList, DesiOpt, NameSpaceBegin, ForL;
+nonterminal GlobalStart, VarListComma, Field, FormParamsComma, for_loop_one, for_loop_two, DesignatorStatementLocalList, VarPrt, for_loop_three;
+
+
+
+Program ::= (Program) PROG ProgName NamespaceList InitList  GlobalStart MethodDeclList RBRACE;
+
+GlobalStart ::= (GlobalStart) LBRACE;
+
+ProgName ::= (ProgName) IDENT:progName;
+
+
+NamespaceList ::= (NamespaceDecls) NamespaceList NamespaceDecl
+                |
+                 (NoNamespaceDecl)/*epsilon*/
+                ;
+                
+NamespaceDecl ::= (NamespaceDecl) NAMESPACE NameSpaceName NameSpaceBegin VarList LBRACE MethodDeclList RBRACE RBRACE;
+
+NameSpaceName ::= (NameSpaceName) IDENT:namespaceName;
+
+NameSpaceBegin ::= (NameSpaceBegin) LBRACE;
+ 			 
+
+
+VarList ::= (VarLists) VarList VarPrt
+		|
+		(NoVarLists) ;
+
+VarPrt ::= (ConstPartNamespace) CONST ConstType ConstL SEMI
+		 |
+		 (VarPartNamespace) VarType VarL SEMI;
+
+InitList ::= (InitLists) InitList InitPart 
+		 |
+		 (NoInitLists) /* epsilon */;
+		 
+InitPart ::=(ConstPart) CONST ConstType ConstL SEMI
+		 |
+		 (VarPart) VarType VarL SEMI
+		 |	
+		 error SEMI:l {: parser.report_error("Sintaksa greska deklaracije globalne promenljive na liniji " + lleft, null); :};
+		 
+		 
+VarType ::= (VarType) Type;
+
+ConstType ::= (ConstType) Type;
+
+Type ::=(OnceIdent) IDENT:id /* gotova */
+	 |
+	 (TwiceIdent) IDENT:a1 DOUBLEDOT DOUBLEDOT IDENT:a2; /* gotova */
+	 
+	 
+ConstL ::= (ConstListDecl) ConstL COMMA ConstDeclaration
+	   |	
+	   (ConstD) ConstDeclaration;
+	   
+ConstDeclaration ::= (ConstDeclaration) IDENT:constName EQUAL ConstVal:constVal;
+
+ConstVal ::= (NumConst) NUMBER
+		 |	
+		 (CharConst) CHAR
+		 |	
+		 (BoolConst) BOOL;
+		 
+VarL ::= (VarListDecl) VarListComma VarDeclaration
+	 |	
+	 (VarD) VarDeclaration;
+	 
+StaticInitializer ::= (StaticInit) STATIC LBRACE Statements RBRACE;
+	 
+VarListComma ::= (VarListCom) VarL COMMA
+			 | 	error COMMA:l {: parser.report_error("Sintaksa greska deklaracije promenljive na liniji " + lleft, null); :};
+			 
+VarDeclaration ::= (VarDeclaration) IDENT:varName OptionalArray;
+
+OptionalArray ::= (Array) LSQBRACE RSQBRACE
+			  |	(NoArray);
+	 
+MethodDeclList ::= (MethodDeclarations) MethodDeclList Method
+			   |	
+			   (NoMethodDecar);	 
+			   
+FieldList ::= (FieldDecls) Field FieldList
+					|	(NoFieldDecl);
+
+Field ::= (Fld)  VarType VarL SEMI 
+	  | 	error SEMI:l {: parser.report_error("Sintaksa greska field decl na liniji " + lleft, null); :};
+			   
+Method ::= (MethodDec) MethodTypeName FormParamList FieldList LBRACE Statements RBRACE;
+
+MethodTypeName ::= (MethodTypeName) MethodType IDENT:methName;
+
+FormParamList ::= (FormParamL) LPAREN FormParams RPAREN
+			  |	(NoFromParam) LPAREN RPAREN
+			  |  LPAREN error RPAREN:l {: parser.report_error("Izvrsen oporavak do ) formalni parametar u liniji " + lleft, null); :} ;
+
+FormParams ::= (FormParametrs) FormParamsComma FormalParam
+		   |	(FormPar) FormalParam;
+					
+FormParamsComma ::= (FormParamsCom) FormParams COMMA
+			    | 	error COMMA:l {: parser.report_error("Izvrsen oporavak do , formalni parametar u liniji " + lleft, null); :};
+					
+FormalParam ::= (FormalPar) Type IDENT:formalParamName OptionalArray;
+
+MethodType ::= (TVoid) VOID
+		   |	(MType) Type;
+	 
+Statement ::= (MatchedStm) Matched
+		  |	(UnmatchedStm) Unmatched;
+		  
+Unmatched ::= (UnmatchedIf) If CondCheck Statement
+		  |	(UnmatchedElse) If CondCheck Matched Else Unmatched
+		  | (StatementForUnmatched) ForL LPAREN for_loop_one SEMI for_loop_two SEMI for_loop_one RPAREN Unmatched;
+		  
+If ::= (If) IF;
+Else ::= (Else) ELSE;
+		  
+		  
+CondCheck ::= (CondCond) LPAREN Condition RPAREN
+		  |	error RPAREN:l  {: parser.report_error("Sintaksna greska u uslovu na liniji " + lleft, null); :};
+
+Matched ::= (StatementD) DesignatorStatement SEMI
+		| 	
+		error SEMI:l {: parser.report_error("Izvrsen oporavak zbog lose dodele do ; u liniji " + lleft, null); :}
+		|	
+		(StatementIf) If CondCheck Matched Else Matched
+		|	
+		(StatementBreak) BREAK SEMI
+		|	
+		(StatementContinue) CONTINUE SEMI
+		|	
+		(StatementReturn) RETURN OptExpr SEMI
+		| 	
+		(StatementRead) READ LPAREN Designator RPAREN SEMI
+		|	
+		(StatementPrint) PRINT LPAREN Expr OptNumPrint RPAREN SEMI
+		|	
+		(StatementStatement) LBRACE Statements RBRACE
+		|
+		(StatementForMatched) ForL LPAREN for_loop_one SEMI for_loop_two SEMI for_loop_one RPAREN Matched;
+		
+		
+
+ForL ::= (ForL) FOR;
+		
+Statements ::= (StatementsNew) Statements Statement
+		   |	(NoStatements);
+
+for_loop_one ::= (ForLoopOnes) DesignatorStatement DesignatorStatementLocalList
+			 |
+			 (NoForLoopOnes) /* epsilon */ ;
+			 
+for_loop_two ::= (ForLoopTwos) CondFact
+			 |
+			 (NoForLoopTwos) /* epsilon */ ;
+			 
+
+			 
+DesignatorStatementLocalList ::= (DesStmtList) COMMA DesignatorStatement DesignatorStatementLocalList
+							 |
+							 (NoDesStmtList)/* epsilon */ ;
+	
+	
+DesiOptList ::=(DesiOptLst) DesiOpt COMMA DesiOptList
+			|
+			(NoDesiOptLst) /* epsilon */;
+			
+DesiOpt ::=(YesDesi) Designator
+		|
+		(NoDesi) /* epsilon*/;							 
+							 
+							 
+DesignatorStatement ::= (DesigAssign) Designator Assignop Expr
+					| 	(DesigMethod) Designator LPAREN ActPartsOpt RPAREN 
+					|	(DesigPlusPlus) Designator PLUSPLUS
+					|	(DesigMinusMinus) Designator MINUSMINUS
+					|(DesiDesi) LSQBRACE DesiOptList MUL Designator RSQBRACE EQUAL Designator;
+							 
+							 
+Designator ::= (Designator)  DesigName DesigAdditional;
+
+
+
+		   
+		   
+
+
+
+DesigName ::= (DesigNameO) IDENT:desigName
+		  | (DesigNameD) NameSpaceName DOUBLEDOT DOUBLEDOT IDENT:desigName;
+		  
+DesigNamespaceName ::=(DesigNamespaceName) IDENT:namespaceName;
+
+DesigAdditional ::= (DesigAddit) DesigAdditional DesigParts
+				|	(NoDesigAddit);
+
+DesigParts ::= (DesigId) DOT IDENT:partName
+			|	(DesigArr) LSQBRACE Expr RSQBRACE;
+					
+OptActPartsOpt ::= (OActPO) LPAREN ActPartsOpt RPAREN
+				|	(NoOptActParts);
+							 
+ActPartsOpt	::= (ActPartsO) ActParts
+			|	(NoActParts);
+
+ActParts  ::= (ActPartsC) ActParts COMMA Expr
+		  |	(ActPartsE) Expr;							 
+							 
+AddTerm	 ::= (AddTermA) AddTerm Addop Term
+		 |	(NoAddTerm);
+		 
+		 
+Factor ::= (FactorDes) Designator OptActPartsOpt
+		|	(FactorConst) ConstVal
+		| 	(FactorNewClass) NEW Type LPAREN ActPartsOpt RPAREN /* ISTO SUTRA DODAJ VISIT */
+		|	(FactorNewArray) NEW Type LSQBRACE Expr RSQBRACE
+		|	(FactorExpr) LPAREN Expr RPAREN;
+		
+Term ::= (TermM) Term Mulop Factor 
+	 |	(TermF) Factor;
+
+
+
+Condition ::= (ConditionC) Condition OR CondTerm
+		  |	(ConditionT) CondTerm;
+
+CondTerm ::= (CondTermC) CondTerm AND CondFact
+		 |	(CondTermT) CondFact;
+
+CondFact ::= (CondFactE) Expr
+		 |	(CondFactR) Expr Relop Expr;
+							 
+OptExpr ::= (ExprO) Expr
+		| 	(NoExpr);
+
+Expr ::= (ExprAdd) Expr Addop Term
+      |
+      (ExprMinus) MINUS Term
+      |
+      (ExprNoMinus) Term;
+
+ExprBody ::= (ExprNonT) OptMinus Term AddTerm;
+
+OptNumPrint ::= (NumberPrint) COMMA NUMBER
+			|	(NoNumPrint);
+
+OptMinus ::= (OptMin) MINUS
+     	 |	(NoMinus);
+
+Assignop ::= (AssignOpE) EQUAL;
+
+Addop ::=(PlusOp) PLUS 
+	    | 
+	   (MinusOp) MINUS;
+
+Relop ::=(EqualsTo) EQUALSTO
+	  |
+	  (Differnt) DIFFERENT
+	  |
+	  (GreaterThen) GREATER
+	  |
+	  (GreaterThenEqual)EGREATER
+	  |
+	  (LessThen) LESS
+	  |
+	  (LessThenEqual) ELESS;
+	  
+Mulop ::= (TimesOp) MUL 
+		|
+		(ModOP) MOD
+	    | 
+        (DivOp) DIV;
+        
+Label ::= IDENT; 
+

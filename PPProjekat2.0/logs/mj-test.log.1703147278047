@@ -1,0 +1,17 @@
+INFO  09:27:47,938 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:27:47,967 - #11 program
+INFO  09:27:47,967 - #47 test302
+INFO  09:27:47,968 - #16 {
+INFO  09:27:47,968 - #17 }
+INFO  09:27:47,969 - Program(
+  Prog_id(
+   test302
+  ) [Prog_id]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  NoInitLists(
+  ) [NoInitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  09:27:47,969 - ===================================

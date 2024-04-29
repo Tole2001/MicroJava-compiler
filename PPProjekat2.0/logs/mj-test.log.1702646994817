@@ -1,0 +1,15 @@
+INFO  14:27:18,773 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  14:27:18,777 - #11 program
+INFO  14:27:18,777 - #47 mojProgram
+INFO  14:27:18,777 - #16 {
+INFO  14:27:18,778 - #17 }
+INFO  14:27:18,778 - Program(
+ mojProgram
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  InitListDerived1(
+  ) [InitListDerived1]
+  MethodDeclListDerived1(
+  ) [MethodDeclListDerived1]
+) [Program]
+INFO  14:27:18,779 - ===================================

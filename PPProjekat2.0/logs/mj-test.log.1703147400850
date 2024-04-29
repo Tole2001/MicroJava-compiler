@@ -1,0 +1,261 @@
+INFO  09:29:42,072 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:29:42,100 - #11 program
+INFO  09:29:42,100 - #47 test302
+INFO  09:29:42,100 - #12 namespace
+INFO  09:29:42,101 - #47 Addition
+INFO  09:29:42,101 - #16 {
+INFO  09:29:42,101 - #16 {
+INFO  09:29:42,101 - #47 int
+INFO  09:29:42,101 - #47 sum
+INFO  09:29:42,102 - #10 (
+INFO  09:29:42,102 - #47 int
+INFO  09:29:42,102 - #47 z
+INFO  09:29:42,102 - #9 ,
+INFO  09:29:42,102 - #47 int
+INFO  09:29:42,102 - #47 d
+INFO  09:29:42,102 - #13 )
+INFO  09:29:42,103 - #16 {
+INFO  09:29:42,103 - #25 return
+INFO  09:29:42,103 - #47 z
+INFO  09:29:42,103 - #2 +
+ERROR 09:29:42,103 - 
+Sintaksna greska na liniji 11, 11
+INFO  09:29:42,105 - #47 d
+INFO  09:29:42,105 - #8 ;
+INFO  09:29:42,105 - #17 }
+INFO  09:29:42,105 - #47 int
+INFO  09:29:42,105 - #47 inkrement
+ERROR 09:29:42,105 - Izvrsen oporavak zbog lose dodele do ; u liniji 11
+INFO  09:29:42,106 - #10 (
+INFO  09:29:42,106 - #47 int
+INFO  09:29:42,106 - #47 a
+INFO  09:29:42,106 - #9 ,
+INFO  09:29:42,106 - #47 int
+INFO  09:29:42,106 - #47 inc
+INFO  09:29:42,106 - #13 )
+INFO  09:29:42,106 - #47 int
+INFO  09:29:42,106 - #47 pom
+INFO  09:29:42,106 - #8 ;
+INFO  09:29:42,107 - #16 {
+INFO  09:29:42,107 - #17 }
+INFO  09:29:42,107 - #17 }
+INFO  09:29:42,107 - #17 }
+INFO  09:29:42,107 - #12 namespace
+INFO  09:29:42,107 - #47 Unpacking
+INFO  09:29:42,107 - #16 {
+INFO  09:29:42,107 - #47 int
+INFO  09:29:42,107 - #47 niz
+INFO  09:29:42,107 - #14 [
+INFO  09:29:42,108 - #15 ]
+INFO  09:29:42,108 - #9 ,
+INFO  09:29:42,108 - #47 niz2
+INFO  09:29:42,108 - #14 [
+INFO  09:29:42,108 - #15 ]
+INFO  09:29:42,108 - #9 ,
+INFO  09:29:42,108 - #47 niz3
+INFO  09:29:42,108 - #14 [
+INFO  09:29:42,108 - #15 ]
+INFO  09:29:42,108 - #8 ;
+INFO  09:29:42,108 - #47 int
+INFO  09:29:42,108 - #47 a
+INFO  09:29:42,108 - #9 ,
+INFO  09:29:42,109 - #47 b
+INFO  09:29:42,109 - #8 ;
+INFO  09:29:42,109 - #16 {
+INFO  09:29:42,109 - #17 }
+INFO  09:29:42,109 - #17 }
+INFO  09:29:42,109 - #16 {
+INFO  09:29:42,109 - #17 }
+INFO  09:29:42,110 - Program(
+  Prog_id(
+   test302
+  ) [Prog_id]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+       Addition
+        NoInitLists(
+        ) [NoInitLists]
+        Methods(
+          Methods(
+            NoMethods(
+            ) [NoMethods]
+            MethodDecType(
+              MethodName(
+                MType(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                ) [MType]
+               sum
+              ) [MethodName]
+              FormParsOpt(
+                FormalParameters(
+                  FormParsCma(
+                    FormalParameter(
+                      Param(
+                        OnceIdent(
+                         int
+                        ) [OnceIdent]
+                       z
+                        NoArray(
+                        ) [NoArray]
+                      ) [Param]
+                    ) [FormalParameter]
+                  ) [FormParsCma]
+                  Param(
+                    OnceIdent(
+                     int
+                    ) [OnceIdent]
+                   d
+                    NoArray(
+                    ) [NoArray]
+                  ) [Param]
+                ) [FormalParameters]
+              ) [FormParsOpt]
+              NoVarList(
+              ) [NoVarList]
+              StmtList(
+                NoStmtList(
+                ) [NoStmtList]
+                StatementDerived1(
+                ) [StatementDerived1]
+              ) [StmtList]
+            ) [MethodDecType]
+          ) [Methods]
+          MethodDecType(
+            MethodName(
+              MType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [MType]
+             inkrement
+            ) [MethodName]
+            FormParsOpt(
+              FormalParameters(
+                FormParsCma(
+                  FormalParameter(
+                    Param(
+                      OnceIdent(
+                       int
+                      ) [OnceIdent]
+                     a
+                      NoArray(
+                      ) [NoArray]
+                    ) [Param]
+                  ) [FormalParameter]
+                ) [FormParsCma]
+                Param(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                 inc
+                  NoArray(
+                  ) [NoArray]
+                ) [Param]
+              ) [FormalParameters]
+            ) [FormParsOpt]
+            YesVarList(
+              NoVarList(
+              ) [NoVarList]
+              Var_dec(
+                VarType(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                ) [VarType]
+                VarOrArrayId(
+                  VarId(
+                   pom
+                    NoArray(
+                    ) [NoArray]
+                  ) [VarId]
+                ) [VarOrArrayId]
+              ) [Var_dec]
+            ) [YesVarList]
+            NoStmtList(
+            ) [NoStmtList]
+          ) [MethodDecType]
+        ) [Methods]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+     Unpacking
+      InitLists(
+        InitLists(
+          NoInitLists(
+          ) [NoInitLists]
+          VarPart(
+            Var_dec(
+              VarType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [VarType]
+              VarIdList(
+                VarListCm(
+                  VarIdList(
+                    VarListCm(
+                      VarOrArrayId(
+                        VarId(
+                         niz
+                          Array(
+                          ) [Array]
+                        ) [VarId]
+                      ) [VarOrArrayId]
+                    ) [VarListCm]
+                    VarId(
+                     niz2
+                      Array(
+                      ) [Array]
+                    ) [VarId]
+                  ) [VarIdList]
+                ) [VarListCm]
+                VarId(
+                 niz3
+                  Array(
+                  ) [Array]
+                ) [VarId]
+              ) [VarIdList]
+            ) [Var_dec]
+          ) [VarPart]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarIdList(
+              VarListCm(
+                VarOrArrayId(
+                  VarId(
+                   a
+                    NoArray(
+                    ) [NoArray]
+                  ) [VarId]
+                ) [VarOrArrayId]
+              ) [VarListCm]
+              VarId(
+               b
+                NoArray(
+                ) [NoArray]
+              ) [VarId]
+            ) [VarIdList]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  NoInitLists(
+  ) [NoInitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  09:29:42,110 - ===================================

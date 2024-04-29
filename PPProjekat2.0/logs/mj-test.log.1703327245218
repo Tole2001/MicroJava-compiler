@@ -1,0 +1,28 @@
+INFO  11:27:14,804 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  11:27:14,833 - #11 program
+INFO  11:27:14,834 - #47 test301
+INFO  11:27:14,834 - #12 namespace
+INFO  11:27:14,834 - #47 Konstante
+INFO  11:27:14,834 - #16 {
+INFO  11:27:14,835 - #21 const
+INFO  11:27:14,835 - #47 int
+INFO  11:27:14,835 - #47 nula
+INFO  11:27:14,836 - #7 =
+INFO  11:27:14,836 - #46 0
+INFO  11:27:14,836 - #8 ;
+INFO  11:27:14,836 - #21 const
+INFO  11:27:14,836 - #47 int
+INFO  11:27:14,836 - #47 jedan
+INFO  11:27:14,836 - #7 =
+INFO  11:27:14,836 - #46 1
+INFO  11:27:14,836 - #8 ;
+INFO  11:27:14,837 - #21 const
+INFO  11:27:14,837 - #47 int
+INFO  11:27:14,837 - #47 pet
+INFO  11:27:14,837 - #7 =
+INFO  11:27:14,838 - #46 5
+INFO  11:27:14,838 - #8 ;
+INFO  11:27:14,838 - #17 }
+ERROR 11:27:14,838 - 
+Sintaksna greska na liniji 9, 0
+ERROR 11:27:14,838 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9, 0

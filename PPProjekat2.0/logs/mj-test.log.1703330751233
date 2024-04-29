@@ -1,0 +1,147 @@
+INFO  12:25:38,482 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  12:25:38,512 - #11 program
+INFO  12:25:38,512 - #47 test301
+INFO  12:25:38,512 - #12 namespace
+INFO  12:25:38,513 - #47 Konstante
+INFO  12:25:38,513 - #16 {
+INFO  12:25:38,514 - #21 const
+INFO  12:25:38,514 - #47 int
+INFO  12:25:38,514 - #47 nula
+INFO  12:25:38,515 - #7 =
+INFO  12:25:38,515 - #46 0
+INFO  12:25:38,515 - #8 ;
+INFO  12:25:38,515 - #21 const
+INFO  12:25:38,515 - #47 int
+INFO  12:25:38,515 - #47 jedan
+INFO  12:25:38,515 - #7 =
+INFO  12:25:38,515 - #46 1
+INFO  12:25:38,516 - #8 ;
+INFO  12:25:38,516 - #21 const
+INFO  12:25:38,516 - #47 int
+INFO  12:25:38,516 - #47 pet
+INFO  12:25:38,516 - #7 =
+INFO  12:25:38,516 - #46 5
+INFO  12:25:38,516 - #8 ;
+INFO  12:25:38,516 - #16 {
+INFO  12:25:38,516 - #17 }
+INFO  12:25:38,517 - #17 }
+INFO  12:25:38,517 - #47 int
+INFO  12:25:38,517 - #47 a
+INFO  12:25:38,518 - #8 ;
+INFO  12:25:38,518 - #16 {
+INFO  12:25:38,519 - #26 void
+INFO  12:25:38,519 - #47 main
+INFO  12:25:38,519 - #10 (
+INFO  12:25:38,520 - #13 )
+INFO  12:25:38,520 - #16 {
+INFO  12:25:38,520 - #17 }
+INFO  12:25:38,520 - #17 }
+INFO  12:25:38,521 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      NameSpaceName(
+       Konstante
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        VarLists(
+          VarLists(
+            NoVarLists(
+            ) [NoVarLists]
+            ConstPartNamespace(
+              ConstType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [ConstType]
+              ConstD(
+                ConstDeclaration(
+                 nula
+                  NumConst(
+                   0
+                  ) [NumConst]
+                ) [ConstDeclaration]
+              ) [ConstD]
+            ) [ConstPartNamespace]
+          ) [VarLists]
+          ConstPartNamespace(
+            ConstType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [ConstType]
+            ConstD(
+              ConstDeclaration(
+               jedan
+                NumConst(
+                 1
+                ) [NumConst]
+              ) [ConstDeclaration]
+            ) [ConstD]
+          ) [ConstPartNamespace]
+        ) [VarLists]
+        ConstPartNamespace(
+          ConstType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [ConstType]
+          ConstD(
+            ConstDeclaration(
+             pet
+              NumConst(
+               5
+              ) [NumConst]
+            ) [ConstDeclaration]
+          ) [ConstD]
+        ) [ConstPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  12:25:38,521 - ===================================

@@ -1,0 +1,22 @@
+INFO  09:41:16,815 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:41:17,576 - #11 program
+INFO  09:41:17,576 - #47 test301
+INFO  09:41:17,576 - #16 {
+INFO  09:41:17,592 - #17 }
+INFO  09:41:17,606 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  NoInitLists(
+  ) [NoInitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  NoMethodDecar(
+  ) [NoMethodDecar]
+) [Program]
+INFO  09:41:17,606 - ===================================
+ERROR 09:41:17,622 - ne postoji void main() globalna funkcija na liniji 3
+INFO  09:41:17,622 - ===================================
+ERROR 09:41:17,622 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,62 @@
+INFO  11:04:42,946 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  11:04:42,978 - #11 program
+INFO  11:04:42,978 - #47 test301
+INFO  11:04:42,978 - #47 int
+INFO  11:04:42,979 - #47 a
+INFO  11:04:42,979 - #8 ;
+INFO  11:04:42,980 - #16 {
+INFO  11:04:42,980 - #26 void
+INFO  11:04:42,981 - #47 main
+INFO  11:04:42,981 - #10 (
+INFO  11:04:42,981 - #13 )
+INFO  11:04:42,981 - #16 {
+INFO  11:04:42,982 - #17 }
+INFO  11:04:42,982 - #17 }
+INFO  11:04:42,985 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:04:42,986 - ===================================
+INFO  11:04:42,988 - postoji ispravan main na liniji 3
+INFO  11:04:42,989 - ===================================
+INFO  11:04:42,989 - Parsiranje uspesno zavrseno!

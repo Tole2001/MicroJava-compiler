@@ -1,0 +1,53 @@
+INFO  13:09:07,284 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  13:09:07,315 - #11 program
+INFO  13:09:07,315 - #47 mojProgram
+INFO  13:09:07,315 - #12 namespace
+INFO  13:09:07,316 - #47 sizes
+INFO  13:09:07,316 - #16 {
+INFO  13:09:07,316 - #21 const
+INFO  13:09:07,316 - #47 int
+INFO  13:09:07,316 - #47 tableSize
+INFO  13:09:07,317 - #7 =
+INFO  13:09:07,317 - #46 10
+INFO  13:09:07,317 - #8 ;
+INFO  13:09:07,317 - #16 {
+INFO  13:09:07,318 - #17 }
+INFO  13:09:07,318 - #17 }
+INFO  13:09:07,318 - #47 Table
+INFO  13:09:07,318 - #47 val
+INFO  13:09:07,319 - #8 ;
+INFO  13:09:07,319 - #47 int
+INFO  13:09:07,319 - #47 rows
+INFO  13:09:07,319 - #9 ,
+INFO  13:09:07,319 - #47 columns
+INFO  13:09:07,319 - #8 ;
+INFO  13:09:07,320 - #16 {
+INFO  13:09:07,320 - #26 void
+INFO  13:09:07,320 - #47 main
+INFO  13:09:07,320 - #10 (
+INFO  13:09:07,320 - #13 )
+ERROR 13:09:07,320 - 
+Sintaksna greska na liniji 11, 11
+INFO  13:09:07,320 - #47 int
+INFO  13:09:07,320 - #47 x
+INFO  13:09:07,320 - #9 ,
+INFO  13:09:07,320 - #47 i
+INFO  13:09:07,320 - #8 ;
+INFO  13:09:07,320 - #47 char
+INFO  13:09:07,320 - #47 c
+INFO  13:09:07,320 - #9 ,
+ERROR 13:09:07,320 - Sintaksa greska deklaracije globalne promenljive na liniji 9
+INFO  13:09:07,321 - #47 int
+INFO  13:09:07,321 - #14 [
+INFO  13:09:07,321 - #15 ]
+INFO  13:09:07,321 - #47 arr
+ERROR 13:09:07,321 - 
+Sintaksna greska na liniji 11, 37
+INFO  13:09:07,321 - #8 ;
+INFO  13:09:07,321 - #16 {
+INFO  13:09:07,321 - #17 }
+INFO  13:09:07,321 - #17 }
+ERROR 13:09:07,321 - Sintaksa greska deklaracije globalne promenljive na liniji 11
+ERROR 13:09:07,321 - 
+Sintaksna greska na liniji 14, 0
+ERROR 13:09:07,321 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14, 1

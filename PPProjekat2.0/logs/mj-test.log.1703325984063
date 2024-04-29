@@ -1,0 +1,99 @@
+INFO  11:05:47,632 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  11:05:47,664 - #11 program
+INFO  11:05:47,664 - #47 test301
+INFO  11:05:47,664 - #47 int
+INFO  11:05:47,665 - #47 a
+INFO  11:05:47,666 - #8 ;
+INFO  11:05:47,667 - #16 {
+INFO  11:05:47,667 - #26 void
+INFO  11:05:47,667 - #47 main
+INFO  11:05:47,668 - #10 (
+INFO  11:05:47,668 - #13 )
+INFO  11:05:47,668 - #16 {
+INFO  11:05:47,669 - #47 a
+INFO  11:05:47,669 - #7 =
+INFO  11:05:47,670 - #46 0
+INFO  11:05:47,671 - #8 ;
+INFO  11:05:47,671 - #17 }
+INFO  11:05:47,672 - #17 }
+INFO  11:05:47,675 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      StatementsNew(
+        NoStatements(
+        ) [NoStatements]
+        MatchedStm(
+          StatementD(
+            DesigAssign(
+              Designator(
+                DesigName(
+                 a
+                ) [DesigName]
+                NoDesigAddit(
+                ) [NoDesigAddit]
+              ) [Designator]
+              AssignOpE(
+              ) [AssignOpE]
+              ExprOpt(
+                ExprNonT(
+                  NoMinus(
+                  ) [NoMinus]
+                  TermF(
+                    FactorConst(
+                      NumConst(
+                       0
+                      ) [NumConst]
+                    ) [FactorConst]
+                  ) [TermF]
+                  NoAddTerm(
+                  ) [NoAddTerm]
+                ) [ExprNonT]
+              ) [ExprOpt]
+            ) [DesigAssign]
+          ) [StatementD]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:05:47,677 - ===================================
+INFO  11:05:47,680 - Pristup promenljivoj a na liniji 11
+INFO  11:05:47,680 - postoji ispravan main na liniji 3
+INFO  11:05:47,680 - ===================================
+INFO  11:05:47,681 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,81 @@
+INFO  10:02:20,943 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  10:02:21,010 - #11 program
+INFO  10:02:21,010 - #47 test301
+INFO  10:02:21,010 - #12 namespace
+INFO  10:02:21,011 - #47 Konstante
+INFO  10:02:21,011 - #16 {
+INFO  10:02:21,011 - #16 {
+INFO  10:02:21,012 - #17 }
+INFO  10:02:21,012 - #17 }
+INFO  10:02:21,012 - #47 int
+INFO  10:02:21,013 - #47 a
+INFO  10:02:21,013 - #8 ;
+INFO  10:02:21,014 - #16 {
+INFO  10:02:21,014 - #26 void
+INFO  10:02:21,014 - #47 main
+INFO  10:02:21,015 - #10 (
+INFO  10:02:21,015 - #13 )
+INFO  10:02:21,015 - #16 {
+INFO  10:02:21,016 - #17 }
+INFO  10:02:21,016 - #17 }
+INFO  10:02:21,019 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      NameSpaceName(
+       Konstante
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      NoVarLists(
+      ) [NoVarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:02:21,019 - ===================================
+INFO  10:02:21,029 - postoji ispravan main na liniji 3
+INFO  10:02:21,029 - ===================================
+INFO  10:02:21,030 - Parsiranje uspesno zavrseno!

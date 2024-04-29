@@ -1,0 +1,76 @@
+INFO  09:27:37,569 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:27:37,600 - #11 program
+INFO  09:27:37,600 - #47 test302
+INFO  09:27:37,600 - #12 namespace
+INFO  09:27:37,600 - #47 Addition
+INFO  09:27:37,600 - #16 {
+INFO  09:27:37,601 - #16 {
+INFO  09:27:37,601 - #47 int
+INFO  09:27:37,601 - #47 sum
+INFO  09:27:37,601 - #10 (
+INFO  09:27:37,602 - #47 int
+INFO  09:27:37,602 - #47 z
+INFO  09:27:37,602 - #9 ,
+INFO  09:27:37,602 - #47 int
+INFO  09:27:37,602 - #47 d
+INFO  09:27:37,602 - #13 )
+INFO  09:27:37,602 - #16 {
+INFO  09:27:37,603 - #25 return
+INFO  09:27:37,603 - #47 z
+INFO  09:27:37,603 - #2 +
+ERROR 09:27:37,603 - 
+Sintaksna greska na liniji 11, 11
+INFO  09:27:37,605 - #47 d
+INFO  09:27:37,605 - #8 ;
+INFO  09:27:37,605 - #17 }
+INFO  09:27:37,605 - #47 int
+INFO  09:27:37,605 - #47 inkrement
+ERROR 09:27:37,605 - Izvrsen oporavak zbog lose dodele do ; u liniji 11
+INFO  09:27:37,606 - #10 (
+INFO  09:27:37,606 - #47 int
+INFO  09:27:37,606 - #47 a
+INFO  09:27:37,606 - #9 ,
+INFO  09:27:37,606 - #47 int
+INFO  09:27:37,606 - #47 inc
+INFO  09:27:37,606 - #13 )
+INFO  09:27:37,606 - #47 int
+INFO  09:27:37,606 - #47 pom
+INFO  09:27:37,606 - #8 ;
+INFO  09:27:37,607 - #16 {
+INFO  09:27:37,607 - #49 if
+INFO  09:27:37,607 - #10 (
+INFO  09:27:37,607 - #47 inc
+INFO  09:27:37,607 - #43 ==
+ERROR 09:27:37,607 - 
+Sintaksna greska na liniji 18, 9
+INFO  09:27:37,607 - #46 1
+INFO  09:27:37,607 - #13 )
+INFO  09:27:37,607 - #47 pom
+INFO  09:27:37,608 - #7 =
+INFO  09:27:37,608 - #46 1
+INFO  09:27:37,608 - #8 ;
+INFO  09:27:37,608 - #50 else
+INFO  09:27:37,608 - #49 if
+INFO  09:27:37,608 - #10 (
+INFO  09:27:37,608 - #47 inc
+INFO  09:27:37,608 - #43 ==
+INFO  09:27:37,608 - #46 2
+INFO  09:27:37,608 - #13 )
+INFO  09:27:37,608 - #47 pom
+INFO  09:27:37,608 - #7 =
+INFO  09:27:37,608 - #47 a
+INFO  09:27:37,608 - #8 ;
+INFO  09:27:37,608 - #25 return
+INFO  09:27:37,608 - #47 sum
+INFO  09:27:37,608 - #10 (
+INFO  09:27:37,608 - #47 a
+INFO  09:27:37,608 - #9 ,
+INFO  09:27:37,608 - #47 pom
+INFO  09:27:37,608 - #13 )
+INFO  09:27:37,608 - #8 ;
+INFO  09:27:37,608 - #17 }
+INFO  09:27:37,608 - #17 }
+INFO  09:27:37,608 - #17 }
+INFO  09:27:37,608 - #16 {
+INFO  09:27:37,609 - #17 }
+ERROR 09:27:37,609 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 29, 1

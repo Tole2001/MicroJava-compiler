@@ -1,0 +1,209 @@
+INFO  11:06:24,066 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  11:06:24,098 - #11 program
+INFO  11:06:24,098 - #47 test301
+INFO  11:06:24,099 - #47 int
+INFO  11:06:24,099 - #47 a
+INFO  11:06:24,100 - #8 ;
+INFO  11:06:24,101 - #16 {
+INFO  11:06:24,101 - #26 void
+INFO  11:06:24,101 - #47 main
+INFO  11:06:24,102 - #10 (
+INFO  11:06:24,102 - #13 )
+INFO  11:06:24,102 - #16 {
+INFO  11:06:24,103 - #47 a
+INFO  11:06:24,103 - #7 =
+INFO  11:06:24,104 - #46 0
+INFO  11:06:24,105 - #8 ;
+INFO  11:06:24,106 - #49 if
+INFO  11:06:24,106 - #10 (
+INFO  11:06:24,106 - #47 a
+INFO  11:06:24,107 - #43 ==
+INFO  11:06:24,107 - #46 3
+INFO  11:06:24,107 - #13 )
+INFO  11:06:24,108 - #24 print
+INFO  11:06:24,126 - #10 (
+INFO  11:06:24,126 - #3 -
+INFO  11:06:24,126 - #46 4
+INFO  11:06:24,126 - #13 )
+INFO  11:06:24,127 - #8 ;
+INFO  11:06:24,127 - #50 else
+INFO  11:06:24,127 - #24 print
+INFO  11:06:24,127 - #10 (
+INFO  11:06:24,127 - #46 4
+INFO  11:06:24,127 - #13 )
+INFO  11:06:24,127 - #8 ;
+INFO  11:06:24,127 - #17 }
+INFO  11:06:24,127 - #17 }
+INFO  11:06:24,131 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      StatementsNew(
+        StatementsNew(
+          NoStatements(
+          ) [NoStatements]
+          MatchedStm(
+            StatementD(
+              DesigAssign(
+                Designator(
+                  DesigName(
+                   a
+                  ) [DesigName]
+                  NoDesigAddit(
+                  ) [NoDesigAddit]
+                ) [Designator]
+                AssignOpE(
+                ) [AssignOpE]
+                ExprOpt(
+                  ExprNonT(
+                    NoMinus(
+                    ) [NoMinus]
+                    TermF(
+                      FactorConst(
+                        NumConst(
+                         0
+                        ) [NumConst]
+                      ) [FactorConst]
+                    ) [TermF]
+                    NoAddTerm(
+                    ) [NoAddTerm]
+                  ) [ExprNonT]
+                ) [ExprOpt]
+              ) [DesigAssign]
+            ) [StatementD]
+          ) [MatchedStm]
+        ) [StatementsNew]
+        MatchedStm(
+          StatementIf(
+            If(
+            ) [If]
+            CondCond(
+              ConditionT(
+                CondTermT(
+                  CondFactR(
+                    ExprNonT(
+                      NoMinus(
+                      ) [NoMinus]
+                      TermF(
+                        FactorDes(
+                          Designator(
+                            DesigName(
+                             a
+                            ) [DesigName]
+                            NoDesigAddit(
+                            ) [NoDesigAddit]
+                          ) [Designator]
+                          NoOptActParts(
+                          ) [NoOptActParts]
+                        ) [FactorDes]
+                      ) [TermF]
+                      NoAddTerm(
+                      ) [NoAddTerm]
+                    ) [ExprNonT]
+                    EqualsTo(
+                    ) [EqualsTo]
+                    ExprNonT(
+                      NoMinus(
+                      ) [NoMinus]
+                      TermF(
+                        FactorConst(
+                          NumConst(
+                           3
+                          ) [NumConst]
+                        ) [FactorConst]
+                      ) [TermF]
+                      NoAddTerm(
+                      ) [NoAddTerm]
+                    ) [ExprNonT]
+                  ) [CondFactR]
+                ) [CondTermT]
+              ) [ConditionT]
+            ) [CondCond]
+            StatementPrint(
+              ExprOpt(
+                ExprNonT(
+                  OptMin(
+                  ) [OptMin]
+                  TermF(
+                    FactorConst(
+                      NumConst(
+                       4
+                      ) [NumConst]
+                    ) [FactorConst]
+                  ) [TermF]
+                  NoAddTerm(
+                  ) [NoAddTerm]
+                ) [ExprNonT]
+              ) [ExprOpt]
+              NoNumPrint(
+              ) [NoNumPrint]
+            ) [StatementPrint]
+            Else(
+            ) [Else]
+            StatementPrint(
+              ExprOpt(
+                ExprNonT(
+                  NoMinus(
+                  ) [NoMinus]
+                  TermF(
+                    FactorConst(
+                      NumConst(
+                       4
+                      ) [NumConst]
+                    ) [FactorConst]
+                  ) [TermF]
+                  NoAddTerm(
+                  ) [NoAddTerm]
+                ) [ExprNonT]
+              ) [ExprOpt]
+              NoNumPrint(
+              ) [NoNumPrint]
+            ) [StatementPrint]
+          ) [StatementIf]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:06:24,131 - ===================================
+INFO  11:06:24,134 - Pristup promenljivoj a na liniji 11
+INFO  11:06:24,134 - Pristup promenljivoj a na liniji 12
+INFO  11:06:24,134 - Dobar uslov na liniji 4
+INFO  11:06:24,134 - postoji ispravan main na liniji 3
+INFO  11:06:24,134 - ===================================
+INFO  11:06:24,134 - Parsiranje uspesno zavrseno!

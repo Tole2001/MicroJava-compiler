@@ -1,0 +1,95 @@
+INFO  12:41:44,236 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  12:41:44,268 - #11 program
+INFO  12:41:44,268 - #47 test301
+INFO  12:41:44,268 - #12 namespace
+INFO  12:41:44,268 - #47 Nizovi
+INFO  12:41:44,268 - #16 {
+INFO  12:41:44,268 - #47 int
+INFO  12:41:44,269 - #47 niz
+INFO  12:41:44,269 - #14 [
+INFO  12:41:44,269 - #15 ]
+INFO  12:41:44,269 - #8 ;
+INFO  12:41:44,270 - #47 char
+INFO  12:41:44,270 - #47 nizch
+INFO  12:41:44,270 - #14 [
+INFO  12:41:44,270 - #15 ]
+INFO  12:41:44,270 - #8 ;
+INFO  12:41:44,270 - #16 {
+INFO  12:41:44,270 - #17 }
+INFO  12:41:44,271 - #17 }
+INFO  12:41:44,271 - #47 int
+INFO  12:41:44,271 - #47 a
+INFO  12:41:44,272 - #8 ;
+INFO  12:41:44,273 - #16 {
+INFO  12:41:44,273 - #17 }
+INFO  12:41:44,274 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     Nizovi
+      VarLists(
+        VarLists(
+          NoVarLists(
+          ) [NoVarLists]
+          VarPartNamespace(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               niz
+                Array(
+                ) [Array]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [VarPartNamespace]
+        ) [VarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             nizch
+              Array(
+              ) [Array]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  NoMethodDecar(
+  ) [NoMethodDecar]
+) [Program]
+INFO  12:41:44,274 - ===================================

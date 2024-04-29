@@ -1,0 +1,56 @@
+INFO  13:03:08,731 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  13:03:08,761 - #11 program
+INFO  13:03:08,761 - #47 mojProgram
+INFO  13:03:08,761 - #12 namespace
+INFO  13:03:08,761 - #47 belo
+INFO  13:03:08,762 - #16 {
+INFO  13:03:08,762 - #16 {
+INFO  13:03:08,762 - #17 }
+INFO  13:03:08,762 - #17 }
+INFO  13:03:08,762 - #47 int
+INFO  13:03:08,763 - #47 rows
+INFO  13:03:08,763 - #9 ,
+INFO  13:03:08,763 - #47 columns
+INFO  13:03:08,763 - #8 ;
+INFO  13:03:08,763 - #16 {
+INFO  13:03:08,763 - #17 }
+INFO  13:03:08,764 - Program(
+  Prog_id(
+   mojProgram
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     belo
+      NoInitLists(
+      ) [NoInitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      Var_dec(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+        VarIdList(
+          VarOrArrayId(
+            VarId(
+             rows
+            ) [VarId]
+          ) [VarOrArrayId]
+          VarId(
+           columns
+          ) [VarId]
+        ) [VarIdList]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  13:03:08,765 - ===================================

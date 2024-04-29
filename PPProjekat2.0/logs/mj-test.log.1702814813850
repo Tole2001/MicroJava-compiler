@@ -1,0 +1,53 @@
+INFO  13:06:31,040 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  13:06:31,068 - #11 program
+INFO  13:06:31,068 - #47 mojProgram
+INFO  13:06:31,069 - #12 namespace
+INFO  13:06:31,069 - #47 sizes
+INFO  13:06:31,069 - #16 {
+INFO  13:06:31,069 - #21 const
+INFO  13:06:31,070 - #47 int
+INFO  13:06:31,070 - #47 tableSize
+INFO  13:06:31,070 - #7 =
+INFO  13:06:31,070 - #46 10
+INFO  13:06:31,070 - #8 ;
+INFO  13:06:31,070 - #16 {
+INFO  13:06:31,071 - #17 }
+INFO  13:06:31,071 - #17 }
+INFO  13:06:31,071 - #16 {
+INFO  13:06:31,071 - #17 }
+INFO  13:06:31,072 - Program(
+  Prog_id(
+   mojProgram
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     sizes
+      InitLists(
+        NoInitLists(
+        ) [NoInitLists]
+        ConstPart(
+          Const_dec(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+           tableSize
+            IntInitializer(
+             10
+            ) [IntInitializer]
+            NoConstLista(
+            ) [NoConstLista]
+          ) [Const_dec]
+        ) [ConstPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  NoInitLists(
+  ) [NoInitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  13:06:31,073 - ===================================

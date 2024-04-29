@@ -1,0 +1,213 @@
+INFO  11:12:33,643 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  11:12:33,674 - #11 program
+INFO  11:12:33,674 - #47 test301
+INFO  11:12:33,674 - #12 namespace
+INFO  11:12:33,675 - #47 Konstante
+INFO  11:12:33,675 - #16 {
+INFO  11:12:33,675 - #21 const
+INFO  11:12:33,676 - #47 int
+INFO  11:12:33,676 - #47 nula
+INFO  11:12:33,676 - #7 =
+INFO  11:12:33,676 - #46 0
+INFO  11:12:33,676 - #8 ;
+INFO  11:12:33,677 - #21 const
+INFO  11:12:33,677 - #47 int
+INFO  11:12:33,677 - #47 jedan
+INFO  11:12:33,677 - #7 =
+INFO  11:12:33,677 - #46 1
+INFO  11:12:33,677 - #8 ;
+INFO  11:12:33,677 - #21 const
+INFO  11:12:33,677 - #47 int
+INFO  11:12:33,677 - #47 pet
+INFO  11:12:33,678 - #7 =
+INFO  11:12:33,679 - #46 5
+INFO  11:12:33,679 - #8 ;
+INFO  11:12:33,679 - #16 {
+INFO  11:12:33,679 - #17 }
+INFO  11:12:33,679 - #17 }
+INFO  11:12:33,679 - #12 namespace
+INFO  11:12:33,680 - #47 Nizovi
+INFO  11:12:33,680 - #16 {
+INFO  11:12:33,680 - #47 int
+INFO  11:12:33,680 - #47 niz
+INFO  11:12:33,680 - #14 [
+INFO  11:12:33,680 - #15 ]
+INFO  11:12:33,680 - #8 ;
+INFO  11:12:33,681 - #47 char
+INFO  11:12:33,681 - #47 nizch
+INFO  11:12:33,681 - #14 [
+INFO  11:12:33,681 - #15 ]
+INFO  11:12:33,681 - #8 ;
+INFO  11:12:33,681 - #16 {
+INFO  11:12:33,681 - #17 }
+INFO  11:12:33,681 - #17 }
+INFO  11:12:33,682 - #47 int
+INFO  11:12:33,682 - #47 a
+INFO  11:12:33,682 - #8 ;
+INFO  11:12:33,682 - #16 {
+INFO  11:12:33,682 - #26 void
+INFO  11:12:33,683 - #47 main
+INFO  11:12:33,683 - #10 (
+INFO  11:12:33,683 - #13 )
+INFO  11:12:33,683 - #16 {
+INFO  11:12:33,684 - #17 }
+INFO  11:12:33,684 - #17 }
+INFO  11:12:33,688 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+        NameSpaceName(
+         Konstante
+        ) [NameSpaceName]
+        NameSpaceBegin(
+        ) [NameSpaceBegin]
+        VarLists(
+          VarLists(
+            VarLists(
+              NoVarLists(
+              ) [NoVarLists]
+              ConstPartNamespace(
+                ConstType(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                ) [ConstType]
+                ConstD(
+                  ConstDeclaration(
+                   nula
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstDeclaration]
+                ) [ConstD]
+              ) [ConstPartNamespace]
+            ) [VarLists]
+            ConstPartNamespace(
+              ConstType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [ConstType]
+              ConstD(
+                ConstDeclaration(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstDeclaration]
+              ) [ConstD]
+            ) [ConstPartNamespace]
+          ) [VarLists]
+          ConstPartNamespace(
+            ConstType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [ConstType]
+            ConstD(
+              ConstDeclaration(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstDeclaration]
+            ) [ConstD]
+          ) [ConstPartNamespace]
+        ) [VarLists]
+        NoMethodDecar(
+        ) [NoMethodDecar]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+      NameSpaceName(
+       Nizovi
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        VarLists(
+          NoVarLists(
+          ) [NoVarLists]
+          VarPartNamespace(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               niz
+                Array(
+                ) [Array]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [VarPartNamespace]
+        ) [VarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             nizch
+              Array(
+              ) [Array]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:12:33,688 - ===================================
+INFO  11:12:33,690 - Roditelj je namespace Decl na liniji 5
+INFO  11:12:33,690 - Roditelj je namespace Decl na liniji 12
+INFO  11:12:33,691 - postoji ispravan main na liniji 3
+INFO  11:12:33,691 - ===================================
+INFO  11:12:33,691 - Parsiranje uspesno zavrseno!

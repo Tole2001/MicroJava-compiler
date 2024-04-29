@@ -1,0 +1,403 @@
+INFO  09:28:54,771 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:28:54,801 - #11 program
+INFO  09:28:54,801 - #47 test302
+INFO  09:28:54,801 - #12 namespace
+INFO  09:28:54,801 - #47 Addition
+INFO  09:28:54,801 - #16 {
+INFO  09:28:54,802 - #16 {
+INFO  09:28:54,802 - #47 int
+INFO  09:28:54,802 - #47 sum
+INFO  09:28:54,802 - #10 (
+INFO  09:28:54,802 - #47 int
+INFO  09:28:54,802 - #47 z
+INFO  09:28:54,802 - #9 ,
+INFO  09:28:54,803 - #47 int
+INFO  09:28:54,803 - #47 d
+INFO  09:28:54,803 - #13 )
+INFO  09:28:54,803 - #16 {
+INFO  09:28:54,803 - #25 return
+INFO  09:28:54,803 - #47 z
+INFO  09:28:54,804 - #2 +
+INFO  09:28:54,804 - #47 d
+INFO  09:28:54,805 - #8 ;
+INFO  09:28:54,806 - #17 }
+INFO  09:28:54,806 - #47 int
+INFO  09:28:54,806 - #47 inkrement
+INFO  09:28:54,806 - #10 (
+INFO  09:28:54,806 - #47 int
+INFO  09:28:54,807 - #47 a
+INFO  09:28:54,807 - #9 ,
+INFO  09:28:54,807 - #47 int
+INFO  09:28:54,807 - #47 inc
+INFO  09:28:54,807 - #13 )
+INFO  09:28:54,807 - #47 int
+INFO  09:28:54,807 - #47 pom
+INFO  09:28:54,807 - #8 ;
+INFO  09:28:54,807 - #16 {
+INFO  09:28:54,807 - #25 return
+INFO  09:28:54,807 - #47 sum
+INFO  09:28:54,807 - #10 (
+INFO  09:28:54,808 - #47 a
+INFO  09:28:54,808 - #9 ,
+INFO  09:28:54,808 - #47 pom
+INFO  09:28:54,808 - #13 )
+INFO  09:28:54,808 - #8 ;
+INFO  09:28:54,808 - #17 }
+INFO  09:28:54,808 - #17 }
+INFO  09:28:54,808 - #17 }
+INFO  09:28:54,808 - #12 namespace
+INFO  09:28:54,809 - #47 Unpacking
+INFO  09:28:54,809 - #16 {
+INFO  09:28:54,809 - #47 int
+INFO  09:28:54,809 - #47 niz
+INFO  09:28:54,809 - #14 [
+INFO  09:28:54,809 - #15 ]
+INFO  09:28:54,809 - #9 ,
+INFO  09:28:54,809 - #47 niz2
+INFO  09:28:54,809 - #14 [
+INFO  09:28:54,809 - #15 ]
+INFO  09:28:54,809 - #9 ,
+INFO  09:28:54,809 - #47 niz3
+INFO  09:28:54,809 - #14 [
+INFO  09:28:54,809 - #15 ]
+INFO  09:28:54,809 - #8 ;
+INFO  09:28:54,809 - #47 int
+INFO  09:28:54,810 - #47 a
+INFO  09:28:54,810 - #9 ,
+INFO  09:28:54,810 - #47 b
+INFO  09:28:54,810 - #8 ;
+INFO  09:28:54,810 - #16 {
+INFO  09:28:54,810 - #17 }
+INFO  09:28:54,810 - #17 }
+INFO  09:28:54,810 - #47 int
+INFO  09:28:54,810 - #47 i
+INFO  09:28:54,810 - #8 ;
+INFO  09:28:54,810 - #47 bool
+INFO  09:28:54,810 - #47 ibool
+INFO  09:28:54,810 - #8 ;
+INFO  09:28:54,810 - #47 int
+INFO  09:28:54,810 - #47 niz2
+INFO  09:28:54,810 - #8 ;
+INFO  09:28:54,810 - #47 int
+INFO  09:28:54,810 - #47 niz
+INFO  09:28:54,810 - #14 [
+INFO  09:28:54,810 - #15 ]
+INFO  09:28:54,810 - #8 ;
+INFO  09:28:54,811 - #47 int
+INFO  09:28:54,811 - #47 a
+INFO  09:28:54,811 - #9 ,
+INFO  09:28:54,811 - #47 curr
+INFO  09:28:54,811 - #8 ;
+INFO  09:28:54,811 - #16 {
+INFO  09:28:54,811 - #17 }
+INFO  09:28:54,812 - Program(
+  Prog_id(
+   test302
+  ) [Prog_id]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+       Addition
+        NoInitLists(
+        ) [NoInitLists]
+        Methods(
+          Methods(
+            NoMethods(
+            ) [NoMethods]
+            MethodDecType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+             sum
+              FormParsOpt(
+                FormalParameters(
+                  FormParsCma(
+                    FormalParameter(
+                      NotArrayParam(
+                        OnceIdent(
+                         int
+                        ) [OnceIdent]
+                       z
+                      ) [NotArrayParam]
+                    ) [FormalParameter]
+                  ) [FormParsCma]
+                  NotArrayParam(
+                    OnceIdent(
+                     int
+                    ) [OnceIdent]
+                   d
+                  ) [NotArrayParam]
+                ) [FormalParameters]
+              ) [FormParsOpt]
+              NoVarList(
+              ) [NoVarList]
+              StmtList(
+                NoStmtList(
+                ) [NoStmtList]
+                StatementReturnExpr(
+                  ExprNoMinus(
+                    AddExpr(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            FactDesiNoParen(
+                              OnlyIdentDesig(
+                               z
+                              ) [OnlyIdentDesig]
+                            ) [FactDesiNoParen]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                      PlusOp(
+                      ) [PlusOp]
+                      Term(
+                        SimpleFactor(
+                          FactDesiNoParen(
+                            OnlyIdentDesig(
+                             d
+                            ) [OnlyIdentDesig]
+                          ) [FactDesiNoParen]
+                        ) [SimpleFactor]
+                      ) [Term]
+                    ) [AddExpr]
+                  ) [ExprNoMinus]
+                ) [StatementReturnExpr]
+              ) [StmtList]
+            ) [MethodDecType]
+          ) [Methods]
+          MethodDecType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+           inkrement
+            FormParsOpt(
+              FormalParameters(
+                FormParsCma(
+                  FormalParameter(
+                    NotArrayParam(
+                      OnceIdent(
+                       int
+                      ) [OnceIdent]
+                     a
+                    ) [NotArrayParam]
+                  ) [FormalParameter]
+                ) [FormParsCma]
+                NotArrayParam(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                 inc
+                ) [NotArrayParam]
+              ) [FormalParameters]
+            ) [FormParsOpt]
+            YesVarList(
+              NoVarList(
+              ) [NoVarList]
+              Var_dec(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+                VarOrArrayId(
+                  VarId(
+                   pom
+                  ) [VarId]
+                ) [VarOrArrayId]
+              ) [Var_dec]
+            ) [YesVarList]
+            StmtList(
+              NoStmtList(
+              ) [NoStmtList]
+              StatementReturnExpr(
+                ExprNoMinus(
+                  TermExpr(
+                    Term(
+                      SimpleFactor(
+                        FactDesi(
+                          OnlyIdentDesig(
+                           sum
+                          ) [OnlyIdentDesig]
+                          ActPars(
+                            Expressions(
+                              Expression(
+                                ExprNoMinus(
+                                  TermExpr(
+                                    Term(
+                                      SimpleFactor(
+                                        FactDesiNoParen(
+                                          OnlyIdentDesig(
+                                           a
+                                          ) [OnlyIdentDesig]
+                                        ) [FactDesiNoParen]
+                                      ) [SimpleFactor]
+                                    ) [Term]
+                                  ) [TermExpr]
+                                ) [ExprNoMinus]
+                              ) [Expression]
+                              ExprNoMinus(
+                                TermExpr(
+                                  Term(
+                                    SimpleFactor(
+                                      FactDesiNoParen(
+                                        OnlyIdentDesig(
+                                         pom
+                                        ) [OnlyIdentDesig]
+                                      ) [FactDesiNoParen]
+                                    ) [SimpleFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                              ) [ExprNoMinus]
+                            ) [Expressions]
+                          ) [ActPars]
+                        ) [FactDesi]
+                      ) [SimpleFactor]
+                    ) [Term]
+                  ) [TermExpr]
+                ) [ExprNoMinus]
+              ) [StatementReturnExpr]
+            ) [StmtList]
+          ) [MethodDecType]
+        ) [Methods]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+     Unpacking
+      InitLists(
+        InitLists(
+          NoInitLists(
+          ) [NoInitLists]
+          VarPart(
+            Var_dec(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+              VarIdList(
+                VarListCm(
+                  VarIdList(
+                    VarListCm(
+                      VarOrArrayId(
+                        VarArrayId(
+                         niz
+                        ) [VarArrayId]
+                      ) [VarOrArrayId]
+                    ) [VarListCm]
+                    VarArrayId(
+                     niz2
+                    ) [VarArrayId]
+                  ) [VarIdList]
+                ) [VarListCm]
+                VarArrayId(
+                 niz3
+                ) [VarArrayId]
+              ) [VarIdList]
+            ) [Var_dec]
+          ) [VarPart]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+            VarIdList(
+              VarListCm(
+                VarOrArrayId(
+                  VarId(
+                   a
+                  ) [VarId]
+                ) [VarOrArrayId]
+              ) [VarListCm]
+              VarId(
+               b
+              ) [VarId]
+            ) [VarIdList]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    InitLists(
+      InitLists(
+        InitLists(
+          InitLists(
+            NoInitLists(
+            ) [NoInitLists]
+            VarPart(
+              Var_dec(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+                VarOrArrayId(
+                  VarId(
+                   i
+                  ) [VarId]
+                ) [VarOrArrayId]
+              ) [Var_dec]
+            ) [VarPart]
+          ) [InitLists]
+          VarPart(
+            Var_dec(
+              OnceIdent(
+               bool
+              ) [OnceIdent]
+              VarOrArrayId(
+                VarId(
+                 ibool
+                ) [VarId]
+              ) [VarOrArrayId]
+            ) [Var_dec]
+          ) [VarPart]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+            VarOrArrayId(
+              VarId(
+               niz2
+              ) [VarId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      VarPart(
+        Var_dec(
+          OnceIdent(
+           int
+          ) [OnceIdent]
+          VarOrArrayId(
+            VarArrayId(
+             niz
+            ) [VarArrayId]
+          ) [VarOrArrayId]
+        ) [Var_dec]
+      ) [VarPart]
+    ) [InitLists]
+    VarPart(
+      Var_dec(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+        VarIdList(
+          VarListCm(
+            VarOrArrayId(
+              VarId(
+               a
+              ) [VarId]
+            ) [VarOrArrayId]
+          ) [VarListCm]
+          VarId(
+           curr
+          ) [VarId]
+        ) [VarIdList]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  09:28:54,812 - ===================================

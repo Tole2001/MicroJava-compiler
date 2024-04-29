@@ -1,0 +1,147 @@
+INFO  13:22:45,343 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  13:22:45,371 - #11 program
+INFO  13:22:45,371 - #47 mojProgram
+INFO  13:22:45,371 - #12 namespace
+INFO  13:22:45,371 - #47 sizes
+INFO  13:22:45,371 - #16 {
+INFO  13:22:45,371 - #21 const
+INFO  13:22:45,372 - #47 int
+INFO  13:22:45,372 - #47 tableSize
+INFO  13:22:45,372 - #7 =
+INFO  13:22:45,372 - #46 10
+INFO  13:22:45,372 - #8 ;
+INFO  13:22:45,373 - #16 {
+INFO  13:22:45,373 - #17 }
+INFO  13:22:45,373 - #17 }
+INFO  13:22:45,373 - #47 Table
+INFO  13:22:45,374 - #47 val
+INFO  13:22:45,374 - #8 ;
+INFO  13:22:45,374 - #47 int
+INFO  13:22:45,374 - #47 rows
+INFO  13:22:45,374 - #9 ,
+INFO  13:22:45,374 - #47 columns
+INFO  13:22:45,375 - #8 ;
+INFO  13:22:45,375 - #16 {
+INFO  13:22:45,375 - #26 void
+INFO  13:22:45,375 - #47 f
+INFO  13:22:45,375 - #10 (
+INFO  13:22:45,375 - #47 char
+INFO  13:22:45,375 - #47 ch
+INFO  13:22:45,375 - #9 ,
+INFO  13:22:45,375 - #47 int
+INFO  13:22:45,375 - #47 a
+INFO  13:22:45,375 - #9 ,
+INFO  13:22:45,376 - #47 int
+INFO  13:22:45,376 - #47 arg
+INFO  13:22:45,376 - #13 )
+INFO  13:22:45,376 - #16 {
+INFO  13:22:45,376 - #17 }
+INFO  13:22:45,376 - #17 }
+INFO  13:22:45,377 - Program(
+  Prog_id(
+   mojProgram
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     sizes
+      InitLists(
+        NoInitLists(
+        ) [NoInitLists]
+        ConstPart(
+          Const_dec(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+           tableSize
+            IntInitializer(
+             10
+            ) [IntInitializer]
+            NoConstLista(
+            ) [NoConstLista]
+          ) [Const_dec]
+        ) [ConstPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    InitLists(
+      NoInitLists(
+      ) [NoInitLists]
+      VarPart(
+        Var_dec(
+          OnceIdent(
+           Table
+          ) [OnceIdent]
+          VarOrArrayId(
+            VarId(
+             val
+            ) [VarId]
+          ) [VarOrArrayId]
+        ) [Var_dec]
+      ) [VarPart]
+    ) [InitLists]
+    VarPart(
+      Var_dec(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+        VarIdList(
+          VarOrArrayId(
+            VarId(
+             rows
+            ) [VarId]
+          ) [VarOrArrayId]
+          VarId(
+           columns
+          ) [VarId]
+        ) [VarIdList]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  Methods(
+    NoMethods(
+    ) [NoMethods]
+    MethodDecVoid(
+     f
+      FormParsOpt(
+        FormalParameters(
+          FormParsCma(
+            FormalParameters(
+              FormParsCma(
+                FormalParameter(
+                  NotArrayParam(
+                    OnceIdent(
+                     char
+                    ) [OnceIdent]
+                   ch
+                  ) [NotArrayParam]
+                ) [FormalParameter]
+              ) [FormParsCma]
+              NotArrayParam(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+               a
+              ) [NotArrayParam]
+            ) [FormalParameters]
+          ) [FormParsCma]
+          NotArrayParam(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+           arg
+          ) [NotArrayParam]
+        ) [FormalParameters]
+      ) [FormParsOpt]
+      NoVarList(
+      ) [NoVarList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDecVoid]
+  ) [Methods]
+) [Program]
+INFO  13:22:45,377 - ===================================

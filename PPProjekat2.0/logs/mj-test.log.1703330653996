@@ -1,0 +1,41 @@
+INFO  12:23:59,997 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  12:24:00,027 - #11 program
+INFO  12:24:00,027 - #47 test301
+INFO  12:24:00,027 - #47 int
+INFO  12:24:00,028 - #47 a
+INFO  12:24:00,029 - #8 ;
+INFO  12:24:00,029 - #16 {
+INFO  12:24:00,030 - #17 }
+INFO  12:24:00,033 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  NoMethodDecar(
+  ) [NoMethodDecar]
+) [Program]
+INFO  12:24:00,035 - ===================================
+ERROR 12:24:00,045 - ne postoji void main() globalna funkcija na liniji 3
+INFO  12:24:00,045 - ===================================
+ERROR 12:24:00,045 - Parsiranje NIJE uspesno zavrseno!

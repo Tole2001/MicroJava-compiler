@@ -1,0 +1,43 @@
+INFO  13:04:35,644 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  13:04:35,684 - #11 program
+INFO  13:04:35,684 - #47 mojProgram
+INFO  13:04:35,684 - #12 namespace
+INFO  13:04:35,685 - #47 belo
+INFO  13:04:35,685 - #16 {
+INFO  13:04:35,685 - #16 {
+INFO  13:04:35,685 - #17 }
+INFO  13:04:35,686 - #17 }
+INFO  13:04:35,686 - #47 int
+INFO  13:04:35,686 - #47 rows
+INFO  13:04:35,686 - #9 ,
+INFO  13:04:35,686 - #47 columns
+INFO  13:04:35,686 - #8 ;
+INFO  13:04:35,687 - #16 {
+INFO  13:04:35,687 - #26 void
+INFO  13:04:35,687 - #47 f
+INFO  13:04:35,687 - #10 (
+INFO  13:04:35,687 - #47 char
+ERROR 13:04:35,687 - 
+Sintaksna greska na liniji 6, 8
+INFO  13:04:35,687 - #47 ch
+INFO  13:04:35,688 - #9 ,
+INFO  13:04:35,688 - #47 int
+INFO  13:04:35,688 - #47 a
+INFO  13:04:35,688 - #9 ,
+INFO  13:04:35,688 - #47 int
+INFO  13:04:35,688 - #47 arg
+INFO  13:04:35,688 - #13 )
+INFO  13:04:35,688 - #47 int
+INFO  13:04:35,688 - #47 x
+INFO  13:04:35,688 - #8 ;
+INFO  13:04:35,688 - #16 {
+INFO  13:04:35,688 - #47 x
+INFO  13:04:35,689 - #7 =
+ERROR 13:04:35,689 - Sintaksa greska deklaracije globalne promenljive na liniji 4
+ERROR 13:04:35,689 - 
+Sintaksna greska na liniji 9, 4
+INFO  13:04:35,689 - #47 arg
+INFO  13:04:35,689 - #8 ;
+INFO  13:04:35,689 - #17 }
+INFO  13:04:35,689 - #17 }
+ERROR 13:04:35,689 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11, 1

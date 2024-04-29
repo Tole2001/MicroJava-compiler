@@ -1,0 +1,70 @@
+INFO  15:01:18,764 - #11 program
+INFO  15:01:18,764 - #47 test301
+INFO  15:01:18,764 - #16 {
+INFO  15:01:18,765 - #26 void
+INFO  15:01:18,765 - #47 main
+INFO  15:01:18,766 - #10 (
+INFO  15:01:18,766 - #13 )
+INFO  15:01:18,766 - #16 {
+INFO  15:01:18,767 - #24 print
+INFO  15:01:18,767 - #10 (
+INFO  15:01:18,767 - #46 5
+INFO  15:01:18,767 - #13 )
+INFO  15:01:18,768 - #8 ;
+INFO  15:01:18,768 - #17 }
+INFO  15:01:18,769 - #17 }
+INFO  15:01:18,772 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  NoInitLists(
+  ) [NoInitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      StatementsNew(
+        NoStatements(
+        ) [NoStatements]
+        MatchedStm(
+          StatementPrint(
+            ExprOpt(
+              ExprNonT(
+                NoMinus(
+                ) [NoMinus]
+                TermF(
+                  FactorConst(
+                    NumConst(
+                     5
+                    ) [NumConst]
+                  ) [FactorConst]
+                ) [TermF]
+                NoAddTerm(
+                ) [NoAddTerm]
+              ) [ExprNonT]
+            ) [ExprOpt]
+            NoNumPrint(
+            ) [NoNumPrint]
+          ) [StatementPrint]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  15:01:18,774 - ===================================
+INFO  15:01:18,776 - postoji ispravan main na liniji 3
+INFO  15:01:18,776 - ===================================
+INFO  15:01:18,778 - Parsiranje uspesno zavrseno!

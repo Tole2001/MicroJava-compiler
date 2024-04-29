@@ -1,0 +1,179 @@
+INFO  09:22:56,370 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:22:56,399 - #11 program
+INFO  09:22:56,399 - #47 test301
+INFO  09:22:56,400 - #12 namespace
+INFO  09:22:56,400 - #47 Konstante
+INFO  09:22:56,400 - #16 {
+INFO  09:22:56,400 - #21 const
+INFO  09:22:56,401 - #47 int
+INFO  09:22:56,401 - #47 nula
+INFO  09:22:56,401 - #7 =
+INFO  09:22:56,401 - #46 0
+INFO  09:22:56,401 - #8 ;
+INFO  09:22:56,401 - #21 const
+INFO  09:22:56,402 - #47 int
+INFO  09:22:56,402 - #47 jedan
+INFO  09:22:56,402 - #7 =
+INFO  09:22:56,402 - #46 1
+INFO  09:22:56,402 - #8 ;
+INFO  09:22:56,402 - #21 const
+INFO  09:22:56,402 - #47 int
+INFO  09:22:56,402 - #47 pet
+INFO  09:22:56,402 - #7 =
+INFO  09:22:56,402 - #46 5
+INFO  09:22:56,403 - #8 ;
+INFO  09:22:56,403 - #17 }
+ERROR 09:22:56,403 - 
+Sintaksna greska na liniji 7, 0
+INFO  09:22:56,403 - #12 namespace
+INFO  09:22:56,403 - #47 Nizovi
+INFO  09:22:56,403 - #16 {
+INFO  09:22:56,403 - #47 int
+INFO  09:22:56,403 - #47 niz
+INFO  09:22:56,403 - #14 [
+INFO  09:22:56,403 - #15 ]
+INFO  09:22:56,403 - #8 ;
+INFO  09:22:56,403 - #47 char
+INFO  09:22:56,403 - #47 nizch
+INFO  09:22:56,403 - #14 [
+ERROR 09:22:56,403 - Sintaksa greska deklaracije globalne promenljive na liniji 6
+INFO  09:22:56,404 - #15 ]
+INFO  09:22:56,404 - #8 ;
+INFO  09:22:56,404 - #16 {
+INFO  09:22:56,404 - #17 }
+INFO  09:22:56,405 - #17 }
+INFO  09:22:56,405 - #47 int
+INFO  09:22:56,405 - #47 a
+INFO  09:22:56,405 - #8 ;
+INFO  09:22:56,405 - #16 {
+INFO  09:22:56,405 - #26 void
+INFO  09:22:56,405 - #47 main
+INFO  09:22:56,405 - #10 (
+INFO  09:22:56,406 - #13 )
+INFO  09:22:56,406 - #47 int
+INFO  09:22:56,406 - #47 bodovi
+INFO  09:22:56,406 - #8 ;
+INFO  09:22:56,406 - #47 bool
+INFO  09:22:56,406 - #47 bt
+INFO  09:22:56,406 - #8 ;
+INFO  09:22:56,406 - #16 {
+INFO  09:22:56,406 - #17 }
+INFO  09:22:56,407 - #17 }
+INFO  09:22:56,407 - Program(
+  Prog_id(
+   test301
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     Konstante
+      InitLists(
+        InitLists(
+          InitLists(
+            InitLists(
+              NoInitLists(
+              ) [NoInitLists]
+              ConstPart(
+                Const_dec(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                 nula
+                  IntInitializer(
+                   0
+                  ) [IntInitializer]
+                  NoConstLista(
+                  ) [NoConstLista]
+                ) [Const_dec]
+              ) [ConstPart]
+            ) [InitLists]
+            ConstPart(
+              Const_dec(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+               jedan
+                IntInitializer(
+                 1
+                ) [IntInitializer]
+                NoConstLista(
+                ) [NoConstLista]
+              ) [Const_dec]
+            ) [ConstPart]
+          ) [InitLists]
+          ErrorGlobalParamsSemi(
+          ) [ErrorGlobalParamsSemi]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+            VarOrArrayId(
+              VarArrayId(
+               nizch
+              ) [VarArrayId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      Var_dec(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+        VarOrArrayId(
+          VarId(
+           a
+          ) [VarId]
+        ) [VarOrArrayId]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  Methods(
+    NoMethods(
+    ) [NoMethods]
+    MethodDecVoid(
+     main
+      NoFormParsOpt(
+      ) [NoFormParsOpt]
+      YesVarList(
+        YesVarList(
+          NoVarList(
+          ) [NoVarList]
+          Var_dec(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+            VarOrArrayId(
+              VarId(
+               bodovi
+              ) [VarId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [YesVarList]
+        Var_dec(
+          OnceIdent(
+           bool
+          ) [OnceIdent]
+          VarOrArrayId(
+            VarId(
+             bt
+            ) [VarId]
+          ) [VarOrArrayId]
+        ) [Var_dec]
+      ) [YesVarList]
+      NoStmtList(
+      ) [NoStmtList]
+    ) [MethodDecVoid]
+  ) [Methods]
+) [Program]
+INFO  09:22:56,408 - ===================================

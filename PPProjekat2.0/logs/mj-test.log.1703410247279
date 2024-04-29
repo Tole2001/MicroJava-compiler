@@ -1,0 +1,223 @@
+INFO  10:30:28,080 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  10:30:28,109 - #11 program
+INFO  10:30:28,109 - #47 test301
+INFO  10:30:28,109 - #12 namespace
+INFO  10:30:28,109 - #47 Konstante
+INFO  10:30:28,109 - #16 {
+INFO  10:30:28,110 - #47 int
+INFO  10:30:28,110 - #47 B
+INFO  10:30:28,110 - #8 ;
+INFO  10:30:28,111 - #47 char
+INFO  10:30:28,111 - #47 C
+INFO  10:30:28,111 - #8 ;
+INFO  10:30:28,111 - #16 {
+INFO  10:30:28,111 - #47 int
+INFO  10:30:28,112 - #47 sum
+INFO  10:30:28,112 - #10 (
+INFO  10:30:28,112 - #47 int
+INFO  10:30:28,112 - #47 z
+INFO  10:30:28,112 - #9 ,
+INFO  10:30:28,112 - #47 int
+INFO  10:30:28,112 - #47 d
+INFO  10:30:28,113 - #13 )
+INFO  10:30:28,113 - #16 {
+INFO  10:30:28,113 - #25 return
+INFO  10:30:28,114 - #47 z
+INFO  10:30:28,114 - #2 +
+INFO  10:30:28,115 - #47 d
+INFO  10:30:28,116 - #8 ;
+INFO  10:30:28,116 - #17 }
+INFO  10:30:28,116 - #17 }
+INFO  10:30:28,117 - #17 }
+INFO  10:30:28,117 - #47 int
+INFO  10:30:28,117 - #47 a
+INFO  10:30:28,117 - #8 ;
+INFO  10:30:28,117 - #16 {
+INFO  10:30:28,118 - #26 void
+INFO  10:30:28,118 - #47 main
+INFO  10:30:28,118 - #10 (
+INFO  10:30:28,118 - #13 )
+INFO  10:30:28,118 - #16 {
+INFO  10:30:28,118 - #17 }
+INFO  10:30:28,118 - #17 }
+INFO  10:30:28,122 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      NameSpaceName(
+       Konstante
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        VarLists(
+          NoVarLists(
+          ) [NoVarLists]
+          VarPartNamespace(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               B
+                NoArray(
+                ) [NoArray]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [VarPartNamespace]
+        ) [VarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             C
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      MethodDeclarations(
+        NoMethodDecar(
+        ) [NoMethodDecar]
+        MethodDec(
+          MethodTypeName(
+            MType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [MType]
+           sum
+          ) [MethodTypeName]
+          FormParamL(
+            FormParametrs(
+              FormParamsCom(
+                FormPar(
+                  FormalPar(
+                    OnceIdent(
+                     int
+                    ) [OnceIdent]
+                   z
+                    NoArray(
+                    ) [NoArray]
+                  ) [FormalPar]
+                ) [FormPar]
+              ) [FormParamsCom]
+              FormalPar(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+               d
+                NoArray(
+                ) [NoArray]
+              ) [FormalPar]
+            ) [FormParametrs]
+          ) [FormParamL]
+          NoFieldDecl(
+          ) [NoFieldDecl]
+          StatementsNew(
+            NoStatements(
+            ) [NoStatements]
+            MatchedStm(
+              StatementReturn(
+                ExprO(
+                  ExprOpt(
+                    ExprNonT(
+                      NoMinus(
+                      ) [NoMinus]
+                      TermF(
+                        FactorDes(
+                          Designator(
+                            DesigName(
+                             z
+                            ) [DesigName]
+                            NoDesigAddit(
+                            ) [NoDesigAddit]
+                          ) [Designator]
+                          NoOptActParts(
+                          ) [NoOptActParts]
+                        ) [FactorDes]
+                      ) [TermF]
+                      AddTermA(
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                        PlusOp(
+                        ) [PlusOp]
+                        TermF(
+                          FactorDes(
+                            Designator(
+                              DesigName(
+                               d
+                              ) [DesigName]
+                              NoDesigAddit(
+                              ) [NoDesigAddit]
+                            ) [Designator]
+                            NoOptActParts(
+                            ) [NoOptActParts]
+                          ) [FactorDes]
+                        ) [TermF]
+                      ) [AddTermA]
+                    ) [ExprNonT]
+                  ) [ExprOpt]
+                ) [ExprO]
+              ) [StatementReturn]
+            ) [MatchedStm]
+          ) [StatementsNew]
+        ) [MethodDec]
+      ) [MethodDeclarations]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:30:28,122 - ===================================
+INFO  10:30:28,125 - Pristup promenljivoj z na liniji 12
+INFO  10:30:28,125 - Pristup promenljivoj d na liniji 12
+INFO  10:30:28,125 - postoji ispravan main na liniji 3
+INFO  10:30:28,126 - ===================================
+INFO  10:30:28,126 - Parsiranje uspesno zavrseno!

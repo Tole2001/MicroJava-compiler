@@ -1,0 +1,94 @@
+INFO  13:06:53,854 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  13:06:53,881 - #11 program
+INFO  13:06:53,881 - #47 mojProgram
+INFO  13:06:53,881 - #12 namespace
+INFO  13:06:53,882 - #47 sizes
+INFO  13:06:53,882 - #16 {
+INFO  13:06:53,882 - #21 const
+INFO  13:06:53,882 - #47 int
+INFO  13:06:53,882 - #47 tableSize
+INFO  13:06:53,882 - #7 =
+INFO  13:06:53,882 - #46 10
+INFO  13:06:53,883 - #8 ;
+INFO  13:06:53,883 - #16 {
+INFO  13:06:53,884 - #17 }
+INFO  13:06:53,884 - #17 }
+INFO  13:06:53,884 - #47 Table
+INFO  13:06:53,884 - #47 val
+INFO  13:06:53,884 - #8 ;
+INFO  13:06:53,885 - #47 int
+INFO  13:06:53,885 - #47 rows
+INFO  13:06:53,885 - #9 ,
+INFO  13:06:53,885 - #47 columns
+INFO  13:06:53,887 - #8 ;
+INFO  13:06:53,887 - #16 {
+INFO  13:06:53,887 - #17 }
+INFO  13:06:53,887 - Program(
+  Prog_id(
+   mojProgram
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     sizes
+      InitLists(
+        NoInitLists(
+        ) [NoInitLists]
+        ConstPart(
+          Const_dec(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+           tableSize
+            IntInitializer(
+             10
+            ) [IntInitializer]
+            NoConstLista(
+            ) [NoConstLista]
+          ) [Const_dec]
+        ) [ConstPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    InitLists(
+      NoInitLists(
+      ) [NoInitLists]
+      VarPart(
+        Var_dec(
+          OnceIdent(
+           Table
+          ) [OnceIdent]
+          VarOrArrayId(
+            VarId(
+             val
+            ) [VarId]
+          ) [VarOrArrayId]
+        ) [Var_dec]
+      ) [VarPart]
+    ) [InitLists]
+    VarPart(
+      Var_dec(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+        VarIdList(
+          VarOrArrayId(
+            VarId(
+             rows
+            ) [VarId]
+          ) [VarOrArrayId]
+          VarId(
+           columns
+          ) [VarId]
+        ) [VarIdList]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  13:06:53,887 - ===================================

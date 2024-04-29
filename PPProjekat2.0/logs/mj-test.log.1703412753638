@@ -1,0 +1,269 @@
+INFO  11:04:26,080 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  11:04:26,111 - #11 program
+INFO  11:04:26,112 - #47 test301
+INFO  11:04:26,112 - #12 namespace
+INFO  11:04:26,112 - #47 Konstante
+INFO  11:04:26,112 - #16 {
+INFO  11:04:26,113 - #21 const
+INFO  11:04:26,113 - #47 int
+INFO  11:04:26,113 - #47 nula
+INFO  11:04:26,114 - #7 =
+INFO  11:04:26,114 - #46 0
+INFO  11:04:26,114 - #8 ;
+INFO  11:04:26,114 - #21 const
+INFO  11:04:26,114 - #47 int
+INFO  11:04:26,114 - #47 jedan
+INFO  11:04:26,114 - #7 =
+INFO  11:04:26,114 - #46 1
+INFO  11:04:26,115 - #8 ;
+INFO  11:04:26,115 - #21 const
+INFO  11:04:26,115 - #47 int
+INFO  11:04:26,115 - #47 pet
+INFO  11:04:26,115 - #7 =
+INFO  11:04:26,115 - #46 5
+INFO  11:04:26,115 - #8 ;
+INFO  11:04:26,115 - #16 {
+INFO  11:04:26,115 - #17 }
+INFO  11:04:26,116 - #17 }
+INFO  11:04:26,116 - #12 namespace
+INFO  11:04:26,116 - #47 Nizovi
+INFO  11:04:26,116 - #16 {
+INFO  11:04:26,116 - #47 int
+INFO  11:04:26,116 - #47 niz
+INFO  11:04:26,117 - #14 [
+INFO  11:04:26,117 - #15 ]
+INFO  11:04:26,117 - #8 ;
+INFO  11:04:26,118 - #47 char
+INFO  11:04:26,118 - #47 nizch
+INFO  11:04:26,118 - #14 [
+INFO  11:04:26,118 - #15 ]
+INFO  11:04:26,118 - #8 ;
+INFO  11:04:26,118 - #16 {
+INFO  11:04:26,118 - #17 }
+INFO  11:04:26,118 - #17 }
+INFO  11:04:26,118 - #47 int
+INFO  11:04:26,118 - #47 a
+INFO  11:04:26,118 - #8 ;
+INFO  11:04:26,119 - #16 {
+INFO  11:04:26,119 - #26 void
+INFO  11:04:26,119 - #47 main
+INFO  11:04:26,119 - #10 (
+INFO  11:04:26,120 - #13 )
+INFO  11:04:26,120 - #16 {
+INFO  11:04:26,120 - #47 Nizovi
+INFO  11:04:26,121 - #19 :
+INFO  11:04:26,121 - #19 :
+INFO  11:04:26,121 - #47 niz
+INFO  11:04:26,121 - #7 =
+INFO  11:04:26,121 - #28 new
+INFO  11:04:26,122 - #47 int
+INFO  11:04:26,122 - #14 [
+INFO  11:04:26,122 - #46 3
+INFO  11:04:26,122 - #15 ]
+INFO  11:04:26,123 - #8 ;
+INFO  11:04:26,123 - #17 }
+INFO  11:04:26,123 - #17 }
+INFO  11:04:26,124 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+        NameSpaceName(
+         Konstante
+        ) [NameSpaceName]
+        NameSpaceBegin(
+        ) [NameSpaceBegin]
+        VarLists(
+          VarLists(
+            VarLists(
+              NoVarLists(
+              ) [NoVarLists]
+              ConstPartNamespace(
+                ConstType(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                ) [ConstType]
+                ConstD(
+                  ConstDeclaration(
+                   nula
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstDeclaration]
+                ) [ConstD]
+              ) [ConstPartNamespace]
+            ) [VarLists]
+            ConstPartNamespace(
+              ConstType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [ConstType]
+              ConstD(
+                ConstDeclaration(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstDeclaration]
+              ) [ConstD]
+            ) [ConstPartNamespace]
+          ) [VarLists]
+          ConstPartNamespace(
+            ConstType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [ConstType]
+            ConstD(
+              ConstDeclaration(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstDeclaration]
+            ) [ConstD]
+          ) [ConstPartNamespace]
+        ) [VarLists]
+        NoMethodDecar(
+        ) [NoMethodDecar]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+      NameSpaceName(
+       Nizovi
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        VarLists(
+          NoVarLists(
+          ) [NoVarLists]
+          VarPartNamespace(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               niz
+                Array(
+                ) [Array]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [VarPartNamespace]
+        ) [VarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             nizch
+              Array(
+              ) [Array]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      StatementsNew(
+        NoStatements(
+        ) [NoStatements]
+        MatchedStm(
+          StatementD(
+            DesigAssign(
+              Designator(
+                DesigNameD(
+                  NameSpaceName(
+                   Nizovi
+                  ) [NameSpaceName]
+                 niz
+                ) [DesigNameD]
+                NoDesigAddit(
+                ) [NoDesigAddit]
+              ) [Designator]
+              AssignOpE(
+              ) [AssignOpE]
+              ExprOpt(
+                ExprNonT(
+                  NoMinus(
+                  ) [NoMinus]
+                  TermF(
+                    FactorNewArray(
+                      OnceIdent(
+                       int
+                      ) [OnceIdent]
+                      ExprOpt(
+                        ExprNonT(
+                          NoMinus(
+                          ) [NoMinus]
+                          TermF(
+                            FactorConst(
+                              NumConst(
+                               3
+                              ) [NumConst]
+                            ) [FactorConst]
+                          ) [TermF]
+                          NoAddTerm(
+                          ) [NoAddTerm]
+                        ) [ExprNonT]
+                      ) [ExprOpt]
+                    ) [FactorNewArray]
+                  ) [TermF]
+                  NoAddTerm(
+                  ) [NoAddTerm]
+                ) [ExprNonT]
+              ) [ExprOpt]
+            ) [DesigAssign]
+          ) [StatementD]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:04:26,124 - ===================================

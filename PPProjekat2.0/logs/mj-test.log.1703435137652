@@ -1,0 +1,286 @@
+INFO  17:25:11,110 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  17:25:11,140 - #11 program
+INFO  17:25:11,141 - #47 test301
+INFO  17:25:11,141 - #12 namespace
+INFO  17:25:11,142 - #47 Konstante
+INFO  17:25:11,143 - #16 {
+INFO  17:25:11,143 - #21 const
+INFO  17:25:11,144 - #47 int
+INFO  17:25:11,144 - #47 nula
+INFO  17:25:11,144 - #7 =
+INFO  17:25:11,144 - #46 0
+INFO  17:25:11,144 - #8 ;
+INFO  17:25:11,145 - #21 const
+INFO  17:25:11,145 - #47 int
+INFO  17:25:11,145 - #47 jedan
+INFO  17:25:11,145 - #7 =
+INFO  17:25:11,145 - #46 1
+INFO  17:25:11,145 - #8 ;
+INFO  17:25:11,145 - #21 const
+INFO  17:25:11,145 - #47 int
+INFO  17:25:11,145 - #47 pet
+INFO  17:25:11,145 - #7 =
+INFO  17:25:11,146 - #46 5
+INFO  17:25:11,146 - #8 ;
+INFO  17:25:11,146 - #16 {
+INFO  17:25:11,146 - #17 }
+INFO  17:25:11,146 - #17 }
+INFO  17:25:11,146 - #12 namespace
+INFO  17:25:11,147 - #47 Nizovi
+INFO  17:25:11,147 - #16 {
+INFO  17:25:11,147 - #47 int
+INFO  17:25:11,147 - #47 niz
+INFO  17:25:11,147 - #14 [
+INFO  17:25:11,147 - #15 ]
+INFO  17:25:11,147 - #8 ;
+INFO  17:25:11,148 - #47 char
+INFO  17:25:11,148 - #47 nizch
+INFO  17:25:11,148 - #14 [
+INFO  17:25:11,148 - #15 ]
+INFO  17:25:11,148 - #8 ;
+INFO  17:25:11,148 - #16 {
+INFO  17:25:11,148 - #17 }
+INFO  17:25:11,148 - #17 }
+INFO  17:25:11,148 - #47 int
+INFO  17:25:11,149 - #47 a
+INFO  17:25:11,149 - #8 ;
+INFO  17:25:11,149 - #16 {
+INFO  17:25:11,149 - #26 void
+INFO  17:25:11,149 - #47 main
+INFO  17:25:11,150 - #10 (
+INFO  17:25:11,150 - #13 )
+INFO  17:25:11,150 - #47 int
+INFO  17:25:11,150 - #47 bodovi
+INFO  17:25:11,151 - #8 ;
+INFO  17:25:11,151 - #16 {
+INFO  17:25:11,151 - #47 bodovi
+INFO  17:25:11,151 - #7 =
+INFO  17:25:11,152 - #46 0
+INFO  17:25:11,153 - #8 ;
+INFO  17:25:11,153 - #47 bodovi
+INFO  17:25:11,153 - #33 ++
+INFO  17:25:11,153 - #8 ;
+INFO  17:25:11,153 - #17 }
+INFO  17:25:11,153 - #17 }
+INFO  17:25:11,157 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+        NameSpaceName(
+         Konstante
+        ) [NameSpaceName]
+        NameSpaceBegin(
+        ) [NameSpaceBegin]
+        VarLists(
+          VarLists(
+            VarLists(
+              NoVarLists(
+              ) [NoVarLists]
+              ConstPartNamespace(
+                ConstType(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                ) [ConstType]
+                ConstD(
+                  ConstDeclaration(
+                   nula
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstDeclaration]
+                ) [ConstD]
+              ) [ConstPartNamespace]
+            ) [VarLists]
+            ConstPartNamespace(
+              ConstType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [ConstType]
+              ConstD(
+                ConstDeclaration(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstDeclaration]
+              ) [ConstD]
+            ) [ConstPartNamespace]
+          ) [VarLists]
+          ConstPartNamespace(
+            ConstType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [ConstType]
+            ConstD(
+              ConstDeclaration(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstDeclaration]
+            ) [ConstD]
+          ) [ConstPartNamespace]
+        ) [VarLists]
+        NoMethodDecar(
+        ) [NoMethodDecar]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+      NameSpaceName(
+       Nizovi
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        VarLists(
+          NoVarLists(
+          ) [NoVarLists]
+          VarPartNamespace(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               niz
+                Array(
+                ) [Array]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [VarPartNamespace]
+        ) [VarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             nizch
+              Array(
+              ) [Array]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      FieldDecls(
+        Fld(
+          VarType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             bodovi
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [Fld]
+        NoFieldDecl(
+        ) [NoFieldDecl]
+      ) [FieldDecls]
+      StatementsNew(
+        StatementsNew(
+          NoStatements(
+          ) [NoStatements]
+          MatchedStm(
+            StatementD(
+              DesigAssign(
+                Designator(
+                  DesigNameO(
+                   bodovi
+                  ) [DesigNameO]
+                  NoDesigAddit(
+                  ) [NoDesigAddit]
+                ) [Designator]
+                AssignOpE(
+                ) [AssignOpE]
+                ExprOpt(
+                  ExprNonT(
+                    NoMinus(
+                    ) [NoMinus]
+                    TermF(
+                      FactorConst(
+                        NumConst(
+                         0
+                        ) [NumConst]
+                      ) [FactorConst]
+                    ) [TermF]
+                    NoAddTerm(
+                    ) [NoAddTerm]
+                  ) [ExprNonT]
+                ) [ExprOpt]
+              ) [DesigAssign]
+            ) [StatementD]
+          ) [MatchedStm]
+        ) [StatementsNew]
+        MatchedStm(
+          StatementD(
+            DesigPlusPlus(
+              Designator(
+                DesigNameO(
+                 bodovi
+                ) [DesigNameO]
+                NoDesigAddit(
+                ) [NoDesigAddit]
+              ) [Designator]
+            ) [DesigPlusPlus]
+          ) [StatementD]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  17:25:11,157 - ===================================
+INFO  17:25:11,161 - Pristup promenljivoj bodovi na liniji 26
+INFO  17:25:11,162 - Pristup promenljivoj bodovi na liniji 27
+INFO  17:25:11,162 - postoji ispravan main na liniji 3
+INFO  17:25:11,162 - ===================================
+INFO  17:25:11,162 - Parsiranje uspesno zavrseno!

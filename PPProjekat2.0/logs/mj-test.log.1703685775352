@@ -1,0 +1,126 @@
+INFO  15:02:04,451 - #11 program
+INFO  15:02:04,451 - #47 test301
+INFO  15:02:04,451 - #16 {
+INFO  15:02:04,452 - #26 void
+INFO  15:02:04,453 - #47 main
+INFO  15:02:04,453 - #10 (
+INFO  15:02:04,454 - #13 )
+INFO  15:02:04,454 - #16 {
+INFO  15:02:04,454 - #24 print
+INFO  15:02:04,455 - #10 (
+INFO  15:02:04,455 - #46 5
+INFO  15:02:04,455 - #13 )
+INFO  15:02:04,456 - #8 ;
+INFO  15:02:04,456 - #24 print
+INFO  15:02:04,456 - #10 (
+INFO  15:02:04,456 - #46 50
+INFO  15:02:04,456 - #13 )
+INFO  15:02:04,456 - #8 ;
+INFO  15:02:04,456 - #24 print
+INFO  15:02:04,456 - #10 (
+INFO  15:02:04,457 - #46 22
+INFO  15:02:04,457 - #13 )
+INFO  15:02:04,457 - #8 ;
+INFO  15:02:04,457 - #17 }
+INFO  15:02:04,457 - #17 }
+INFO  15:02:04,460 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  NoInitLists(
+  ) [NoInitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      StatementsNew(
+        StatementsNew(
+          StatementsNew(
+            NoStatements(
+            ) [NoStatements]
+            MatchedStm(
+              StatementPrint(
+                ExprOpt(
+                  ExprNonT(
+                    NoMinus(
+                    ) [NoMinus]
+                    TermF(
+                      FactorConst(
+                        NumConst(
+                         5
+                        ) [NumConst]
+                      ) [FactorConst]
+                    ) [TermF]
+                    NoAddTerm(
+                    ) [NoAddTerm]
+                  ) [ExprNonT]
+                ) [ExprOpt]
+                NoNumPrint(
+                ) [NoNumPrint]
+              ) [StatementPrint]
+            ) [MatchedStm]
+          ) [StatementsNew]
+          MatchedStm(
+            StatementPrint(
+              ExprOpt(
+                ExprNonT(
+                  NoMinus(
+                  ) [NoMinus]
+                  TermF(
+                    FactorConst(
+                      NumConst(
+                       50
+                      ) [NumConst]
+                    ) [FactorConst]
+                  ) [TermF]
+                  NoAddTerm(
+                  ) [NoAddTerm]
+                ) [ExprNonT]
+              ) [ExprOpt]
+              NoNumPrint(
+              ) [NoNumPrint]
+            ) [StatementPrint]
+          ) [MatchedStm]
+        ) [StatementsNew]
+        MatchedStm(
+          StatementPrint(
+            ExprOpt(
+              ExprNonT(
+                NoMinus(
+                ) [NoMinus]
+                TermF(
+                  FactorConst(
+                    NumConst(
+                     22
+                    ) [NumConst]
+                  ) [FactorConst]
+                ) [TermF]
+                NoAddTerm(
+                ) [NoAddTerm]
+              ) [ExprNonT]
+            ) [ExprOpt]
+            NoNumPrint(
+            ) [NoNumPrint]
+          ) [StatementPrint]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  15:02:04,461 - ===================================
+INFO  15:02:04,463 - postoji ispravan main na liniji 3
+INFO  15:02:04,463 - ===================================
+INFO  15:02:04,465 - Parsiranje uspesno zavrseno!

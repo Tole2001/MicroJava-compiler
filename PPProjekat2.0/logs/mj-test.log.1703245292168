@@ -1,0 +1,19 @@
+INFO  12:41:17,713 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  12:41:17,744 - #11 program
+INFO  12:41:17,744 - #47 test301
+INFO  12:41:17,744 - #16 {
+INFO  12:41:17,745 - #17 }
+INFO  12:41:17,746 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  NoInitLists(
+  ) [NoInitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  NoMethodDecar(
+  ) [NoMethodDecar]
+) [Program]
+INFO  12:41:17,746 - ===================================

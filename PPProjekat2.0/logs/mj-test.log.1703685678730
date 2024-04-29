@@ -1,0 +1,69 @@
+INFO  14:59:07,045 - #11 program
+INFO  14:59:07,045 - #47 test301
+INFO  14:59:07,045 - #16 {
+INFO  14:59:07,046 - #26 void
+INFO  14:59:07,046 - #47 main
+INFO  14:59:07,047 - #10 (
+INFO  14:59:07,047 - #13 )
+INFO  14:59:07,047 - #16 {
+INFO  14:59:07,048 - #24 print
+INFO  14:59:07,048 - #10 (
+INFO  14:59:07,048 - #46 5
+INFO  14:59:07,048 - #13 )
+INFO  14:59:07,049 - #8 ;
+INFO  14:59:07,049 - #17 }
+INFO  14:59:07,050 - #17 }
+INFO  14:59:07,053 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  NoInitLists(
+  ) [NoInitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      StatementsNew(
+        NoStatements(
+        ) [NoStatements]
+        MatchedStm(
+          StatementPrint(
+            ExprOpt(
+              ExprNonT(
+                NoMinus(
+                ) [NoMinus]
+                TermF(
+                  FactorConst(
+                    NumConst(
+                     5
+                    ) [NumConst]
+                  ) [FactorConst]
+                ) [TermF]
+                NoAddTerm(
+                ) [NoAddTerm]
+              ) [ExprNonT]
+            ) [ExprOpt]
+            NoNumPrint(
+            ) [NoNumPrint]
+          ) [StatementPrint]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  14:59:07,054 - ===================================
+INFO  14:59:07,056 - postoji ispravan main na liniji 3
+INFO  14:59:07,056 - ===================================

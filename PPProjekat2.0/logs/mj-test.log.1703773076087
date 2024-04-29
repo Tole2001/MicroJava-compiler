@@ -1,0 +1,1477 @@
+INFO  15:17:16,241 - #11 program
+INFO  15:17:16,241 - #47 test301
+INFO  15:17:16,241 - #12 namespace
+INFO  15:17:16,242 - #47 Konstante
+INFO  15:17:16,243 - #16 {
+INFO  15:17:16,243 - #21 const
+INFO  15:17:16,244 - #47 int
+INFO  15:17:16,244 - #47 nula
+INFO  15:17:16,244 - #7 =
+INFO  15:17:16,244 - #46 0
+INFO  15:17:16,244 - #8 ;
+INFO  15:17:16,245 - #21 const
+INFO  15:17:16,245 - #47 int
+INFO  15:17:16,245 - #47 jedan
+INFO  15:17:16,245 - #7 =
+INFO  15:17:16,245 - #46 1
+INFO  15:17:16,245 - #8 ;
+INFO  15:17:16,245 - #21 const
+INFO  15:17:16,245 - #47 int
+INFO  15:17:16,245 - #47 pet
+INFO  15:17:16,245 - #7 =
+INFO  15:17:16,245 - #46 5
+INFO  15:17:16,245 - #8 ;
+INFO  15:17:16,245 - #16 {
+INFO  15:17:16,245 - #17 }
+INFO  15:17:16,247 - #17 }
+INFO  15:17:16,247 - #12 namespace
+INFO  15:17:16,248 - #47 Nizovi
+INFO  15:17:16,248 - #16 {
+INFO  15:17:16,248 - #47 int
+INFO  15:17:16,248 - #47 niz
+INFO  15:17:16,248 - #14 [
+INFO  15:17:16,248 - #15 ]
+INFO  15:17:16,248 - #8 ;
+INFO  15:17:16,249 - #47 char
+INFO  15:17:16,249 - #47 nizch
+INFO  15:17:16,249 - #14 [
+INFO  15:17:16,249 - #15 ]
+INFO  15:17:16,249 - #8 ;
+INFO  15:17:16,249 - #16 {
+INFO  15:17:16,249 - #17 }
+INFO  15:17:16,249 - #17 }
+INFO  15:17:16,249 - #47 int
+INFO  15:17:16,250 - #47 a
+INFO  15:17:16,250 - #8 ;
+INFO  15:17:16,250 - #16 {
+INFO  15:17:16,250 - #26 void
+INFO  15:17:16,250 - #47 main
+INFO  15:17:16,251 - #10 (
+INFO  15:17:16,251 - #13 )
+INFO  15:17:16,251 - #47 int
+INFO  15:17:16,251 - #47 bodovi
+INFO  15:17:16,251 - #8 ;
+INFO  15:17:16,251 - #47 bool
+INFO  15:17:16,252 - #47 bt
+INFO  15:17:16,252 - #8 ;
+INFO  15:17:16,252 - #16 {
+INFO  15:17:16,252 - #47 bodovi
+INFO  15:17:16,252 - #7 =
+INFO  15:17:16,253 - #46 0
+INFO  15:17:16,253 - #8 ;
+INFO  15:17:16,253 - #47 bodovi
+INFO  15:17:16,254 - #33 ++
+INFO  15:17:16,254 - #8 ;
+INFO  15:17:16,254 - #47 bodovi
+INFO  15:17:16,254 - #7 =
+INFO  15:17:16,254 - #47 bodovi
+INFO  15:17:16,254 - #2 +
+INFO  15:17:16,254 - #47 Konstante
+INFO  15:17:16,255 - #19 :
+INFO  15:17:16,255 - #19 :
+INFO  15:17:16,255 - #47 jedan
+INFO  15:17:16,255 - #8 ;
+INFO  15:17:16,255 - #47 bodovi
+INFO  15:17:16,255 - #7 =
+INFO  15:17:16,255 - #47 bodovi
+INFO  15:17:16,255 - #4 *
+INFO  15:17:16,255 - #47 Konstante
+INFO  15:17:16,256 - #19 :
+INFO  15:17:16,256 - #19 :
+INFO  15:17:16,256 - #47 pet
+INFO  15:17:16,256 - #8 ;
+INFO  15:17:16,256 - #47 bodovi
+INFO  15:17:16,256 - #32 --
+INFO  15:17:16,256 - #8 ;
+INFO  15:17:16,256 - #24 print
+INFO  15:17:16,256 - #10 (
+INFO  15:17:16,256 - #47 bodovi
+INFO  15:17:16,256 - #13 )
+INFO  15:17:16,256 - #8 ;
+INFO  15:17:16,256 - #47 Nizovi
+INFO  15:17:16,257 - #19 :
+INFO  15:17:16,257 - #19 :
+INFO  15:17:16,257 - #47 niz
+INFO  15:17:16,257 - #7 =
+INFO  15:17:16,257 - #28 new
+INFO  15:17:16,257 - #47 int
+INFO  15:17:16,257 - #14 [
+INFO  15:17:16,257 - #46 3
+INFO  15:17:16,257 - #15 ]
+INFO  15:17:16,257 - #8 ;
+INFO  15:17:16,257 - #47 Nizovi
+INFO  15:17:16,257 - #19 :
+INFO  15:17:16,257 - #19 :
+INFO  15:17:16,257 - #47 niz
+INFO  15:17:16,257 - #14 [
+INFO  15:17:16,257 - #47 Konstante
+INFO  15:17:16,257 - #19 :
+INFO  15:17:16,257 - #19 :
+INFO  15:17:16,257 - #47 nula
+INFO  15:17:16,257 - #15 ]
+INFO  15:17:16,257 - #7 =
+INFO  15:17:16,258 - #47 Konstante
+INFO  15:17:16,258 - #19 :
+INFO  15:17:16,258 - #19 :
+INFO  15:17:16,258 - #47 jedan
+INFO  15:17:16,258 - #8 ;
+INFO  15:17:16,258 - #47 Nizovi
+INFO  15:17:16,258 - #19 :
+INFO  15:17:16,258 - #19 :
+INFO  15:17:16,258 - #47 niz
+INFO  15:17:16,258 - #14 [
+INFO  15:17:16,258 - #46 1
+INFO  15:17:16,258 - #15 ]
+INFO  15:17:16,258 - #7 =
+INFO  15:17:16,258 - #46 2
+INFO  15:17:16,258 - #8 ;
+INFO  15:17:16,258 - #47 Nizovi
+INFO  15:17:16,258 - #19 :
+INFO  15:17:16,258 - #19 :
+INFO  15:17:16,258 - #47 niz
+INFO  15:17:16,258 - #14 [
+INFO  15:17:16,258 - #47 Nizovi
+INFO  15:17:16,258 - #19 :
+INFO  15:17:16,259 - #19 :
+INFO  15:17:16,259 - #47 niz
+INFO  15:17:16,259 - #14 [
+INFO  15:17:16,259 - #47 Konstante
+INFO  15:17:16,259 - #19 :
+INFO  15:17:16,259 - #19 :
+INFO  15:17:16,259 - #47 jedan
+INFO  15:17:16,259 - #15 ]
+INFO  15:17:16,259 - #15 ]
+INFO  15:17:16,259 - #7 =
+INFO  15:17:16,259 - #47 Nizovi
+INFO  15:17:16,259 - #19 :
+INFO  15:17:16,259 - #19 :
+INFO  15:17:16,259 - #47 niz
+INFO  15:17:16,260 - #14 [
+INFO  15:17:16,260 - #47 Nizovi
+INFO  15:17:16,260 - #19 :
+INFO  15:17:16,260 - #19 :
+INFO  15:17:16,260 - #47 niz
+INFO  15:17:16,260 - #14 [
+INFO  15:17:16,260 - #46 0
+INFO  15:17:16,260 - #15 ]
+INFO  15:17:16,260 - #15 ]
+INFO  15:17:16,260 - #4 *
+INFO  15:17:16,260 - #46 3
+INFO  15:17:16,260 - #8 ;
+INFO  15:17:16,260 - #47 bodovi
+INFO  15:17:16,260 - #7 =
+INFO  15:17:16,260 - #47 Nizovi
+INFO  15:17:16,260 - #19 :
+INFO  15:17:16,260 - #19 :
+INFO  15:17:16,260 - #47 niz
+INFO  15:17:16,260 - #14 [
+INFO  15:17:16,260 - #46 2
+INFO  15:17:16,260 - #15 ]
+INFO  15:17:16,260 - #5 /
+INFO  15:17:16,260 - #47 Nizovi
+INFO  15:17:16,261 - #19 :
+INFO  15:17:16,261 - #19 :
+INFO  15:17:16,261 - #47 niz
+INFO  15:17:16,261 - #14 [
+INFO  15:17:16,261 - #46 0
+INFO  15:17:16,261 - #15 ]
+INFO  15:17:16,261 - #8 ;
+INFO  15:17:16,261 - #24 print
+INFO  15:17:16,261 - #10 (
+INFO  15:17:16,261 - #47 bodovi
+INFO  15:17:16,261 - #13 )
+INFO  15:17:16,261 - #8 ;
+INFO  15:17:16,261 - #24 print
+INFO  15:17:16,261 - #10 (
+INFO  15:17:16,261 - #47 Nizovi
+INFO  15:17:16,261 - #19 :
+INFO  15:17:16,261 - #19 :
+INFO  15:17:16,261 - #47 niz
+INFO  15:17:16,261 - #14 [
+INFO  15:17:16,261 - #46 2
+INFO  15:17:16,262 - #15 ]
+INFO  15:17:16,262 - #13 )
+INFO  15:17:16,262 - #8 ;
+INFO  15:17:16,262 - #47 Nizovi
+INFO  15:17:16,262 - #19 :
+INFO  15:17:16,262 - #19 :
+INFO  15:17:16,262 - #47 nizch
+INFO  15:17:16,262 - #7 =
+INFO  15:17:16,262 - #28 new
+INFO  15:17:16,262 - #47 char
+INFO  15:17:16,262 - #14 [
+INFO  15:17:16,262 - #46 3
+INFO  15:17:16,262 - #15 ]
+INFO  15:17:16,262 - #8 ;
+INFO  15:17:16,262 - #47 Nizovi
+INFO  15:17:16,262 - #19 :
+INFO  15:17:16,262 - #19 :
+INFO  15:17:16,262 - #47 nizch
+INFO  15:17:16,262 - #14 [
+INFO  15:17:16,262 - #46 0
+INFO  15:17:16,262 - #15 ]
+INFO  15:17:16,262 - #7 =
+INFO  15:17:16,262 - #48 'a'
+INFO  15:17:16,262 - #8 ;
+INFO  15:17:16,262 - #47 Nizovi
+INFO  15:17:16,262 - #19 :
+INFO  15:17:16,262 - #19 :
+INFO  15:17:16,262 - #47 nizch
+INFO  15:17:16,262 - #14 [
+INFO  15:17:16,262 - #47 Konstante
+INFO  15:17:16,262 - #19 :
+INFO  15:17:16,262 - #19 :
+INFO  15:17:16,263 - #47 jedan
+INFO  15:17:16,263 - #15 ]
+INFO  15:17:16,263 - #7 =
+INFO  15:17:16,263 - #48 'b'
+INFO  15:17:16,263 - #8 ;
+INFO  15:17:16,263 - #47 Nizovi
+INFO  15:17:16,263 - #19 :
+INFO  15:17:16,263 - #19 :
+INFO  15:17:16,263 - #47 nizch
+INFO  15:17:16,263 - #14 [
+INFO  15:17:16,263 - #47 Konstante
+INFO  15:17:16,263 - #19 :
+INFO  15:17:16,263 - #19 :
+INFO  15:17:16,263 - #47 pet
+INFO  15:17:16,263 - #3 -
+INFO  15:17:16,263 - #46 3
+INFO  15:17:16,263 - #15 ]
+INFO  15:17:16,263 - #7 =
+INFO  15:17:16,263 - #48 'c'
+INFO  15:17:16,264 - #8 ;
+INFO  15:17:16,264 - #24 print
+INFO  15:17:16,264 - #10 (
+INFO  15:17:16,264 - #47 Nizovi
+INFO  15:17:16,264 - #19 :
+INFO  15:17:16,264 - #19 :
+INFO  15:17:16,264 - #47 nizch
+INFO  15:17:16,264 - #14 [
+INFO  15:17:16,264 - #46 1
+INFO  15:17:16,264 - #15 ]
+INFO  15:17:16,264 - #13 )
+INFO  15:17:16,264 - #8 ;
+INFO  15:17:16,264 - #24 print
+INFO  15:17:16,264 - #10 (
+INFO  15:17:16,264 - #47 Nizovi
+INFO  15:17:16,264 - #19 :
+INFO  15:17:16,264 - #19 :
+INFO  15:17:16,264 - #47 nizch
+INFO  15:17:16,264 - #14 [
+INFO  15:17:16,264 - #47 Konstante
+INFO  15:17:16,264 - #19 :
+INFO  15:17:16,264 - #19 :
+INFO  15:17:16,264 - #47 jedan
+INFO  15:17:16,264 - #4 *
+INFO  15:17:16,264 - #46 2
+INFO  15:17:16,264 - #15 ]
+INFO  15:17:16,264 - #13 )
+INFO  15:17:16,264 - #8 ;
+INFO  15:17:16,264 - #47 a
+INFO  15:17:16,264 - #7 =
+INFO  15:17:16,264 - #46 1
+INFO  15:17:16,264 - #8 ;
+INFO  15:17:16,264 - #31 read
+INFO  15:17:16,265 - #10 (
+INFO  15:17:16,265 - #47 bodovi
+INFO  15:17:16,265 - #13 )
+INFO  15:17:16,265 - #8 ;
+INFO  15:17:16,265 - #47 bodovi
+INFO  15:17:16,265 - #7 =
+INFO  15:17:16,265 - #3 -
+INFO  15:17:16,265 - #47 bodovi
+INFO  15:17:16,265 - #8 ;
+INFO  15:17:16,265 - #24 print
+INFO  15:17:16,265 - #10 (
+INFO  15:17:16,265 - #47 bodovi
+INFO  15:17:16,265 - #13 )
+INFO  15:17:16,265 - #8 ;
+INFO  15:17:16,265 - #17 }
+INFO  15:17:16,265 - #17 }
+INFO  15:17:16,271 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+        NameSpaceName(
+         Konstante
+        ) [NameSpaceName]
+        NameSpaceBegin(
+        ) [NameSpaceBegin]
+        VarLists(
+          VarLists(
+            VarLists(
+              NoVarLists(
+              ) [NoVarLists]
+              ConstPartNamespace(
+                ConstType(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                ) [ConstType]
+                ConstD(
+                  ConstDeclaration(
+                   nula
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstDeclaration]
+                ) [ConstD]
+              ) [ConstPartNamespace]
+            ) [VarLists]
+            ConstPartNamespace(
+              ConstType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [ConstType]
+              ConstD(
+                ConstDeclaration(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstDeclaration]
+              ) [ConstD]
+            ) [ConstPartNamespace]
+          ) [VarLists]
+          ConstPartNamespace(
+            ConstType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [ConstType]
+            ConstD(
+              ConstDeclaration(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstDeclaration]
+            ) [ConstD]
+          ) [ConstPartNamespace]
+        ) [VarLists]
+        NoMethodDecar(
+        ) [NoMethodDecar]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+      NameSpaceName(
+       Nizovi
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        VarLists(
+          NoVarLists(
+          ) [NoVarLists]
+          VarPartNamespace(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               niz
+                Array(
+                ) [Array]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [VarPartNamespace]
+        ) [VarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             nizch
+              Array(
+              ) [Array]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      FieldDecls(
+        Fld(
+          VarType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             bodovi
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [Fld]
+        FieldDecls(
+          Fld(
+            VarType(
+              OnceIdent(
+               bool
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               bt
+                NoArray(
+                ) [NoArray]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [Fld]
+          NoFieldDecl(
+          ) [NoFieldDecl]
+        ) [FieldDecls]
+      ) [FieldDecls]
+      StatementsNew(
+        StatementsNew(
+          StatementsNew(
+            StatementsNew(
+              StatementsNew(
+                StatementsNew(
+                  StatementsNew(
+                    StatementsNew(
+                      StatementsNew(
+                        StatementsNew(
+                          StatementsNew(
+                            StatementsNew(
+                              StatementsNew(
+                                StatementsNew(
+                                  StatementsNew(
+                                    StatementsNew(
+                                      StatementsNew(
+                                        StatementsNew(
+                                          StatementsNew(
+                                            StatementsNew(
+                                              StatementsNew(
+                                                StatementsNew(
+                                                  StatementsNew(
+                                                    NoStatements(
+                                                    ) [NoStatements]
+                                                    MatchedStm(
+                                                      StatementD(
+                                                        DesigAssign(
+                                                          Designator(
+                                                            DesigNameO(
+                                                             bodovi
+                                                            ) [DesigNameO]
+                                                            NoDesigAddit(
+                                                            ) [NoDesigAddit]
+                                                          ) [Designator]
+                                                          AssignOpE(
+                                                          ) [AssignOpE]
+                                                          ExprNoMinus(
+                                                            TermF(
+                                                              FactorConst(
+                                                                NumConst(
+                                                                 0
+                                                                ) [NumConst]
+                                                              ) [FactorConst]
+                                                            ) [TermF]
+                                                          ) [ExprNoMinus]
+                                                        ) [DesigAssign]
+                                                      ) [StatementD]
+                                                    ) [MatchedStm]
+                                                  ) [StatementsNew]
+                                                  MatchedStm(
+                                                    StatementD(
+                                                      DesigPlusPlus(
+                                                        Designator(
+                                                          DesigNameO(
+                                                           bodovi
+                                                          ) [DesigNameO]
+                                                          NoDesigAddit(
+                                                          ) [NoDesigAddit]
+                                                        ) [Designator]
+                                                      ) [DesigPlusPlus]
+                                                    ) [StatementD]
+                                                  ) [MatchedStm]
+                                                ) [StatementsNew]
+                                                MatchedStm(
+                                                  StatementD(
+                                                    DesigAssign(
+                                                      Designator(
+                                                        DesigNameO(
+                                                         bodovi
+                                                        ) [DesigNameO]
+                                                        NoDesigAddit(
+                                                        ) [NoDesigAddit]
+                                                      ) [Designator]
+                                                      AssignOpE(
+                                                      ) [AssignOpE]
+                                                      ExprAdd(
+                                                        ExprNoMinus(
+                                                          TermF(
+                                                            FactorDes(
+                                                              Designator(
+                                                                DesigNameO(
+                                                                 bodovi
+                                                                ) [DesigNameO]
+                                                                NoDesigAddit(
+                                                                ) [NoDesigAddit]
+                                                              ) [Designator]
+                                                              NoOptActParts(
+                                                              ) [NoOptActParts]
+                                                            ) [FactorDes]
+                                                          ) [TermF]
+                                                        ) [ExprNoMinus]
+                                                        PlusOp(
+                                                        ) [PlusOp]
+                                                        TermF(
+                                                          FactorDes(
+                                                            Designator(
+                                                              DesigNameD(
+                                                                NameSpaceName(
+                                                                 Konstante
+                                                                ) [NameSpaceName]
+                                                               jedan
+                                                              ) [DesigNameD]
+                                                              NoDesigAddit(
+                                                              ) [NoDesigAddit]
+                                                            ) [Designator]
+                                                            NoOptActParts(
+                                                            ) [NoOptActParts]
+                                                          ) [FactorDes]
+                                                        ) [TermF]
+                                                      ) [ExprAdd]
+                                                    ) [DesigAssign]
+                                                  ) [StatementD]
+                                                ) [MatchedStm]
+                                              ) [StatementsNew]
+                                              MatchedStm(
+                                                StatementD(
+                                                  DesigAssign(
+                                                    Designator(
+                                                      DesigNameO(
+                                                       bodovi
+                                                      ) [DesigNameO]
+                                                      NoDesigAddit(
+                                                      ) [NoDesigAddit]
+                                                    ) [Designator]
+                                                    AssignOpE(
+                                                    ) [AssignOpE]
+                                                    ExprNoMinus(
+                                                      TermM(
+                                                        TermF(
+                                                          FactorDes(
+                                                            Designator(
+                                                              DesigNameO(
+                                                               bodovi
+                                                              ) [DesigNameO]
+                                                              NoDesigAddit(
+                                                              ) [NoDesigAddit]
+                                                            ) [Designator]
+                                                            NoOptActParts(
+                                                            ) [NoOptActParts]
+                                                          ) [FactorDes]
+                                                        ) [TermF]
+                                                        TimesOp(
+                                                        ) [TimesOp]
+                                                        FactorDes(
+                                                          Designator(
+                                                            DesigNameD(
+                                                              NameSpaceName(
+                                                               Konstante
+                                                              ) [NameSpaceName]
+                                                             pet
+                                                            ) [DesigNameD]
+                                                            NoDesigAddit(
+                                                            ) [NoDesigAddit]
+                                                          ) [Designator]
+                                                          NoOptActParts(
+                                                          ) [NoOptActParts]
+                                                        ) [FactorDes]
+                                                      ) [TermM]
+                                                    ) [ExprNoMinus]
+                                                  ) [DesigAssign]
+                                                ) [StatementD]
+                                              ) [MatchedStm]
+                                            ) [StatementsNew]
+                                            MatchedStm(
+                                              StatementD(
+                                                DesigMinusMinus(
+                                                  Designator(
+                                                    DesigNameO(
+                                                     bodovi
+                                                    ) [DesigNameO]
+                                                    NoDesigAddit(
+                                                    ) [NoDesigAddit]
+                                                  ) [Designator]
+                                                ) [DesigMinusMinus]
+                                              ) [StatementD]
+                                            ) [MatchedStm]
+                                          ) [StatementsNew]
+                                          MatchedStm(
+                                            StatementPrint(
+                                              ExprNoMinus(
+                                                TermF(
+                                                  FactorDes(
+                                                    Designator(
+                                                      DesigNameO(
+                                                       bodovi
+                                                      ) [DesigNameO]
+                                                      NoDesigAddit(
+                                                      ) [NoDesigAddit]
+                                                    ) [Designator]
+                                                    NoOptActParts(
+                                                    ) [NoOptActParts]
+                                                  ) [FactorDes]
+                                                ) [TermF]
+                                              ) [ExprNoMinus]
+                                              NoNumPrint(
+                                              ) [NoNumPrint]
+                                            ) [StatementPrint]
+                                          ) [MatchedStm]
+                                        ) [StatementsNew]
+                                        MatchedStm(
+                                          StatementD(
+                                            DesigAssign(
+                                              Designator(
+                                                DesigNameD(
+                                                  NameSpaceName(
+                                                   Nizovi
+                                                  ) [NameSpaceName]
+                                                 niz
+                                                ) [DesigNameD]
+                                                NoDesigAddit(
+                                                ) [NoDesigAddit]
+                                              ) [Designator]
+                                              AssignOpE(
+                                              ) [AssignOpE]
+                                              ExprNoMinus(
+                                                TermF(
+                                                  FactorNewArray(
+                                                    OnceIdent(
+                                                     int
+                                                    ) [OnceIdent]
+                                                    ExprNoMinus(
+                                                      TermF(
+                                                        FactorConst(
+                                                          NumConst(
+                                                           3
+                                                          ) [NumConst]
+                                                        ) [FactorConst]
+                                                      ) [TermF]
+                                                    ) [ExprNoMinus]
+                                                  ) [FactorNewArray]
+                                                ) [TermF]
+                                              ) [ExprNoMinus]
+                                            ) [DesigAssign]
+                                          ) [StatementD]
+                                        ) [MatchedStm]
+                                      ) [StatementsNew]
+                                      MatchedStm(
+                                        StatementD(
+                                          DesigAssign(
+                                            Designator(
+                                              DesigNameD(
+                                                NameSpaceName(
+                                                 Nizovi
+                                                ) [NameSpaceName]
+                                               niz
+                                              ) [DesigNameD]
+                                              DesigAddit(
+                                                NoDesigAddit(
+                                                ) [NoDesigAddit]
+                                                DesigArr(
+                                                  ExprNoMinus(
+                                                    TermF(
+                                                      FactorDes(
+                                                        Designator(
+                                                          DesigNameD(
+                                                            NameSpaceName(
+                                                             Konstante
+                                                            ) [NameSpaceName]
+                                                           nula
+                                                          ) [DesigNameD]
+                                                          NoDesigAddit(
+                                                          ) [NoDesigAddit]
+                                                        ) [Designator]
+                                                        NoOptActParts(
+                                                        ) [NoOptActParts]
+                                                      ) [FactorDes]
+                                                    ) [TermF]
+                                                  ) [ExprNoMinus]
+                                                ) [DesigArr]
+                                              ) [DesigAddit]
+                                            ) [Designator]
+                                            AssignOpE(
+                                            ) [AssignOpE]
+                                            ExprNoMinus(
+                                              TermF(
+                                                FactorDes(
+                                                  Designator(
+                                                    DesigNameD(
+                                                      NameSpaceName(
+                                                       Konstante
+                                                      ) [NameSpaceName]
+                                                     jedan
+                                                    ) [DesigNameD]
+                                                    NoDesigAddit(
+                                                    ) [NoDesigAddit]
+                                                  ) [Designator]
+                                                  NoOptActParts(
+                                                  ) [NoOptActParts]
+                                                ) [FactorDes]
+                                              ) [TermF]
+                                            ) [ExprNoMinus]
+                                          ) [DesigAssign]
+                                        ) [StatementD]
+                                      ) [MatchedStm]
+                                    ) [StatementsNew]
+                                    MatchedStm(
+                                      StatementD(
+                                        DesigAssign(
+                                          Designator(
+                                            DesigNameD(
+                                              NameSpaceName(
+                                               Nizovi
+                                              ) [NameSpaceName]
+                                             niz
+                                            ) [DesigNameD]
+                                            DesigAddit(
+                                              NoDesigAddit(
+                                              ) [NoDesigAddit]
+                                              DesigArr(
+                                                ExprNoMinus(
+                                                  TermF(
+                                                    FactorConst(
+                                                      NumConst(
+                                                       1
+                                                      ) [NumConst]
+                                                    ) [FactorConst]
+                                                  ) [TermF]
+                                                ) [ExprNoMinus]
+                                              ) [DesigArr]
+                                            ) [DesigAddit]
+                                          ) [Designator]
+                                          AssignOpE(
+                                          ) [AssignOpE]
+                                          ExprNoMinus(
+                                            TermF(
+                                              FactorConst(
+                                                NumConst(
+                                                 2
+                                                ) [NumConst]
+                                              ) [FactorConst]
+                                            ) [TermF]
+                                          ) [ExprNoMinus]
+                                        ) [DesigAssign]
+                                      ) [StatementD]
+                                    ) [MatchedStm]
+                                  ) [StatementsNew]
+                                  MatchedStm(
+                                    StatementD(
+                                      DesigAssign(
+                                        Designator(
+                                          DesigNameD(
+                                            NameSpaceName(
+                                             Nizovi
+                                            ) [NameSpaceName]
+                                           niz
+                                          ) [DesigNameD]
+                                          DesigAddit(
+                                            NoDesigAddit(
+                                            ) [NoDesigAddit]
+                                            DesigArr(
+                                              ExprNoMinus(
+                                                TermF(
+                                                  FactorDes(
+                                                    Designator(
+                                                      DesigNameD(
+                                                        NameSpaceName(
+                                                         Nizovi
+                                                        ) [NameSpaceName]
+                                                       niz
+                                                      ) [DesigNameD]
+                                                      DesigAddit(
+                                                        NoDesigAddit(
+                                                        ) [NoDesigAddit]
+                                                        DesigArr(
+                                                          ExprNoMinus(
+                                                            TermF(
+                                                              FactorDes(
+                                                                Designator(
+                                                                  DesigNameD(
+                                                                    NameSpaceName(
+                                                                     Konstante
+                                                                    ) [NameSpaceName]
+                                                                   jedan
+                                                                  ) [DesigNameD]
+                                                                  NoDesigAddit(
+                                                                  ) [NoDesigAddit]
+                                                                ) [Designator]
+                                                                NoOptActParts(
+                                                                ) [NoOptActParts]
+                                                              ) [FactorDes]
+                                                            ) [TermF]
+                                                          ) [ExprNoMinus]
+                                                        ) [DesigArr]
+                                                      ) [DesigAddit]
+                                                    ) [Designator]
+                                                    NoOptActParts(
+                                                    ) [NoOptActParts]
+                                                  ) [FactorDes]
+                                                ) [TermF]
+                                              ) [ExprNoMinus]
+                                            ) [DesigArr]
+                                          ) [DesigAddit]
+                                        ) [Designator]
+                                        AssignOpE(
+                                        ) [AssignOpE]
+                                        ExprNoMinus(
+                                          TermM(
+                                            TermF(
+                                              FactorDes(
+                                                Designator(
+                                                  DesigNameD(
+                                                    NameSpaceName(
+                                                     Nizovi
+                                                    ) [NameSpaceName]
+                                                   niz
+                                                  ) [DesigNameD]
+                                                  DesigAddit(
+                                                    NoDesigAddit(
+                                                    ) [NoDesigAddit]
+                                                    DesigArr(
+                                                      ExprNoMinus(
+                                                        TermF(
+                                                          FactorDes(
+                                                            Designator(
+                                                              DesigNameD(
+                                                                NameSpaceName(
+                                                                 Nizovi
+                                                                ) [NameSpaceName]
+                                                               niz
+                                                              ) [DesigNameD]
+                                                              DesigAddit(
+                                                                NoDesigAddit(
+                                                                ) [NoDesigAddit]
+                                                                DesigArr(
+                                                                  ExprNoMinus(
+                                                                    TermF(
+                                                                      FactorConst(
+                                                                        NumConst(
+                                                                         0
+                                                                        ) [NumConst]
+                                                                      ) [FactorConst]
+                                                                    ) [TermF]
+                                                                  ) [ExprNoMinus]
+                                                                ) [DesigArr]
+                                                              ) [DesigAddit]
+                                                            ) [Designator]
+                                                            NoOptActParts(
+                                                            ) [NoOptActParts]
+                                                          ) [FactorDes]
+                                                        ) [TermF]
+                                                      ) [ExprNoMinus]
+                                                    ) [DesigArr]
+                                                  ) [DesigAddit]
+                                                ) [Designator]
+                                                NoOptActParts(
+                                                ) [NoOptActParts]
+                                              ) [FactorDes]
+                                            ) [TermF]
+                                            TimesOp(
+                                            ) [TimesOp]
+                                            FactorConst(
+                                              NumConst(
+                                               3
+                                              ) [NumConst]
+                                            ) [FactorConst]
+                                          ) [TermM]
+                                        ) [ExprNoMinus]
+                                      ) [DesigAssign]
+                                    ) [StatementD]
+                                  ) [MatchedStm]
+                                ) [StatementsNew]
+                                MatchedStm(
+                                  StatementD(
+                                    DesigAssign(
+                                      Designator(
+                                        DesigNameO(
+                                         bodovi
+                                        ) [DesigNameO]
+                                        NoDesigAddit(
+                                        ) [NoDesigAddit]
+                                      ) [Designator]
+                                      AssignOpE(
+                                      ) [AssignOpE]
+                                      ExprNoMinus(
+                                        TermM(
+                                          TermF(
+                                            FactorDes(
+                                              Designator(
+                                                DesigNameD(
+                                                  NameSpaceName(
+                                                   Nizovi
+                                                  ) [NameSpaceName]
+                                                 niz
+                                                ) [DesigNameD]
+                                                DesigAddit(
+                                                  NoDesigAddit(
+                                                  ) [NoDesigAddit]
+                                                  DesigArr(
+                                                    ExprNoMinus(
+                                                      TermF(
+                                                        FactorConst(
+                                                          NumConst(
+                                                           2
+                                                          ) [NumConst]
+                                                        ) [FactorConst]
+                                                      ) [TermF]
+                                                    ) [ExprNoMinus]
+                                                  ) [DesigArr]
+                                                ) [DesigAddit]
+                                              ) [Designator]
+                                              NoOptActParts(
+                                              ) [NoOptActParts]
+                                            ) [FactorDes]
+                                          ) [TermF]
+                                          DivOp(
+                                          ) [DivOp]
+                                          FactorDes(
+                                            Designator(
+                                              DesigNameD(
+                                                NameSpaceName(
+                                                 Nizovi
+                                                ) [NameSpaceName]
+                                               niz
+                                              ) [DesigNameD]
+                                              DesigAddit(
+                                                NoDesigAddit(
+                                                ) [NoDesigAddit]
+                                                DesigArr(
+                                                  ExprNoMinus(
+                                                    TermF(
+                                                      FactorConst(
+                                                        NumConst(
+                                                         0
+                                                        ) [NumConst]
+                                                      ) [FactorConst]
+                                                    ) [TermF]
+                                                  ) [ExprNoMinus]
+                                                ) [DesigArr]
+                                              ) [DesigAddit]
+                                            ) [Designator]
+                                            NoOptActParts(
+                                            ) [NoOptActParts]
+                                          ) [FactorDes]
+                                        ) [TermM]
+                                      ) [ExprNoMinus]
+                                    ) [DesigAssign]
+                                  ) [StatementD]
+                                ) [MatchedStm]
+                              ) [StatementsNew]
+                              MatchedStm(
+                                StatementPrint(
+                                  ExprNoMinus(
+                                    TermF(
+                                      FactorDes(
+                                        Designator(
+                                          DesigNameO(
+                                           bodovi
+                                          ) [DesigNameO]
+                                          NoDesigAddit(
+                                          ) [NoDesigAddit]
+                                        ) [Designator]
+                                        NoOptActParts(
+                                        ) [NoOptActParts]
+                                      ) [FactorDes]
+                                    ) [TermF]
+                                  ) [ExprNoMinus]
+                                  NoNumPrint(
+                                  ) [NoNumPrint]
+                                ) [StatementPrint]
+                              ) [MatchedStm]
+                            ) [StatementsNew]
+                            MatchedStm(
+                              StatementPrint(
+                                ExprNoMinus(
+                                  TermF(
+                                    FactorDes(
+                                      Designator(
+                                        DesigNameD(
+                                          NameSpaceName(
+                                           Nizovi
+                                          ) [NameSpaceName]
+                                         niz
+                                        ) [DesigNameD]
+                                        DesigAddit(
+                                          NoDesigAddit(
+                                          ) [NoDesigAddit]
+                                          DesigArr(
+                                            ExprNoMinus(
+                                              TermF(
+                                                FactorConst(
+                                                  NumConst(
+                                                   2
+                                                  ) [NumConst]
+                                                ) [FactorConst]
+                                              ) [TermF]
+                                            ) [ExprNoMinus]
+                                          ) [DesigArr]
+                                        ) [DesigAddit]
+                                      ) [Designator]
+                                      NoOptActParts(
+                                      ) [NoOptActParts]
+                                    ) [FactorDes]
+                                  ) [TermF]
+                                ) [ExprNoMinus]
+                                NoNumPrint(
+                                ) [NoNumPrint]
+                              ) [StatementPrint]
+                            ) [MatchedStm]
+                          ) [StatementsNew]
+                          MatchedStm(
+                            StatementD(
+                              DesigAssign(
+                                Designator(
+                                  DesigNameD(
+                                    NameSpaceName(
+                                     Nizovi
+                                    ) [NameSpaceName]
+                                   nizch
+                                  ) [DesigNameD]
+                                  NoDesigAddit(
+                                  ) [NoDesigAddit]
+                                ) [Designator]
+                                AssignOpE(
+                                ) [AssignOpE]
+                                ExprNoMinus(
+                                  TermF(
+                                    FactorNewArray(
+                                      OnceIdent(
+                                       char
+                                      ) [OnceIdent]
+                                      ExprNoMinus(
+                                        TermF(
+                                          FactorConst(
+                                            NumConst(
+                                             3
+                                            ) [NumConst]
+                                          ) [FactorConst]
+                                        ) [TermF]
+                                      ) [ExprNoMinus]
+                                    ) [FactorNewArray]
+                                  ) [TermF]
+                                ) [ExprNoMinus]
+                              ) [DesigAssign]
+                            ) [StatementD]
+                          ) [MatchedStm]
+                        ) [StatementsNew]
+                        MatchedStm(
+                          StatementD(
+                            DesigAssign(
+                              Designator(
+                                DesigNameD(
+                                  NameSpaceName(
+                                   Nizovi
+                                  ) [NameSpaceName]
+                                 nizch
+                                ) [DesigNameD]
+                                DesigAddit(
+                                  NoDesigAddit(
+                                  ) [NoDesigAddit]
+                                  DesigArr(
+                                    ExprNoMinus(
+                                      TermF(
+                                        FactorConst(
+                                          NumConst(
+                                           0
+                                          ) [NumConst]
+                                        ) [FactorConst]
+                                      ) [TermF]
+                                    ) [ExprNoMinus]
+                                  ) [DesigArr]
+                                ) [DesigAddit]
+                              ) [Designator]
+                              AssignOpE(
+                              ) [AssignOpE]
+                              ExprNoMinus(
+                                TermF(
+                                  FactorConst(
+                                    CharConst(
+                                     'a'
+                                    ) [CharConst]
+                                  ) [FactorConst]
+                                ) [TermF]
+                              ) [ExprNoMinus]
+                            ) [DesigAssign]
+                          ) [StatementD]
+                        ) [MatchedStm]
+                      ) [StatementsNew]
+                      MatchedStm(
+                        StatementD(
+                          DesigAssign(
+                            Designator(
+                              DesigNameD(
+                                NameSpaceName(
+                                 Nizovi
+                                ) [NameSpaceName]
+                               nizch
+                              ) [DesigNameD]
+                              DesigAddit(
+                                NoDesigAddit(
+                                ) [NoDesigAddit]
+                                DesigArr(
+                                  ExprNoMinus(
+                                    TermF(
+                                      FactorDes(
+                                        Designator(
+                                          DesigNameD(
+                                            NameSpaceName(
+                                             Konstante
+                                            ) [NameSpaceName]
+                                           jedan
+                                          ) [DesigNameD]
+                                          NoDesigAddit(
+                                          ) [NoDesigAddit]
+                                        ) [Designator]
+                                        NoOptActParts(
+                                        ) [NoOptActParts]
+                                      ) [FactorDes]
+                                    ) [TermF]
+                                  ) [ExprNoMinus]
+                                ) [DesigArr]
+                              ) [DesigAddit]
+                            ) [Designator]
+                            AssignOpE(
+                            ) [AssignOpE]
+                            ExprNoMinus(
+                              TermF(
+                                FactorConst(
+                                  CharConst(
+                                   'b'
+                                  ) [CharConst]
+                                ) [FactorConst]
+                              ) [TermF]
+                            ) [ExprNoMinus]
+                          ) [DesigAssign]
+                        ) [StatementD]
+                      ) [MatchedStm]
+                    ) [StatementsNew]
+                    MatchedStm(
+                      StatementD(
+                        DesigAssign(
+                          Designator(
+                            DesigNameD(
+                              NameSpaceName(
+                               Nizovi
+                              ) [NameSpaceName]
+                             nizch
+                            ) [DesigNameD]
+                            DesigAddit(
+                              NoDesigAddit(
+                              ) [NoDesigAddit]
+                              DesigArr(
+                                ExprAdd(
+                                  ExprNoMinus(
+                                    TermF(
+                                      FactorDes(
+                                        Designator(
+                                          DesigNameD(
+                                            NameSpaceName(
+                                             Konstante
+                                            ) [NameSpaceName]
+                                           pet
+                                          ) [DesigNameD]
+                                          NoDesigAddit(
+                                          ) [NoDesigAddit]
+                                        ) [Designator]
+                                        NoOptActParts(
+                                        ) [NoOptActParts]
+                                      ) [FactorDes]
+                                    ) [TermF]
+                                  ) [ExprNoMinus]
+                                  MinusOp(
+                                  ) [MinusOp]
+                                  TermF(
+                                    FactorConst(
+                                      NumConst(
+                                       3
+                                      ) [NumConst]
+                                    ) [FactorConst]
+                                  ) [TermF]
+                                ) [ExprAdd]
+                              ) [DesigArr]
+                            ) [DesigAddit]
+                          ) [Designator]
+                          AssignOpE(
+                          ) [AssignOpE]
+                          ExprNoMinus(
+                            TermF(
+                              FactorConst(
+                                CharConst(
+                                 'c'
+                                ) [CharConst]
+                              ) [FactorConst]
+                            ) [TermF]
+                          ) [ExprNoMinus]
+                        ) [DesigAssign]
+                      ) [StatementD]
+                    ) [MatchedStm]
+                  ) [StatementsNew]
+                  MatchedStm(
+                    StatementPrint(
+                      ExprNoMinus(
+                        TermF(
+                          FactorDes(
+                            Designator(
+                              DesigNameD(
+                                NameSpaceName(
+                                 Nizovi
+                                ) [NameSpaceName]
+                               nizch
+                              ) [DesigNameD]
+                              DesigAddit(
+                                NoDesigAddit(
+                                ) [NoDesigAddit]
+                                DesigArr(
+                                  ExprNoMinus(
+                                    TermF(
+                                      FactorConst(
+                                        NumConst(
+                                         1
+                                        ) [NumConst]
+                                      ) [FactorConst]
+                                    ) [TermF]
+                                  ) [ExprNoMinus]
+                                ) [DesigArr]
+                              ) [DesigAddit]
+                            ) [Designator]
+                            NoOptActParts(
+                            ) [NoOptActParts]
+                          ) [FactorDes]
+                        ) [TermF]
+                      ) [ExprNoMinus]
+                      NoNumPrint(
+                      ) [NoNumPrint]
+                    ) [StatementPrint]
+                  ) [MatchedStm]
+                ) [StatementsNew]
+                MatchedStm(
+                  StatementPrint(
+                    ExprNoMinus(
+                      TermF(
+                        FactorDes(
+                          Designator(
+                            DesigNameD(
+                              NameSpaceName(
+                               Nizovi
+                              ) [NameSpaceName]
+                             nizch
+                            ) [DesigNameD]
+                            DesigAddit(
+                              NoDesigAddit(
+                              ) [NoDesigAddit]
+                              DesigArr(
+                                ExprNoMinus(
+                                  TermM(
+                                    TermF(
+                                      FactorDes(
+                                        Designator(
+                                          DesigNameD(
+                                            NameSpaceName(
+                                             Konstante
+                                            ) [NameSpaceName]
+                                           jedan
+                                          ) [DesigNameD]
+                                          NoDesigAddit(
+                                          ) [NoDesigAddit]
+                                        ) [Designator]
+                                        NoOptActParts(
+                                        ) [NoOptActParts]
+                                      ) [FactorDes]
+                                    ) [TermF]
+                                    TimesOp(
+                                    ) [TimesOp]
+                                    FactorConst(
+                                      NumConst(
+                                       2
+                                      ) [NumConst]
+                                    ) [FactorConst]
+                                  ) [TermM]
+                                ) [ExprNoMinus]
+                              ) [DesigArr]
+                            ) [DesigAddit]
+                          ) [Designator]
+                          NoOptActParts(
+                          ) [NoOptActParts]
+                        ) [FactorDes]
+                      ) [TermF]
+                    ) [ExprNoMinus]
+                    NoNumPrint(
+                    ) [NoNumPrint]
+                  ) [StatementPrint]
+                ) [MatchedStm]
+              ) [StatementsNew]
+              MatchedStm(
+                StatementD(
+                  DesigAssign(
+                    Designator(
+                      DesigNameO(
+                       a
+                      ) [DesigNameO]
+                      NoDesigAddit(
+                      ) [NoDesigAddit]
+                    ) [Designator]
+                    AssignOpE(
+                    ) [AssignOpE]
+                    ExprNoMinus(
+                      TermF(
+                        FactorConst(
+                          NumConst(
+                           1
+                          ) [NumConst]
+                        ) [FactorConst]
+                      ) [TermF]
+                    ) [ExprNoMinus]
+                  ) [DesigAssign]
+                ) [StatementD]
+              ) [MatchedStm]
+            ) [StatementsNew]
+            MatchedStm(
+              StatementRead(
+                Designator(
+                  DesigNameO(
+                   bodovi
+                  ) [DesigNameO]
+                  NoDesigAddit(
+                  ) [NoDesigAddit]
+                ) [Designator]
+              ) [StatementRead]
+            ) [MatchedStm]
+          ) [StatementsNew]
+          MatchedStm(
+            StatementD(
+              DesigAssign(
+                Designator(
+                  DesigNameO(
+                   bodovi
+                  ) [DesigNameO]
+                  NoDesigAddit(
+                  ) [NoDesigAddit]
+                ) [Designator]
+                AssignOpE(
+                ) [AssignOpE]
+                ExprMinus(
+                  TermF(
+                    FactorDes(
+                      Designator(
+                        DesigNameO(
+                         bodovi
+                        ) [DesigNameO]
+                        NoDesigAddit(
+                        ) [NoDesigAddit]
+                      ) [Designator]
+                      NoOptActParts(
+                      ) [NoOptActParts]
+                    ) [FactorDes]
+                  ) [TermF]
+                ) [ExprMinus]
+              ) [DesigAssign]
+            ) [StatementD]
+          ) [MatchedStm]
+        ) [StatementsNew]
+        MatchedStm(
+          StatementPrint(
+            ExprNoMinus(
+              TermF(
+                FactorDes(
+                  Designator(
+                    DesigNameO(
+                     bodovi
+                    ) [DesigNameO]
+                    NoDesigAddit(
+                    ) [NoDesigAddit]
+                  ) [Designator]
+                  NoOptActParts(
+                  ) [NoOptActParts]
+                ) [FactorDes]
+              ) [TermF]
+            ) [ExprNoMinus]
+            NoNumPrint(
+            ) [NoNumPrint]
+          ) [StatementPrint]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  15:17:16,272 - ===================================
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 31
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 32
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 33
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 33
+INFO  15:17:16,275 - Pristup konstanti Konstante_jedan na liniji 33
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 34
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 34
+INFO  15:17:16,275 - Pristup konstanti Konstante_pet na liniji 34
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 35
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 36
+INFO  15:17:16,275 - Pristup promenljivoj Nizovi_niz na liniji 38
+INFO  15:17:16,275 - Pristup konstanti Konstante_nula na liniji 39
+INFO  15:17:16,275 - Pristup konstanti Konstante_jedan na liniji 39
+INFO  15:17:16,275 - Pristup konstanti Konstante_jedan na liniji 41
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 42
+INFO  15:17:16,275 - Pristup promenljivoj bodovi na liniji 43
+INFO  15:17:16,275 - Pristup promenljivoj Nizovi_nizch na liniji 47
+INFO  15:17:16,275 - Pristup konstanti Konstante_jedan na liniji 49
+INFO  15:17:16,275 - Pristup konstanti Konstante_pet na liniji 50
+INFO  15:17:16,275 - Pristup konstanti Konstante_jedan na liniji 52
+INFO  15:17:16,275 - Pristup promenljivoj a na liniji 54
+INFO  15:17:16,276 - Pristup promenljivoj bodovi na liniji 55
+INFO  15:17:16,276 - read() na liniji 55
+INFO  15:17:16,276 - Pristup promenljivoj bodovi na liniji 56
+INFO  15:17:16,276 - Pristup promenljivoj bodovi na liniji 56
+INFO  15:17:16,276 - Pristup promenljivoj bodovi na liniji 57
+INFO  15:17:16,276 - postoji ispravan main na liniji 3
+INFO  15:17:16,276 - ===================================
+INFO  15:17:16,279 - Parsiranje uspesno zavrseno!

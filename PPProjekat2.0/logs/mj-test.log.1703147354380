@@ -1,0 +1,128 @@
+INFO  09:28:47,564 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:28:47,593 - #11 program
+INFO  09:28:47,593 - #47 test302
+INFO  09:28:47,593 - #12 namespace
+INFO  09:28:47,593 - #47 Addition
+INFO  09:28:47,593 - #16 {
+INFO  09:28:47,593 - #16 {
+INFO  09:28:47,594 - #17 }
+INFO  09:28:47,594 - #17 }
+INFO  09:28:47,594 - #12 namespace
+INFO  09:28:47,594 - #47 Unpacking
+INFO  09:28:47,595 - #16 {
+INFO  09:28:47,595 - #47 int
+INFO  09:28:47,595 - #47 niz
+INFO  09:28:47,595 - #14 [
+INFO  09:28:47,595 - #15 ]
+INFO  09:28:47,595 - #9 ,
+INFO  09:28:47,596 - #47 niz2
+INFO  09:28:47,596 - #14 [
+INFO  09:28:47,596 - #15 ]
+INFO  09:28:47,596 - #9 ,
+INFO  09:28:47,596 - #47 niz3
+INFO  09:28:47,597 - #14 [
+INFO  09:28:47,597 - #15 ]
+INFO  09:28:47,597 - #8 ;
+INFO  09:28:47,598 - #47 int
+INFO  09:28:47,598 - #47 a
+INFO  09:28:47,598 - #9 ,
+INFO  09:28:47,598 - #47 b
+INFO  09:28:47,598 - #8 ;
+INFO  09:28:47,598 - #16 {
+INFO  09:28:47,598 - #17 }
+INFO  09:28:47,599 - #17 }
+INFO  09:28:47,599 - #16 {
+INFO  09:28:47,599 - #17 }
+INFO  09:28:47,599 - Program(
+  Prog_id(
+   test302
+  ) [Prog_id]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+       Addition
+        NoInitLists(
+        ) [NoInitLists]
+        NoMethods(
+        ) [NoMethods]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+     Unpacking
+      InitLists(
+        InitLists(
+          NoInitLists(
+          ) [NoInitLists]
+          VarPart(
+            Var_dec(
+              VarType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [VarType]
+              VarIdList(
+                VarListCm(
+                  VarIdList(
+                    VarListCm(
+                      VarOrArrayId(
+                        VarId(
+                         niz
+                          Array(
+                          ) [Array]
+                        ) [VarId]
+                      ) [VarOrArrayId]
+                    ) [VarListCm]
+                    VarId(
+                     niz2
+                      Array(
+                      ) [Array]
+                    ) [VarId]
+                  ) [VarIdList]
+                ) [VarListCm]
+                VarId(
+                 niz3
+                  Array(
+                  ) [Array]
+                ) [VarId]
+              ) [VarIdList]
+            ) [Var_dec]
+          ) [VarPart]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarIdList(
+              VarListCm(
+                VarOrArrayId(
+                  VarId(
+                   a
+                    NoArray(
+                    ) [NoArray]
+                  ) [VarId]
+                ) [VarOrArrayId]
+              ) [VarListCm]
+              VarId(
+               b
+                NoArray(
+                ) [NoArray]
+              ) [VarId]
+            ) [VarIdList]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  NoInitLists(
+  ) [NoInitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  09:28:47,599 - ===================================

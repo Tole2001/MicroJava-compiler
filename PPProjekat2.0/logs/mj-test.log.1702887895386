@@ -1,0 +1,313 @@
+INFO  09:24:30,204 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:24:30,234 - #11 program
+INFO  09:24:30,234 - #47 test301
+INFO  09:24:30,234 - #12 namespace
+INFO  09:24:30,234 - #47 Konstante
+INFO  09:24:30,234 - #16 {
+INFO  09:24:30,234 - #21 const
+INFO  09:24:30,235 - #47 int
+INFO  09:24:30,235 - #47 nula
+INFO  09:24:30,235 - #7 =
+INFO  09:24:30,235 - #46 0
+INFO  09:24:30,235 - #8 ;
+INFO  09:24:30,236 - #21 const
+INFO  09:24:30,236 - #47 int
+INFO  09:24:30,236 - #47 jedan
+INFO  09:24:30,236 - #7 =
+INFO  09:24:30,236 - #46 1
+INFO  09:24:30,236 - #8 ;
+INFO  09:24:30,236 - #21 const
+INFO  09:24:30,236 - #47 int
+INFO  09:24:30,236 - #47 pet
+INFO  09:24:30,236 - #7 =
+INFO  09:24:30,238 - #46 5
+INFO  09:24:30,238 - #8 ;
+INFO  09:24:30,238 - #17 }
+ERROR 09:24:30,238 - 
+Sintaksna greska na liniji 7, 0
+INFO  09:24:30,238 - #12 namespace
+INFO  09:24:30,238 - #47 Nizovi
+INFO  09:24:30,238 - #16 {
+INFO  09:24:30,238 - #47 int
+INFO  09:24:30,239 - #47 niz
+INFO  09:24:30,239 - #14 [
+INFO  09:24:30,239 - #15 ]
+INFO  09:24:30,239 - #8 ;
+INFO  09:24:30,239 - #47 char
+INFO  09:24:30,239 - #47 nizch
+INFO  09:24:30,239 - #14 [
+ERROR 09:24:30,239 - Sintaksa greska deklaracije globalne promenljive na liniji 6
+INFO  09:24:30,239 - #15 ]
+INFO  09:24:30,239 - #8 ;
+INFO  09:24:30,240 - #16 {
+INFO  09:24:30,240 - #17 }
+INFO  09:24:30,240 - #17 }
+INFO  09:24:30,240 - #47 int
+INFO  09:24:30,241 - #47 a
+INFO  09:24:30,241 - #8 ;
+INFO  09:24:30,241 - #16 {
+INFO  09:24:30,241 - #26 void
+INFO  09:24:30,241 - #47 main
+INFO  09:24:30,241 - #10 (
+INFO  09:24:30,241 - #13 )
+INFO  09:24:30,241 - #47 int
+INFO  09:24:30,242 - #47 bodovi
+INFO  09:24:30,242 - #8 ;
+INFO  09:24:30,242 - #47 bool
+INFO  09:24:30,242 - #47 bt
+INFO  09:24:30,242 - #8 ;
+INFO  09:24:30,242 - #16 {
+INFO  09:24:30,242 - #47 bodovi
+INFO  09:24:30,242 - #7 =
+INFO  09:24:30,242 - #46 0
+INFO  09:24:30,243 - #8 ;
+INFO  09:24:30,243 - #47 bodovi
+INFO  09:24:30,244 - #33 ++
+INFO  09:24:30,244 - #8 ;
+INFO  09:24:30,244 - #47 bodovi
+INFO  09:24:30,244 - #7 =
+INFO  09:24:30,244 - #47 bodovi
+INFO  09:24:30,244 - #2 +
+INFO  09:24:30,244 - #47 Konstante
+INFO  09:24:30,244 - #19 :
+INFO  09:24:30,244 - #19 :
+INFO  09:24:30,244 - #47 jedan
+INFO  09:24:30,245 - #8 ;
+INFO  09:24:30,245 - #47 bodovi
+INFO  09:24:30,245 - #7 =
+INFO  09:24:30,245 - #47 bodovi
+INFO  09:24:30,245 - #4 *
+INFO  09:24:30,245 - #47 Konstante
+INFO  09:24:30,245 - #19 :
+INFO  09:24:30,245 - #19 :
+INFO  09:24:30,245 - #47 pet
+INFO  09:24:30,245 - #8 ;
+INFO  09:24:30,246 - #17 }
+INFO  09:24:30,246 - #17 }
+INFO  09:24:30,247 - Program(
+  Prog_id(
+   test301
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     Konstante
+      InitLists(
+        InitLists(
+          InitLists(
+            InitLists(
+              NoInitLists(
+              ) [NoInitLists]
+              ConstPart(
+                Const_dec(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                 nula
+                  IntInitializer(
+                   0
+                  ) [IntInitializer]
+                  NoConstLista(
+                  ) [NoConstLista]
+                ) [Const_dec]
+              ) [ConstPart]
+            ) [InitLists]
+            ConstPart(
+              Const_dec(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+               jedan
+                IntInitializer(
+                 1
+                ) [IntInitializer]
+                NoConstLista(
+                ) [NoConstLista]
+              ) [Const_dec]
+            ) [ConstPart]
+          ) [InitLists]
+          ErrorGlobalParamsSemi(
+          ) [ErrorGlobalParamsSemi]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+            VarOrArrayId(
+              VarArrayId(
+               nizch
+              ) [VarArrayId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      Var_dec(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+        VarOrArrayId(
+          VarId(
+           a
+          ) [VarId]
+        ) [VarOrArrayId]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  Methods(
+    NoMethods(
+    ) [NoMethods]
+    MethodDecVoid(
+     main
+      NoFormParsOpt(
+      ) [NoFormParsOpt]
+      YesVarList(
+        YesVarList(
+          NoVarList(
+          ) [NoVarList]
+          Var_dec(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+            VarOrArrayId(
+              VarId(
+               bodovi
+              ) [VarId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [YesVarList]
+        Var_dec(
+          OnceIdent(
+           bool
+          ) [OnceIdent]
+          VarOrArrayId(
+            VarId(
+             bt
+            ) [VarId]
+          ) [VarOrArrayId]
+        ) [Var_dec]
+      ) [YesVarList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              NoStmtList(
+              ) [NoStmtList]
+              StatementDesi(
+                DesiAssign(
+                  ErrCheckDesiAsign(
+                    OnlyIdentDesig(
+                     bodovi
+                    ) [OnlyIdentDesig]
+                    AssignopDerived1(
+                    ) [AssignopDerived1]
+                    ExprNoMinus(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            FactNum(
+                             0
+                            ) [FactNum]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                    ) [ExprNoMinus]
+                  ) [ErrCheckDesiAsign]
+                ) [DesiAssign]
+              ) [StatementDesi]
+            ) [StmtList]
+            StatementDesi(
+              DesiPlusPlus(
+                OnlyIdentDesig(
+                 bodovi
+                ) [OnlyIdentDesig]
+              ) [DesiPlusPlus]
+            ) [StatementDesi]
+          ) [StmtList]
+          StatementDesi(
+            DesiAssign(
+              ErrCheckDesiAsign(
+                OnlyIdentDesig(
+                 bodovi
+                ) [OnlyIdentDesig]
+                AssignopDerived1(
+                ) [AssignopDerived1]
+                ExprNoMinus(
+                  AddExpr(
+                    TermExpr(
+                      Term(
+                        SimpleFactor(
+                          FactDesiNoParen(
+                            OnlyIdentDesig(
+                             bodovi
+                            ) [OnlyIdentDesig]
+                          ) [FactDesiNoParen]
+                        ) [SimpleFactor]
+                      ) [Term]
+                    ) [TermExpr]
+                    PlusOp(
+                    ) [PlusOp]
+                    Term(
+                      SimpleFactor(
+                        FactDesiNoParen(
+                          IdentDoubleDotIdent(
+                           Konstante
+                           jedan
+                          ) [IdentDoubleDotIdent]
+                        ) [FactDesiNoParen]
+                      ) [SimpleFactor]
+                    ) [Term]
+                  ) [AddExpr]
+                ) [ExprNoMinus]
+              ) [ErrCheckDesiAsign]
+            ) [DesiAssign]
+          ) [StatementDesi]
+        ) [StmtList]
+        StatementDesi(
+          DesiAssign(
+            ErrCheckDesiAsign(
+              OnlyIdentDesig(
+               bodovi
+              ) [OnlyIdentDesig]
+              AssignopDerived1(
+              ) [AssignopDerived1]
+              ExprNoMinus(
+                TermExpr(
+                  Term(
+                    MulopFactor(
+                      SimpleFactor(
+                        FactDesiNoParen(
+                          OnlyIdentDesig(
+                           bodovi
+                          ) [OnlyIdentDesig]
+                        ) [FactDesiNoParen]
+                      ) [SimpleFactor]
+                      TimesOp(
+                      ) [TimesOp]
+                      FactDesiNoParen(
+                        IdentDoubleDotIdent(
+                         Konstante
+                         pet
+                        ) [IdentDoubleDotIdent]
+                      ) [FactDesiNoParen]
+                    ) [MulopFactor]
+                  ) [Term]
+                ) [TermExpr]
+              ) [ExprNoMinus]
+            ) [ErrCheckDesiAsign]
+          ) [DesiAssign]
+        ) [StatementDesi]
+      ) [StmtList]
+    ) [MethodDecVoid]
+  ) [Methods]
+) [Program]
+INFO  09:24:30,247 - ===================================

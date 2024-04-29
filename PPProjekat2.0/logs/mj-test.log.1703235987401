@@ -1,0 +1,577 @@
+INFO  09:31:13,922 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:31:13,956 - #11 program
+INFO  09:31:13,956 - #47 test301
+INFO  09:31:13,956 - #12 namespace
+INFO  09:31:13,957 - #47 Konstante
+INFO  09:31:13,957 - #16 {
+INFO  09:31:13,957 - #21 const
+INFO  09:31:13,957 - #47 int
+INFO  09:31:13,957 - #47 nula
+INFO  09:31:13,957 - #7 =
+INFO  09:31:13,957 - #46 0
+INFO  09:31:13,958 - #8 ;
+INFO  09:31:13,958 - #21 const
+INFO  09:31:13,958 - #47 int
+INFO  09:31:13,958 - #47 jedan
+INFO  09:31:13,958 - #7 =
+INFO  09:31:13,958 - #46 1
+INFO  09:31:13,959 - #8 ;
+INFO  09:31:13,959 - #21 const
+INFO  09:31:13,959 - #47 int
+INFO  09:31:13,959 - #47 pet
+INFO  09:31:13,959 - #7 =
+INFO  09:31:13,960 - #46 5
+INFO  09:31:13,960 - #8 ;
+INFO  09:31:13,960 - #17 }
+ERROR 09:31:13,960 - 
+Sintaksna greska na liniji 9, 0
+INFO  09:31:13,960 - #12 namespace
+INFO  09:31:13,960 - #47 Nizovi
+INFO  09:31:13,960 - #16 {
+INFO  09:31:13,961 - #47 int
+INFO  09:31:13,961 - #47 niz
+INFO  09:31:13,961 - #14 [
+INFO  09:31:13,961 - #15 ]
+INFO  09:31:13,961 - #8 ;
+INFO  09:31:13,961 - #47 char
+INFO  09:31:13,961 - #47 nizch
+INFO  09:31:13,961 - #14 [
+ERROR 09:31:13,961 - Sintaksa greska deklaracije globalne promenljive na liniji 8
+INFO  09:31:13,962 - #15 ]
+INFO  09:31:13,962 - #8 ;
+INFO  09:31:13,963 - #16 {
+INFO  09:31:13,963 - #17 }
+INFO  09:31:13,963 - #17 }
+INFO  09:31:13,963 - #47 int
+INFO  09:31:13,963 - #47 a
+INFO  09:31:13,964 - #8 ;
+INFO  09:31:13,964 - #16 {
+INFO  09:31:13,964 - #26 void
+INFO  09:31:13,964 - #47 main
+INFO  09:31:13,964 - #10 (
+INFO  09:31:13,964 - #13 )
+INFO  09:31:13,964 - #47 int
+INFO  09:31:13,965 - #47 bodovi
+INFO  09:31:13,965 - #8 ;
+INFO  09:31:13,965 - #47 bool
+INFO  09:31:13,965 - #47 bt
+INFO  09:31:13,965 - #8 ;
+INFO  09:31:13,966 - #16 {
+INFO  09:31:13,966 - #47 bodovi
+INFO  09:31:13,966 - #7 =
+ERROR 09:31:13,966 - 
+Sintaksna greska na liniji 25, 9
+INFO  09:31:13,966 - #46 0
+INFO  09:31:13,966 - #8 ;
+INFO  09:31:13,966 - #47 bodovi
+INFO  09:31:13,966 - #33 ++
+INFO  09:31:13,966 - #8 ;
+INFO  09:31:13,966 - #47 bodovi
+INFO  09:31:13,966 - #7 =
+INFO  09:31:13,967 - #47 bodovi
+INFO  09:31:13,967 - #2 +
+INFO  09:31:13,967 - #47 Konstante
+INFO  09:31:13,967 - #19 :
+INFO  09:31:13,967 - #19 :
+INFO  09:31:13,967 - #47 jedan
+INFO  09:31:13,967 - #8 ;
+INFO  09:31:13,967 - #47 bodovi
+INFO  09:31:13,967 - #7 =
+INFO  09:31:13,967 - #47 bodovi
+INFO  09:31:13,967 - #4 *
+INFO  09:31:13,967 - #47 Konstante
+INFO  09:31:13,967 - #19 :
+INFO  09:31:13,967 - #19 :
+INFO  09:31:13,967 - #47 pet
+INFO  09:31:13,967 - #8 ;
+INFO  09:31:13,967 - #47 bodovi
+INFO  09:31:13,967 - #32 --
+INFO  09:31:13,967 - #8 ;
+INFO  09:31:13,968 - #24 print
+INFO  09:31:13,968 - #10 (
+INFO  09:31:13,968 - #47 bodovi
+ERROR 09:31:13,968 - Izvrsen oporavak zbog lose dodele do ; u liniji 25
+INFO  09:31:13,969 - #13 )
+ERROR 09:31:13,969 - 
+Sintaksna greska na liniji 30, 14
+INFO  09:31:13,969 - #8 ;
+INFO  09:31:13,969 - #47 Nizovi
+INFO  09:31:13,969 - #19 :
+INFO  09:31:13,969 - #19 :
+ERROR 09:31:13,969 - Izvrsen oporavak zbog lose dodele do ; u liniji 30
+INFO  09:31:13,969 - #47 niz
+INFO  09:31:13,969 - #7 =
+ERROR 09:31:13,969 - 
+Sintaksna greska na liniji 32, 14
+INFO  09:31:13,969 - #28 new
+INFO  09:31:13,969 - #47 int
+INFO  09:31:13,969 - #14 [
+INFO  09:31:13,969 - #46 3
+INFO  09:31:13,969 - #15 ]
+INFO  09:31:13,969 - #8 ;
+INFO  09:31:13,969 - #47 Nizovi
+INFO  09:31:13,969 - #19 :
+INFO  09:31:13,970 - #19 :
+ERROR 09:31:13,970 - Izvrsen oporavak zbog lose dodele do ; u liniji 32
+INFO  09:31:13,970 - #47 niz
+INFO  09:31:13,970 - #14 [
+ERROR 09:31:13,970 - 
+Sintaksna greska na liniji 33, 13
+INFO  09:31:13,970 - #47 Konstante
+INFO  09:31:13,970 - #19 :
+INFO  09:31:13,970 - #19 :
+INFO  09:31:13,970 - #47 nula
+INFO  09:31:13,970 - #15 ]
+INFO  09:31:13,970 - #7 =
+INFO  09:31:13,970 - #47 Konstante
+INFO  09:31:13,970 - #19 :
+INFO  09:31:13,970 - #19 :
+INFO  09:31:13,970 - #47 jedan
+INFO  09:31:13,970 - #8 ;
+INFO  09:31:13,970 - #47 Nizovi
+INFO  09:31:13,970 - #19 :
+INFO  09:31:13,970 - #19 :
+ERROR 09:31:13,970 - Izvrsen oporavak zbog lose dodele do ; u liniji 33
+INFO  09:31:13,970 - #47 niz
+INFO  09:31:13,970 - #14 [
+ERROR 09:31:13,971 - 
+Sintaksna greska na liniji 34, 13
+INFO  09:31:13,971 - #46 1
+INFO  09:31:13,971 - #15 ]
+INFO  09:31:13,971 - #7 =
+INFO  09:31:13,971 - #46 2
+INFO  09:31:13,971 - #8 ;
+INFO  09:31:13,971 - #47 Nizovi
+INFO  09:31:13,971 - #19 :
+INFO  09:31:13,971 - #19 :
+ERROR 09:31:13,971 - Izvrsen oporavak zbog lose dodele do ; u liniji 34
+INFO  09:31:13,971 - #47 niz
+INFO  09:31:13,971 - #14 [
+ERROR 09:31:13,971 - 
+Sintaksna greska na liniji 35, 13
+INFO  09:31:13,971 - #47 Nizovi
+INFO  09:31:13,971 - #19 :
+INFO  09:31:13,971 - #19 :
+INFO  09:31:13,971 - #47 niz
+INFO  09:31:13,971 - #14 [
+INFO  09:31:13,971 - #47 Konstante
+INFO  09:31:13,971 - #19 :
+INFO  09:31:13,971 - #19 :
+INFO  09:31:13,971 - #47 jedan
+INFO  09:31:13,971 - #15 ]
+INFO  09:31:13,971 - #15 ]
+INFO  09:31:13,971 - #7 =
+INFO  09:31:13,971 - #47 Nizovi
+INFO  09:31:13,971 - #19 :
+INFO  09:31:13,971 - #19 :
+INFO  09:31:13,971 - #47 niz
+INFO  09:31:13,972 - #14 [
+INFO  09:31:13,972 - #47 Nizovi
+INFO  09:31:13,972 - #19 :
+INFO  09:31:13,972 - #19 :
+INFO  09:31:13,972 - #47 niz
+INFO  09:31:13,972 - #14 [
+INFO  09:31:13,972 - #46 0
+INFO  09:31:13,972 - #15 ]
+INFO  09:31:13,972 - #15 ]
+INFO  09:31:13,972 - #4 *
+INFO  09:31:13,972 - #46 3
+INFO  09:31:13,972 - #8 ;
+INFO  09:31:13,972 - #47 bodovi
+INFO  09:31:13,972 - #7 =
+INFO  09:31:13,972 - #47 Nizovi
+INFO  09:31:13,972 - #19 :
+INFO  09:31:13,972 - #19 :
+INFO  09:31:13,972 - #47 niz
+INFO  09:31:13,972 - #14 [
+INFO  09:31:13,972 - #46 2
+INFO  09:31:13,972 - #15 ]
+INFO  09:31:13,972 - #5 /
+INFO  09:31:13,972 - #47 Nizovi
+INFO  09:31:13,972 - #19 :
+INFO  09:31:13,972 - #19 :
+INFO  09:31:13,972 - #47 niz
+INFO  09:31:13,972 - #14 [
+INFO  09:31:13,972 - #46 0
+INFO  09:31:13,972 - #15 ]
+INFO  09:31:13,972 - #8 ;
+INFO  09:31:13,973 - #24 print
+INFO  09:31:13,973 - #10 (
+INFO  09:31:13,973 - #47 bodovi
+ERROR 09:31:13,973 - Izvrsen oporavak zbog lose dodele do ; u liniji 35
+INFO  09:31:13,973 - #13 )
+ERROR 09:31:13,973 - 
+Sintaksna greska na liniji 37, 14
+INFO  09:31:13,973 - #8 ;
+INFO  09:31:13,973 - #24 print
+INFO  09:31:13,973 - #10 (
+INFO  09:31:13,973 - #47 Nizovi
+ERROR 09:31:13,973 - Izvrsen oporavak zbog lose dodele do ; u liniji 37
+INFO  09:31:13,973 - #19 :
+INFO  09:31:13,973 - #19 :
+INFO  09:31:13,973 - #47 niz
+INFO  09:31:13,973 - #14 [
+ERROR 09:31:13,973 - 
+Sintaksna greska na liniji 38, 19
+INFO  09:31:13,973 - #46 2
+INFO  09:31:13,973 - #15 ]
+INFO  09:31:13,973 - #13 )
+INFO  09:31:13,973 - #8 ;
+INFO  09:31:13,973 - #47 Nizovi
+INFO  09:31:13,973 - #19 :
+INFO  09:31:13,973 - #19 :
+ERROR 09:31:13,973 - Izvrsen oporavak zbog lose dodele do ; u liniji 38
+INFO  09:31:13,973 - #47 nizch
+INFO  09:31:13,973 - #7 =
+ERROR 09:31:13,973 - 
+Sintaksna greska na liniji 41, 16
+INFO  09:31:13,973 - #28 new
+INFO  09:31:13,973 - #47 char
+INFO  09:31:13,973 - #14 [
+INFO  09:31:13,973 - #46 3
+INFO  09:31:13,974 - #15 ]
+INFO  09:31:13,974 - #8 ;
+INFO  09:31:13,974 - #47 Nizovi
+INFO  09:31:13,974 - #19 :
+INFO  09:31:13,974 - #19 :
+ERROR 09:31:13,974 - Izvrsen oporavak zbog lose dodele do ; u liniji 41
+INFO  09:31:13,974 - #47 nizch
+INFO  09:31:13,974 - #14 [
+ERROR 09:31:13,974 - 
+Sintaksna greska na liniji 42, 15
+INFO  09:31:13,974 - #46 0
+INFO  09:31:13,974 - #15 ]
+INFO  09:31:13,974 - #7 =
+INFO  09:31:13,974 - #48 'a'
+INFO  09:31:13,974 - #8 ;
+INFO  09:31:13,974 - #47 Nizovi
+INFO  09:31:13,974 - #19 :
+INFO  09:31:13,974 - #19 :
+ERROR 09:31:13,974 - Izvrsen oporavak zbog lose dodele do ; u liniji 42
+INFO  09:31:13,974 - #47 nizch
+INFO  09:31:13,974 - #14 [
+ERROR 09:31:13,974 - 
+Sintaksna greska na liniji 43, 15
+INFO  09:31:13,974 - #47 Konstante
+INFO  09:31:13,974 - #19 :
+INFO  09:31:13,974 - #19 :
+INFO  09:31:13,974 - #47 jedan
+INFO  09:31:13,974 - #15 ]
+INFO  09:31:13,974 - #7 =
+INFO  09:31:13,974 - #48 'b'
+INFO  09:31:13,974 - #8 ;
+INFO  09:31:13,974 - #47 Nizovi
+INFO  09:31:13,974 - #19 :
+INFO  09:31:13,974 - #19 :
+ERROR 09:31:13,974 - Izvrsen oporavak zbog lose dodele do ; u liniji 43
+INFO  09:31:13,975 - #47 nizch
+INFO  09:31:13,975 - #14 [
+ERROR 09:31:13,975 - 
+Sintaksna greska na liniji 44, 15
+INFO  09:31:13,975 - #47 Konstante
+INFO  09:31:13,975 - #19 :
+INFO  09:31:13,975 - #19 :
+INFO  09:31:13,975 - #47 pet
+INFO  09:31:13,975 - #3 -
+INFO  09:31:13,975 - #46 3
+INFO  09:31:13,975 - #15 ]
+INFO  09:31:13,975 - #7 =
+INFO  09:31:13,975 - #48 'c'
+INFO  09:31:13,975 - #8 ;
+INFO  09:31:13,975 - #24 print
+INFO  09:31:13,975 - #10 (
+INFO  09:31:13,975 - #47 Nizovi
+ERROR 09:31:13,975 - Izvrsen oporavak zbog lose dodele do ; u liniji 44
+INFO  09:31:13,975 - #19 :
+INFO  09:31:13,975 - #19 :
+INFO  09:31:13,975 - #47 nizch
+INFO  09:31:13,975 - #14 [
+ERROR 09:31:13,975 - 
+Sintaksna greska na liniji 45, 21
+INFO  09:31:13,975 - #46 1
+INFO  09:31:13,975 - #15 ]
+INFO  09:31:13,975 - #13 )
+INFO  09:31:13,975 - #8 ;
+INFO  09:31:13,975 - #24 print
+INFO  09:31:13,975 - #10 (
+INFO  09:31:13,975 - #47 Nizovi
+ERROR 09:31:13,975 - Izvrsen oporavak zbog lose dodele do ; u liniji 45
+INFO  09:31:13,975 - #19 :
+INFO  09:31:13,975 - #19 :
+INFO  09:31:13,975 - #47 nizch
+INFO  09:31:13,975 - #14 [
+ERROR 09:31:13,976 - 
+Sintaksna greska na liniji 46, 21
+INFO  09:31:13,976 - #47 Konstante
+INFO  09:31:13,976 - #19 :
+INFO  09:31:13,976 - #19 :
+INFO  09:31:13,976 - #47 jedan
+INFO  09:31:13,976 - #4 *
+INFO  09:31:13,976 - #46 2
+INFO  09:31:13,976 - #15 ]
+INFO  09:31:13,976 - #13 )
+INFO  09:31:13,976 - #8 ;
+INFO  09:31:13,976 - #47 a
+INFO  09:31:13,976 - #7 =
+INFO  09:31:13,976 - #46 1
+INFO  09:31:13,976 - #8 ;
+INFO  09:31:13,976 - #31 read
+INFO  09:31:13,976 - #10 (
+INFO  09:31:13,976 - #47 bodovi
+ERROR 09:31:13,976 - Izvrsen oporavak zbog lose dodele do ; u liniji 46
+INFO  09:31:13,976 - #13 )
+ERROR 09:31:13,976 - 
+Sintaksna greska na liniji 49, 13
+INFO  09:31:13,976 - #8 ;
+INFO  09:31:13,976 - #47 bodovi
+INFO  09:31:13,976 - #7 =
+INFO  09:31:13,976 - #3 -
+INFO  09:31:13,976 - #47 bodovi
+INFO  09:31:13,976 - #2 +
+INFO  09:31:13,976 - #10 (
+INFO  09:31:13,976 - #47 Konstante
+INFO  09:31:13,976 - #19 :
+INFO  09:31:13,976 - #19 :
+INFO  09:31:13,976 - #47 pet
+INFO  09:31:13,976 - #4 *
+INFO  09:31:13,976 - #47 a
+INFO  09:31:13,976 - #5 /
+INFO  09:31:13,976 - #46 2
+INFO  09:31:13,977 - #3 -
+INFO  09:31:13,977 - #47 Konstante
+INFO  09:31:13,977 - #19 :
+INFO  09:31:13,977 - #19 :
+INFO  09:31:13,977 - #47 jedan
+INFO  09:31:13,977 - #13 )
+INFO  09:31:13,977 - #4 *
+INFO  09:31:13,977 - #47 bodovi
+INFO  09:31:13,977 - #3 -
+INFO  09:31:13,977 - #10 (
+INFO  09:31:13,977 - #46 3
+INFO  09:31:13,977 - #6 %
+INFO  09:31:13,977 - #46 2
+INFO  09:31:13,977 - #2 +
+INFO  09:31:13,977 - #46 3
+INFO  09:31:13,977 - #4 *
+INFO  09:31:13,977 - #46 2
+INFO  09:31:13,977 - #3 -
+INFO  09:31:13,977 - #46 3
+INFO  09:31:13,977 - #13 )
+INFO  09:31:13,977 - #8 ;
+INFO  09:31:13,977 - #24 print
+INFO  09:31:13,977 - #10 (
+INFO  09:31:13,977 - #47 bodovi
+ERROR 09:31:13,977 - Izvrsen oporavak zbog lose dodele do ; u liniji 49
+INFO  09:31:13,977 - #13 )
+ERROR 09:31:13,977 - 
+Sintaksna greska na liniji 51, 14
+INFO  09:31:13,977 - #8 ;
+INFO  09:31:13,977 - #17 }
+INFO  09:31:13,977 - #17 }
+ERROR 09:31:13,977 - Izvrsen oporavak zbog lose dodele do ; u liniji 51
+INFO  09:31:13,978 - Program(
+  Prog_id(
+   test301
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     Konstante
+      InitLists(
+        InitLists(
+          InitLists(
+            InitLists(
+              NoInitLists(
+              ) [NoInitLists]
+              ConstPart(
+                Const_dec(
+                  ConstType(
+                    OnceIdent(
+                     int
+                    ) [OnceIdent]
+                  ) [ConstType]
+                 nula
+                  IntInitializer(
+                   0
+                  ) [IntInitializer]
+                  NoConstLista(
+                  ) [NoConstLista]
+                ) [Const_dec]
+              ) [ConstPart]
+            ) [InitLists]
+            ConstPart(
+              Const_dec(
+                ConstType(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                ) [ConstType]
+               jedan
+                IntInitializer(
+                 1
+                ) [IntInitializer]
+                NoConstLista(
+                ) [NoConstLista]
+              ) [Const_dec]
+            ) [ConstPart]
+          ) [InitLists]
+          ErrorGlobalParamsSemi(
+          ) [ErrorGlobalParamsSemi]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            VarType(
+              OnceIdent(
+               char
+              ) [OnceIdent]
+            ) [VarType]
+            VarOrArrayId(
+              VarId(
+               nizch
+                Array(
+                ) [Array]
+              ) [VarId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      Var_dec(
+        VarType(
+          OnceIdent(
+           int
+          ) [OnceIdent]
+        ) [VarType]
+        VarOrArrayId(
+          VarId(
+           a
+            NoArray(
+            ) [NoArray]
+          ) [VarId]
+        ) [VarOrArrayId]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  Methods(
+    NoMethods(
+    ) [NoMethods]
+    MethodDecType(
+      MethodName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodName]
+      NoFormParsOpt(
+      ) [NoFormParsOpt]
+      YesVarList(
+        YesVarList(
+          NoVarList(
+          ) [NoVarList]
+          Var_dec(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarOrArrayId(
+              VarId(
+               bodovi
+                NoArray(
+                ) [NoArray]
+              ) [VarId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [YesVarList]
+        Var_dec(
+          VarType(
+            OnceIdent(
+             bool
+            ) [OnceIdent]
+          ) [VarType]
+          VarOrArrayId(
+            VarId(
+             bt
+              NoArray(
+              ) [NoArray]
+            ) [VarId]
+          ) [VarOrArrayId]
+        ) [Var_dec]
+      ) [YesVarList]
+      StmtList(
+        StmtList(
+          StmtList(
+            StmtList(
+              StmtList(
+                StmtList(
+                  StmtList(
+                    StmtList(
+                      StmtList(
+                        StmtList(
+                          StmtList(
+                            StmtList(
+                              StmtList(
+                                StmtList(
+                                  StmtList(
+                                    StmtList(
+                                      NoStmtList(
+                                      ) [NoStmtList]
+                                      StatementDerived1(
+                                      ) [StatementDerived1]
+                                    ) [StmtList]
+                                    StatementDerived1(
+                                    ) [StatementDerived1]
+                                  ) [StmtList]
+                                  StatementDerived1(
+                                  ) [StatementDerived1]
+                                ) [StmtList]
+                                StatementDerived1(
+                                ) [StatementDerived1]
+                              ) [StmtList]
+                              StatementDerived1(
+                              ) [StatementDerived1]
+                            ) [StmtList]
+                            StatementDerived1(
+                            ) [StatementDerived1]
+                          ) [StmtList]
+                          StatementDerived1(
+                          ) [StatementDerived1]
+                        ) [StmtList]
+                        StatementDerived1(
+                        ) [StatementDerived1]
+                      ) [StmtList]
+                      StatementDerived1(
+                      ) [StatementDerived1]
+                    ) [StmtList]
+                    StatementDerived1(
+                    ) [StatementDerived1]
+                  ) [StmtList]
+                  StatementDerived1(
+                  ) [StatementDerived1]
+                ) [StmtList]
+                StatementDerived1(
+                ) [StatementDerived1]
+              ) [StmtList]
+              StatementDerived1(
+              ) [StatementDerived1]
+            ) [StmtList]
+            StatementDerived1(
+            ) [StatementDerived1]
+          ) [StmtList]
+          StatementDerived1(
+          ) [StatementDerived1]
+        ) [StmtList]
+        StatementDerived1(
+        ) [StatementDerived1]
+      ) [StmtList]
+    ) [MethodDecType]
+  ) [Methods]
+) [Program]
+INFO  09:31:13,979 - ===================================

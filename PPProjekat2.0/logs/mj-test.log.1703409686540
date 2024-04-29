@@ -1,0 +1,100 @@
+INFO  10:04:45,115 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  10:04:45,146 - #11 program
+INFO  10:04:45,146 - #47 test301
+INFO  10:04:45,146 - #12 namespace
+INFO  10:04:45,146 - #47 Konstante
+INFO  10:04:45,146 - #16 {
+INFO  10:04:45,147 - #47 int
+INFO  10:04:45,147 - #47 a
+INFO  10:04:45,148 - #8 ;
+INFO  10:04:45,149 - #16 {
+INFO  10:04:45,149 - #17 }
+INFO  10:04:45,149 - #17 }
+INFO  10:04:45,149 - #47 int
+INFO  10:04:45,150 - #47 a
+INFO  10:04:45,150 - #8 ;
+INFO  10:04:45,150 - #16 {
+INFO  10:04:45,150 - #26 void
+INFO  10:04:45,151 - #47 main
+INFO  10:04:45,151 - #10 (
+INFO  10:04:45,151 - #13 )
+INFO  10:04:45,152 - #16 {
+INFO  10:04:45,152 - #17 }
+INFO  10:04:45,153 - #17 }
+INFO  10:04:45,156 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      NameSpaceName(
+       Konstante
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        NoVarLists(
+        ) [NoVarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             a
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:04:45,156 - ===================================
+INFO  10:04:45,158 - postoji ispravan main na liniji 3
+INFO  10:04:45,159 - ===================================
+INFO  10:04:45,159 - Parsiranje uspesno zavrseno!

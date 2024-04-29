@@ -1,0 +1,101 @@
+INFO  09:45:51,009 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:45:51,042 - #11 program
+INFO  09:45:51,042 - #47 test301
+INFO  09:45:51,042 - #47 int
+INFO  09:45:51,043 - #47 a
+INFO  09:45:51,043 - #8 ;
+INFO  09:45:51,044 - #16 {
+INFO  09:45:51,044 - #26 void
+INFO  09:45:51,045 - #47 main
+INFO  09:45:51,045 - #10 (
+INFO  09:45:51,046 - #13 )
+INFO  09:45:51,046 - #47 int
+INFO  09:45:51,046 - #47 bodovi
+INFO  09:45:51,046 - #8 ;
+INFO  09:45:51,046 - #47 bool
+INFO  09:45:51,046 - #47 bt
+INFO  09:45:51,046 - #8 ;
+INFO  09:45:51,046 - #16 {
+INFO  09:45:51,047 - #17 }
+INFO  09:45:51,047 - #17 }
+INFO  09:45:51,050 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      FieldDecls(
+        Fld(
+          VarType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             bodovi
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [Fld]
+        FieldDecls(
+          Fld(
+            VarType(
+              OnceIdent(
+               bool
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               bt
+                NoArray(
+                ) [NoArray]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [Fld]
+          NoFieldDecl(
+          ) [NoFieldDecl]
+        ) [FieldDecls]
+      ) [FieldDecls]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  09:45:51,051 - ===================================
+ERROR 09:45:51,053 - Nije pronadjen tip bool u tabeli simbola!
+INFO  09:45:51,053 - postoji ispravan main na liniji 3
+INFO  09:45:51,053 - ===================================
+ERROR 09:45:51,053 - Parsiranje NIJE uspesno zavrseno!

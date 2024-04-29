@@ -1,0 +1,46 @@
+INFO  13:22:24,958 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  13:22:24,987 - #11 program
+INFO  13:22:24,987 - #47 mojProgram
+INFO  13:22:24,987 - #12 namespace
+INFO  13:22:24,988 - #47 sizes
+INFO  13:22:24,988 - #16 {
+INFO  13:22:24,988 - #21 const
+INFO  13:22:24,988 - #47 int
+INFO  13:22:24,988 - #47 tableSize
+INFO  13:22:24,988 - #7 =
+INFO  13:22:24,988 - #46 10
+INFO  13:22:24,988 - #8 ;
+INFO  13:22:24,989 - #16 {
+INFO  13:22:24,989 - #17 }
+INFO  13:22:24,989 - #17 }
+INFO  13:22:24,989 - #47 Table
+INFO  13:22:24,990 - #47 val
+INFO  13:22:24,990 - #8 ;
+INFO  13:22:24,990 - #47 int
+INFO  13:22:24,990 - #47 rows
+INFO  13:22:24,990 - #9 ,
+INFO  13:22:24,990 - #47 columns
+INFO  13:22:24,992 - #8 ;
+INFO  13:22:24,992 - #16 {
+INFO  13:22:24,992 - #26 void
+INFO  13:22:24,992 - #47 f
+INFO  13:22:24,992 - #10 (
+INFO  13:22:24,992 - #47 char
+INFO  13:22:24,992 - #47 ch
+INFO  13:22:24,992 - #9 ,
+INFO  13:22:24,992 - #47 int
+INFO  13:22:24,992 - #47 a
+INFO  13:22:24,992 - #9 ,
+INFO  13:22:24,993 - #47 int
+INFO  13:22:24,993 - #47 arg
+INFO  13:22:24,993 - #13 )
+INFO  13:22:24,993 - #16 {
+INFO  13:22:24,993 - #47 x
+INFO  13:22:24,993 - #7 =
+ERROR 13:22:24,993 - 
+Sintaksna greska na liniji 12, 4
+INFO  13:22:24,993 - #47 arg
+INFO  13:22:24,994 - #8 ;
+INFO  13:22:24,994 - #17 }
+INFO  13:22:24,994 - #17 }
+ERROR 13:22:24,994 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 15, 1

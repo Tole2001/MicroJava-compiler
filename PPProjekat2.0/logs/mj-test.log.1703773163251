@@ -1,0 +1,28 @@
+INFO  15:19:04,127 - #11 program
+INFO  15:19:04,127 - #47 test301
+INFO  15:19:04,127 - #12 namespace
+INFO  15:19:04,128 - #47 Konstante
+INFO  15:19:04,128 - #16 {
+INFO  15:19:04,129 - #21 const
+INFO  15:19:04,129 - #47 int
+INFO  15:19:04,129 - #47 nula
+INFO  15:19:04,129 - #7 =
+INFO  15:19:04,130 - #46 0
+INFO  15:19:04,130 - #8 ;
+INFO  15:19:04,130 - #21 const
+INFO  15:19:04,130 - #47 int
+INFO  15:19:04,130 - #47 jedan
+INFO  15:19:04,130 - #7 =
+INFO  15:19:04,130 - #46 1
+INFO  15:19:04,130 - #8 ;
+INFO  15:19:04,131 - #21 const
+INFO  15:19:04,131 - #47 int
+INFO  15:19:04,131 - #47 pet
+INFO  15:19:04,131 - #7 =
+INFO  15:19:04,131 - #46 5
+INFO  15:19:04,131 - #8 ;
+INFO  15:19:04,131 - #17 }
+ERROR 15:19:04,131 - 
+Sintaksna greska na liniji 9, 0
+ERROR 15:19:04,132 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9, 0
+INFO  15:19:04,132 - Postoji sintaksna greska

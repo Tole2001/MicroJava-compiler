@@ -1,0 +1,71 @@
+INFO  09:12:22,164 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:12:22,827 - #11 program
+INFO  09:12:22,827 - #47 mojProgram
+INFO  09:12:22,827 - #12 namespace
+INFO  09:12:22,836 - #47 sizes
+INFO  09:12:22,836 - #16 {
+INFO  09:12:22,836 - #21 const
+INFO  09:12:22,841 - #47 int
+INFO  09:12:22,841 - #47 tableSize
+INFO  09:12:22,841 - #7 =
+INFO  09:12:22,841 - #46 10
+INFO  09:12:22,841 - #8 ;
+INFO  09:12:22,852 - #16 {
+INFO  09:12:22,852 - #17 }
+INFO  09:12:22,857 - #17 }
+INFO  09:12:22,857 - #47 Table
+INFO  09:12:22,862 - #47 val
+INFO  09:12:22,862 - #8 ;
+INFO  09:12:22,868 - #47 int
+INFO  09:12:22,868 - #47 rows
+INFO  09:12:22,868 - #9 ,
+INFO  09:12:22,868 - #47 columns
+INFO  09:12:22,868 - #8 ;
+INFO  09:12:22,869 - #16 {
+INFO  09:12:22,869 - #26 void
+INFO  09:12:22,869 - #47 f
+INFO  09:12:22,869 - #10 (
+INFO  09:12:22,869 - #47 char
+INFO  09:12:22,869 - #47 ch
+INFO  09:12:22,869 - #9 ,
+INFO  09:12:22,869 - #47 int
+INFO  09:12:22,869 - #47 a
+INFO  09:12:22,869 - #9 ,
+INFO  09:12:22,869 - #47 int
+INFO  09:12:22,869 - #47 arg
+INFO  09:12:22,869 - #13 )
+INFO  09:12:22,869 - #47 int
+INFO  09:12:22,874 - #47 x
+INFO  09:12:22,874 - #8 ;
+INFO  09:12:22,874 - #16 {
+INFO  09:12:22,875 - #47 x
+INFO  09:12:22,880 - #7 =
+INFO  09:12:22,880 - #47 arg
+INFO  09:12:22,890 - #8 ;
+INFO  09:12:22,896 - #17 }
+INFO  09:12:22,896 - #26 void
+INFO  09:12:22,896 - #47 main
+INFO  09:12:22,896 - #10 (
+INFO  09:12:22,896 - #13 )
+INFO  09:12:22,896 - #47 int
+INFO  09:12:22,901 - #47 x
+INFO  09:12:22,901 - #9 ,
+INFO  09:12:22,901 - #47 i
+INFO  09:12:22,902 - #8 ;
+INFO  09:12:22,902 - #47 char
+INFO  09:12:22,902 - #47 c
+INFO  09:12:22,902 - #9 ,
+INFO  09:12:22,902 - #47 int
+INFO  09:12:22,902 - #14 [
+INFO  09:12:22,902 - #15 ]
+INFO  09:12:22,902 - #47 arr
+ERROR 09:12:22,902 - 
+Sintaksna greska na liniji 17, 37
+INFO  09:12:22,902 - #8 ;
+INFO  09:12:22,902 - #16 {
+INFO  09:12:22,902 - #17 }
+INFO  09:12:22,903 - #17 }
+ERROR 09:12:22,903 - Sintaksa greska deklaracije globalne promenljive na liniji 9
+ERROR 09:12:22,908 - 
+Sintaksna greska na liniji 21, 0
+ERROR 09:12:22,908 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 21, 1

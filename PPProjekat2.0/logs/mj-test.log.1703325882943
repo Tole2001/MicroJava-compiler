@@ -1,0 +1,247 @@
+INFO  09:46:11,495 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:46:11,524 - #11 program
+INFO  09:46:11,524 - #47 test301
+INFO  09:46:11,525 - #47 int
+INFO  09:46:11,525 - #47 a
+INFO  09:46:11,526 - #8 ;
+INFO  09:46:11,527 - #16 {
+INFO  09:46:11,527 - #26 void
+INFO  09:46:11,527 - #47 main
+INFO  09:46:11,528 - #10 (
+INFO  09:46:11,528 - #13 )
+INFO  09:46:11,528 - #47 int
+INFO  09:46:11,528 - #47 bodovi
+INFO  09:46:11,528 - #8 ;
+INFO  09:46:11,528 - #47 bool
+INFO  09:46:11,529 - #47 bt
+INFO  09:46:11,529 - #8 ;
+INFO  09:46:11,529 - #16 {
+INFO  09:46:11,529 - #47 bodovi
+INFO  09:46:11,529 - #7 =
+INFO  09:46:11,548 - #46 0
+INFO  09:46:11,566 - #8 ;
+INFO  09:46:11,571 - #47 bodovi
+INFO  09:46:11,571 - #33 ++
+INFO  09:46:11,571 - #8 ;
+INFO  09:46:11,571 - #47 bodovi
+INFO  09:46:11,571 - #7 =
+INFO  09:46:11,571 - #47 bodovi
+INFO  09:46:11,571 - #2 +
+INFO  09:46:11,577 - #47 Konstante
+INFO  09:46:11,586 - #19 :
+ERROR 09:46:11,586 - 
+Sintaksna greska na liniji 14, 29
+INFO  09:46:11,586 - #19 :
+INFO  09:46:11,586 - #47 jedan
+INFO  09:46:11,586 - #8 ;
+INFO  09:46:11,587 - #47 bodovi
+INFO  09:46:11,587 - #7 =
+INFO  09:46:11,587 - #47 bodovi
+ERROR 09:46:11,587 - Izvrsen oporavak zbog lose dodele do ; u liniji 14
+INFO  09:46:11,592 - #4 *
+INFO  09:46:11,592 - #47 Konstante
+INFO  09:46:11,603 - #19 :
+ERROR 09:46:11,603 - 
+Sintaksna greska na liniji 15, 29
+INFO  09:46:11,603 - #19 :
+INFO  09:46:11,603 - #47 pet
+INFO  09:46:11,603 - #8 ;
+INFO  09:46:11,603 - #47 bodovi
+INFO  09:46:11,603 - #32 --
+INFO  09:46:11,603 - #8 ;
+ERROR 09:46:11,603 - Izvrsen oporavak zbog lose dodele do ; u liniji 15
+INFO  09:46:11,603 - #24 print
+INFO  09:46:11,603 - #10 (
+INFO  09:46:11,603 - #47 bodovi
+INFO  09:46:11,604 - #13 )
+INFO  09:46:11,609 - #8 ;
+INFO  09:46:11,609 - #17 }
+INFO  09:46:11,609 - #17 }
+INFO  09:46:11,612 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceDecl(
+  ) [NoNamespaceDecl]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      FieldDecls(
+        Fld(
+          VarType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             bodovi
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [Fld]
+        FieldDecls(
+          Fld(
+            VarType(
+              OnceIdent(
+               bool
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               bt
+                NoArray(
+                ) [NoArray]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [Fld]
+          NoFieldDecl(
+          ) [NoFieldDecl]
+        ) [FieldDecls]
+      ) [FieldDecls]
+      StatementsNew(
+        StatementsNew(
+          StatementsNew(
+            StatementsNew(
+              StatementsNew(
+                StatementsNew(
+                  NoStatements(
+                  ) [NoStatements]
+                  MatchedStm(
+                    StatementD(
+                      DesigAssign(
+                        Designator(
+                          DesigName(
+                           bodovi
+                          ) [DesigName]
+                          NoDesigAddit(
+                          ) [NoDesigAddit]
+                        ) [Designator]
+                        AssignOpE(
+                        ) [AssignOpE]
+                        ExprOpt(
+                          ExprNonT(
+                            NoMinus(
+                            ) [NoMinus]
+                            TermF(
+                              FactorConst(
+                                NumConst(
+                                 0
+                                ) [NumConst]
+                              ) [FactorConst]
+                            ) [TermF]
+                            NoAddTerm(
+                            ) [NoAddTerm]
+                          ) [ExprNonT]
+                        ) [ExprOpt]
+                      ) [DesigAssign]
+                    ) [StatementD]
+                  ) [MatchedStm]
+                ) [StatementsNew]
+                MatchedStm(
+                  StatementD(
+                    DesigPlusPlus(
+                      Designator(
+                        DesigName(
+                         bodovi
+                        ) [DesigName]
+                        NoDesigAddit(
+                        ) [NoDesigAddit]
+                      ) [Designator]
+                    ) [DesigPlusPlus]
+                  ) [StatementD]
+                ) [MatchedStm]
+              ) [StatementsNew]
+              MatchedStm(
+                MatchedDerived1(
+                ) [MatchedDerived1]
+              ) [MatchedStm]
+            ) [StatementsNew]
+            MatchedStm(
+              MatchedDerived1(
+              ) [MatchedDerived1]
+            ) [MatchedStm]
+          ) [StatementsNew]
+          MatchedStm(
+            StatementD(
+              DesigMinusMinus(
+                Designator(
+                  DesigName(
+                   bodovi
+                  ) [DesigName]
+                  NoDesigAddit(
+                  ) [NoDesigAddit]
+                ) [Designator]
+              ) [DesigMinusMinus]
+            ) [StatementD]
+          ) [MatchedStm]
+        ) [StatementsNew]
+        MatchedStm(
+          StatementPrint(
+            ExprOpt(
+              ExprNonT(
+                NoMinus(
+                ) [NoMinus]
+                TermF(
+                  FactorDes(
+                    Designator(
+                      DesigName(
+                       bodovi
+                      ) [DesigName]
+                      NoDesigAddit(
+                      ) [NoDesigAddit]
+                    ) [Designator]
+                    NoOptActParts(
+                    ) [NoOptActParts]
+                  ) [FactorDes]
+                ) [TermF]
+                NoAddTerm(
+                ) [NoAddTerm]
+              ) [ExprNonT]
+            ) [ExprOpt]
+            NoNumPrint(
+            ) [NoNumPrint]
+          ) [StatementPrint]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  09:46:11,613 - ===================================
+ERROR 09:46:11,615 - Nije pronadjen tip bool u tabeli simbola!
+INFO  09:46:11,615 - Pristup promenljivoj bodovi na liniji 12
+INFO  09:46:11,620 - Pristup promenljivoj bodovi na liniji 13
+INFO  09:46:11,620 - Pristup promenljivoj bodovi na liniji 16
+INFO  09:46:11,620 - Pristup promenljivoj bodovi na liniji 17
+INFO  09:46:11,621 - postoji ispravan main na liniji 3
+INFO  09:46:11,621 - ===================================
+ERROR 09:46:11,621 - Parsiranje NIJE uspesno zavrseno!

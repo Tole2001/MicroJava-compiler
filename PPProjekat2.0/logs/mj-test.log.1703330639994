@@ -1,0 +1,774 @@
+INFO  11:30:35,391 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  11:30:35,421 - #11 program
+INFO  11:30:35,421 - #47 test301
+INFO  11:30:35,422 - #12 namespace
+INFO  11:30:35,422 - #47 Konstante
+INFO  11:30:35,422 - #16 {
+INFO  11:30:35,423 - #21 const
+INFO  11:30:35,423 - #47 int
+INFO  11:30:35,423 - #47 nula
+INFO  11:30:35,424 - #7 =
+INFO  11:30:35,424 - #46 0
+INFO  11:30:35,424 - #8 ;
+INFO  11:30:35,424 - #21 const
+INFO  11:30:35,424 - #47 int
+INFO  11:30:35,424 - #47 jedan
+INFO  11:30:35,424 - #7 =
+INFO  11:30:35,424 - #46 1
+INFO  11:30:35,425 - #8 ;
+INFO  11:30:35,425 - #21 const
+INFO  11:30:35,425 - #47 int
+INFO  11:30:35,425 - #47 pet
+INFO  11:30:35,425 - #7 =
+INFO  11:30:35,426 - #46 5
+INFO  11:30:35,426 - #8 ;
+INFO  11:30:35,426 - #16 {
+INFO  11:30:35,426 - #17 }
+INFO  11:30:35,427 - #17 }
+INFO  11:30:35,427 - #12 namespace
+INFO  11:30:35,427 - #47 Nizovi
+INFO  11:30:35,427 - #16 {
+INFO  11:30:35,427 - #47 int
+INFO  11:30:35,427 - #47 niz
+INFO  11:30:35,428 - #14 [
+INFO  11:30:35,428 - #15 ]
+INFO  11:30:35,428 - #8 ;
+INFO  11:30:35,429 - #47 char
+INFO  11:30:35,429 - #47 nizch
+INFO  11:30:35,429 - #14 [
+INFO  11:30:35,429 - #15 ]
+INFO  11:30:35,429 - #8 ;
+INFO  11:30:35,429 - #16 {
+INFO  11:30:35,429 - #17 }
+INFO  11:30:35,429 - #17 }
+INFO  11:30:35,429 - #47 int
+INFO  11:30:35,429 - #47 a
+INFO  11:30:35,429 - #8 ;
+INFO  11:30:35,430 - #16 {
+INFO  11:30:35,430 - #26 void
+INFO  11:30:35,430 - #47 main
+INFO  11:30:35,430 - #10 (
+INFO  11:30:35,431 - #13 )
+INFO  11:30:35,431 - #47 int
+INFO  11:30:35,431 - #47 bodovi
+INFO  11:30:35,431 - #8 ;
+INFO  11:30:35,431 - #47 bool
+INFO  11:30:35,431 - #47 bt
+INFO  11:30:35,431 - #8 ;
+INFO  11:30:35,431 - #16 {
+INFO  11:30:35,432 - #47 bodovi
+INFO  11:30:35,432 - #7 =
+INFO  11:30:35,433 - #46 0
+INFO  11:30:35,434 - #8 ;
+INFO  11:30:35,434 - #47 bodovi
+INFO  11:30:35,434 - #33 ++
+INFO  11:30:35,435 - #8 ;
+INFO  11:30:35,435 - #47 bodovi
+INFO  11:30:35,435 - #7 =
+INFO  11:30:35,435 - #47 bodovi
+INFO  11:30:35,435 - #2 +
+INFO  11:30:35,435 - #47 Konstante
+INFO  11:30:35,436 - #19 :
+ERROR 11:30:35,436 - 
+Sintaksna greska na liniji 28, 29
+INFO  11:30:35,436 - #19 :
+INFO  11:30:35,436 - #47 jedan
+INFO  11:30:35,436 - #8 ;
+INFO  11:30:35,436 - #47 bodovi
+INFO  11:30:35,436 - #7 =
+INFO  11:30:35,436 - #47 bodovi
+ERROR 11:30:35,436 - Izvrsen oporavak zbog lose dodele do ; u liniji 28
+INFO  11:30:35,436 - #4 *
+INFO  11:30:35,437 - #47 Konstante
+INFO  11:30:35,437 - #19 :
+ERROR 11:30:35,437 - 
+Sintaksna greska na liniji 29, 29
+INFO  11:30:35,437 - #19 :
+INFO  11:30:35,437 - #47 pet
+INFO  11:30:35,437 - #8 ;
+INFO  11:30:35,437 - #47 bodovi
+INFO  11:30:35,437 - #32 --
+INFO  11:30:35,437 - #8 ;
+ERROR 11:30:35,437 - Izvrsen oporavak zbog lose dodele do ; u liniji 29
+INFO  11:30:35,437 - #24 print
+INFO  11:30:35,437 - #10 (
+INFO  11:30:35,437 - #47 bodovi
+INFO  11:30:35,438 - #13 )
+INFO  11:30:35,438 - #8 ;
+INFO  11:30:35,438 - #47 Nizovi
+INFO  11:30:35,438 - #19 :
+ERROR 11:30:35,438 - 
+Sintaksna greska na liniji 33, 8
+INFO  11:30:35,438 - #19 :
+INFO  11:30:35,438 - #47 niz
+INFO  11:30:35,438 - #7 =
+INFO  11:30:35,438 - #28 new
+INFO  11:30:35,438 - #47 int
+INFO  11:30:35,438 - #14 [
+INFO  11:30:35,438 - #46 3
+INFO  11:30:35,438 - #15 ]
+INFO  11:30:35,438 - #8 ;
+INFO  11:30:35,438 - #47 Nizovi
+INFO  11:30:35,438 - #19 :
+INFO  11:30:35,438 - #19 :
+INFO  11:30:35,438 - #47 niz
+INFO  11:30:35,439 - #14 [
+INFO  11:30:35,439 - #47 Konstante
+INFO  11:30:35,439 - #19 :
+INFO  11:30:35,439 - #19 :
+INFO  11:30:35,439 - #47 nula
+INFO  11:30:35,439 - #15 ]
+INFO  11:30:35,439 - #7 =
+INFO  11:30:35,439 - #47 Konstante
+INFO  11:30:35,439 - #19 :
+INFO  11:30:35,439 - #19 :
+INFO  11:30:35,439 - #47 jedan
+INFO  11:30:35,439 - #8 ;
+INFO  11:30:35,439 - #47 Nizovi
+INFO  11:30:35,439 - #19 :
+INFO  11:30:35,439 - #19 :
+INFO  11:30:35,439 - #47 niz
+INFO  11:30:35,439 - #14 [
+INFO  11:30:35,439 - #46 1
+INFO  11:30:35,439 - #15 ]
+INFO  11:30:35,439 - #7 =
+INFO  11:30:35,439 - #46 2
+INFO  11:30:35,439 - #8 ;
+INFO  11:30:35,439 - #47 Nizovi
+INFO  11:30:35,439 - #19 :
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #47 niz
+INFO  11:30:35,440 - #14 [
+INFO  11:30:35,440 - #47 Nizovi
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #47 niz
+INFO  11:30:35,440 - #14 [
+INFO  11:30:35,440 - #47 Konstante
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #47 jedan
+INFO  11:30:35,440 - #15 ]
+INFO  11:30:35,440 - #15 ]
+INFO  11:30:35,440 - #7 =
+INFO  11:30:35,440 - #47 Nizovi
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #47 niz
+INFO  11:30:35,440 - #14 [
+INFO  11:30:35,440 - #47 Nizovi
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #19 :
+INFO  11:30:35,440 - #47 niz
+INFO  11:30:35,440 - #14 [
+INFO  11:30:35,440 - #46 0
+INFO  11:30:35,440 - #15 ]
+INFO  11:30:35,440 - #15 ]
+INFO  11:30:35,440 - #4 *
+INFO  11:30:35,440 - #46 3
+INFO  11:30:35,441 - #8 ;
+INFO  11:30:35,441 - #47 bodovi
+INFO  11:30:35,441 - #7 =
+INFO  11:30:35,441 - #47 Nizovi
+ERROR 11:30:35,441 - Izvrsen oporavak zbog lose dodele do ; u liniji 33
+INFO  11:30:35,441 - #19 :
+ERROR 11:30:35,441 - 
+Sintaksna greska na liniji 37, 17
+INFO  11:30:35,441 - #19 :
+INFO  11:30:35,441 - #47 niz
+INFO  11:30:35,441 - #14 [
+INFO  11:30:35,441 - #46 2
+INFO  11:30:35,441 - #15 ]
+INFO  11:30:35,441 - #5 /
+INFO  11:30:35,441 - #47 Nizovi
+INFO  11:30:35,441 - #19 :
+INFO  11:30:35,441 - #19 :
+INFO  11:30:35,441 - #47 niz
+INFO  11:30:35,441 - #14 [
+INFO  11:30:35,441 - #46 0
+INFO  11:30:35,441 - #15 ]
+INFO  11:30:35,441 - #8 ;
+INFO  11:30:35,441 - #24 print
+INFO  11:30:35,441 - #10 (
+INFO  11:30:35,441 - #47 bodovi
+ERROR 11:30:35,441 - Izvrsen oporavak zbog lose dodele do ; u liniji 37
+INFO  11:30:35,441 - #13 )
+INFO  11:30:35,441 - #8 ;
+INFO  11:30:35,442 - #24 print
+INFO  11:30:35,442 - #10 (
+INFO  11:30:35,442 - #47 Nizovi
+INFO  11:30:35,442 - #19 :
+ERROR 11:30:35,442 - 
+Sintaksna greska na liniji 39, 14
+INFO  11:30:35,442 - #19 :
+INFO  11:30:35,442 - #47 niz
+INFO  11:30:35,442 - #14 [
+INFO  11:30:35,442 - #46 2
+INFO  11:30:35,442 - #15 ]
+INFO  11:30:35,442 - #13 )
+INFO  11:30:35,442 - #8 ;
+INFO  11:30:35,442 - #47 Nizovi
+INFO  11:30:35,442 - #19 :
+INFO  11:30:35,442 - #19 :
+INFO  11:30:35,442 - #47 nizch
+INFO  11:30:35,442 - #7 =
+INFO  11:30:35,442 - #28 new
+INFO  11:30:35,442 - #47 char
+INFO  11:30:35,442 - #14 [
+INFO  11:30:35,442 - #46 3
+INFO  11:30:35,442 - #15 ]
+INFO  11:30:35,442 - #8 ;
+INFO  11:30:35,442 - #47 Nizovi
+INFO  11:30:35,442 - #19 :
+INFO  11:30:35,442 - #19 :
+INFO  11:30:35,442 - #47 nizch
+INFO  11:30:35,442 - #14 [
+INFO  11:30:35,442 - #46 0
+INFO  11:30:35,442 - #15 ]
+INFO  11:30:35,442 - #7 =
+INFO  11:30:35,443 - #48 'a'
+INFO  11:30:35,443 - #8 ;
+INFO  11:30:35,443 - #47 Nizovi
+INFO  11:30:35,443 - #19 :
+INFO  11:30:35,443 - #19 :
+INFO  11:30:35,443 - #47 nizch
+INFO  11:30:35,443 - #14 [
+INFO  11:30:35,443 - #47 Konstante
+INFO  11:30:35,443 - #19 :
+INFO  11:30:35,443 - #19 :
+INFO  11:30:35,443 - #47 jedan
+INFO  11:30:35,443 - #15 ]
+INFO  11:30:35,443 - #7 =
+INFO  11:30:35,443 - #48 'b'
+INFO  11:30:35,443 - #8 ;
+INFO  11:30:35,443 - #47 Nizovi
+INFO  11:30:35,443 - #19 :
+INFO  11:30:35,443 - #19 :
+INFO  11:30:35,443 - #47 nizch
+INFO  11:30:35,443 - #14 [
+INFO  11:30:35,443 - #47 Konstante
+INFO  11:30:35,443 - #19 :
+INFO  11:30:35,443 - #19 :
+INFO  11:30:35,443 - #47 pet
+INFO  11:30:35,443 - #3 -
+INFO  11:30:35,443 - #46 3
+INFO  11:30:35,443 - #15 ]
+INFO  11:30:35,443 - #7 =
+INFO  11:30:35,443 - #48 'c'
+INFO  11:30:35,443 - #8 ;
+INFO  11:30:35,443 - #24 print
+INFO  11:30:35,443 - #10 (
+INFO  11:30:35,444 - #47 Nizovi
+ERROR 11:30:35,444 - Izvrsen oporavak zbog lose dodele do ; u liniji 39
+INFO  11:30:35,444 - #19 :
+ERROR 11:30:35,444 - 
+Sintaksna greska na liniji 46, 14
+INFO  11:30:35,444 - #19 :
+INFO  11:30:35,444 - #47 nizch
+INFO  11:30:35,444 - #14 [
+INFO  11:30:35,444 - #46 1
+INFO  11:30:35,444 - #15 ]
+INFO  11:30:35,444 - #13 )
+INFO  11:30:35,444 - #8 ;
+INFO  11:30:35,444 - #24 print
+INFO  11:30:35,444 - #10 (
+INFO  11:30:35,444 - #47 Nizovi
+ERROR 11:30:35,444 - Izvrsen oporavak zbog lose dodele do ; u liniji 46
+INFO  11:30:35,444 - #19 :
+ERROR 11:30:35,444 - 
+Sintaksna greska na liniji 47, 14
+INFO  11:30:35,444 - #19 :
+INFO  11:30:35,444 - #47 nizch
+INFO  11:30:35,444 - #14 [
+INFO  11:30:35,444 - #47 Konstante
+INFO  11:30:35,444 - #19 :
+INFO  11:30:35,444 - #19 :
+INFO  11:30:35,444 - #47 jedan
+INFO  11:30:35,444 - #4 *
+INFO  11:30:35,444 - #46 2
+INFO  11:30:35,444 - #15 ]
+INFO  11:30:35,444 - #13 )
+INFO  11:30:35,444 - #8 ;
+INFO  11:30:35,444 - #47 a
+INFO  11:30:35,444 - #7 =
+INFO  11:30:35,445 - #46 1
+ERROR 11:30:35,445 - Izvrsen oporavak zbog lose dodele do ; u liniji 47
+INFO  11:30:35,445 - #8 ;
+INFO  11:30:35,445 - #31 read
+INFO  11:30:35,445 - #10 (
+INFO  11:30:35,445 - #47 bodovi
+INFO  11:30:35,445 - #13 )
+INFO  11:30:35,445 - #8 ;
+INFO  11:30:35,445 - #47 bodovi
+INFO  11:30:35,445 - #7 =
+INFO  11:30:35,445 - #3 -
+INFO  11:30:35,445 - #47 bodovi
+INFO  11:30:35,445 - #2 +
+INFO  11:30:35,445 - #10 (
+INFO  11:30:35,445 - #47 Konstante
+INFO  11:30:35,445 - #19 :
+ERROR 11:30:35,445 - 
+Sintaksna greska na liniji 51, 31
+INFO  11:30:35,445 - #19 :
+INFO  11:30:35,445 - #47 pet
+INFO  11:30:35,445 - #4 *
+INFO  11:30:35,446 - #47 a
+INFO  11:30:35,446 - #5 /
+INFO  11:30:35,446 - #46 2
+INFO  11:30:35,446 - #3 -
+INFO  11:30:35,446 - #47 Konstante
+INFO  11:30:35,446 - #19 :
+INFO  11:30:35,446 - #19 :
+INFO  11:30:35,446 - #47 jedan
+INFO  11:30:35,446 - #13 )
+INFO  11:30:35,446 - #4 *
+INFO  11:30:35,446 - #47 bodovi
+INFO  11:30:35,446 - #3 -
+INFO  11:30:35,446 - #10 (
+INFO  11:30:35,446 - #46 3
+INFO  11:30:35,446 - #6 %
+INFO  11:30:35,446 - #46 2
+INFO  11:30:35,446 - #2 +
+INFO  11:30:35,446 - #46 3
+INFO  11:30:35,446 - #4 *
+INFO  11:30:35,446 - #46 2
+INFO  11:30:35,446 - #3 -
+INFO  11:30:35,446 - #46 3
+INFO  11:30:35,446 - #13 )
+INFO  11:30:35,446 - #8 ;
+INFO  11:30:35,446 - #24 print
+INFO  11:30:35,446 - #10 (
+INFO  11:30:35,446 - #47 bodovi
+ERROR 11:30:35,446 - Izvrsen oporavak zbog lose dodele do ; u liniji 51
+INFO  11:30:35,446 - #13 )
+INFO  11:30:35,446 - #8 ;
+INFO  11:30:35,446 - #17 }
+INFO  11:30:35,446 - #17 }
+INFO  11:30:35,448 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NamespaceDecls(
+      NoNamespaceDecl(
+      ) [NoNamespaceDecl]
+      NamespaceDecl(
+        NameSpaceName(
+         Konstante
+        ) [NameSpaceName]
+        NameSpaceBegin(
+        ) [NameSpaceBegin]
+        VarLists(
+          VarLists(
+            VarLists(
+              NoVarLists(
+              ) [NoVarLists]
+              ConstPartNamespace(
+                ConstType(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                ) [ConstType]
+                ConstD(
+                  ConstDeclaration(
+                   nula
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstDeclaration]
+                ) [ConstD]
+              ) [ConstPartNamespace]
+            ) [VarLists]
+            ConstPartNamespace(
+              ConstType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [ConstType]
+              ConstD(
+                ConstDeclaration(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstDeclaration]
+              ) [ConstD]
+            ) [ConstPartNamespace]
+          ) [VarLists]
+          ConstPartNamespace(
+            ConstType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [ConstType]
+            ConstD(
+              ConstDeclaration(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstDeclaration]
+            ) [ConstD]
+          ) [ConstPartNamespace]
+        ) [VarLists]
+        NoMethodDecar(
+        ) [NoMethodDecar]
+      ) [NamespaceDecl]
+    ) [NamespaceDecls]
+    NamespaceDecl(
+      NameSpaceName(
+       Nizovi
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        VarLists(
+          NoVarLists(
+          ) [NoVarLists]
+          VarPartNamespace(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               niz
+                Array(
+                ) [Array]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [VarPartNamespace]
+        ) [VarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             nizch
+              Array(
+              ) [Array]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      FieldDecls(
+        Fld(
+          VarType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             bodovi
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [Fld]
+        FieldDecls(
+          Fld(
+            VarType(
+              OnceIdent(
+               bool
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               bt
+                NoArray(
+                ) [NoArray]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [Fld]
+          NoFieldDecl(
+          ) [NoFieldDecl]
+        ) [FieldDecls]
+      ) [FieldDecls]
+      StatementsNew(
+        StatementsNew(
+          StatementsNew(
+            StatementsNew(
+              StatementsNew(
+                StatementsNew(
+                  StatementsNew(
+                    StatementsNew(
+                      StatementsNew(
+                        StatementsNew(
+                          StatementsNew(
+                            StatementsNew(
+                              StatementsNew(
+                                StatementsNew(
+                                  StatementsNew(
+                                    StatementsNew(
+                                      NoStatements(
+                                      ) [NoStatements]
+                                      MatchedStm(
+                                        StatementD(
+                                          DesigAssign(
+                                            Designator(
+                                              DesigName(
+                                               bodovi
+                                              ) [DesigName]
+                                              NoDesigAddit(
+                                              ) [NoDesigAddit]
+                                            ) [Designator]
+                                            AssignOpE(
+                                            ) [AssignOpE]
+                                            ExprOpt(
+                                              ExprNonT(
+                                                NoMinus(
+                                                ) [NoMinus]
+                                                TermF(
+                                                  FactorConst(
+                                                    NumConst(
+                                                     0
+                                                    ) [NumConst]
+                                                  ) [FactorConst]
+                                                ) [TermF]
+                                                NoAddTerm(
+                                                ) [NoAddTerm]
+                                              ) [ExprNonT]
+                                            ) [ExprOpt]
+                                          ) [DesigAssign]
+                                        ) [StatementD]
+                                      ) [MatchedStm]
+                                    ) [StatementsNew]
+                                    MatchedStm(
+                                      StatementD(
+                                        DesigPlusPlus(
+                                          Designator(
+                                            DesigName(
+                                             bodovi
+                                            ) [DesigName]
+                                            NoDesigAddit(
+                                            ) [NoDesigAddit]
+                                          ) [Designator]
+                                        ) [DesigPlusPlus]
+                                      ) [StatementD]
+                                    ) [MatchedStm]
+                                  ) [StatementsNew]
+                                  MatchedStm(
+                                    MatchedDerived1(
+                                    ) [MatchedDerived1]
+                                  ) [MatchedStm]
+                                ) [StatementsNew]
+                                MatchedStm(
+                                  MatchedDerived1(
+                                  ) [MatchedDerived1]
+                                ) [MatchedStm]
+                              ) [StatementsNew]
+                              MatchedStm(
+                                StatementD(
+                                  DesigMinusMinus(
+                                    Designator(
+                                      DesigName(
+                                       bodovi
+                                      ) [DesigName]
+                                      NoDesigAddit(
+                                      ) [NoDesigAddit]
+                                    ) [Designator]
+                                  ) [DesigMinusMinus]
+                                ) [StatementD]
+                              ) [MatchedStm]
+                            ) [StatementsNew]
+                            MatchedStm(
+                              StatementPrint(
+                                ExprOpt(
+                                  ExprNonT(
+                                    NoMinus(
+                                    ) [NoMinus]
+                                    TermF(
+                                      FactorDes(
+                                        Designator(
+                                          DesigName(
+                                           bodovi
+                                          ) [DesigName]
+                                          NoDesigAddit(
+                                          ) [NoDesigAddit]
+                                        ) [Designator]
+                                        NoOptActParts(
+                                        ) [NoOptActParts]
+                                      ) [FactorDes]
+                                    ) [TermF]
+                                    NoAddTerm(
+                                    ) [NoAddTerm]
+                                  ) [ExprNonT]
+                                ) [ExprOpt]
+                                NoNumPrint(
+                                ) [NoNumPrint]
+                              ) [StatementPrint]
+                            ) [MatchedStm]
+                          ) [StatementsNew]
+                          MatchedStm(
+                            MatchedDerived1(
+                            ) [MatchedDerived1]
+                          ) [MatchedStm]
+                        ) [StatementsNew]
+                        MatchedStm(
+                          MatchedDerived1(
+                          ) [MatchedDerived1]
+                        ) [MatchedStm]
+                      ) [StatementsNew]
+                      MatchedStm(
+                        StatementPrint(
+                          ExprOpt(
+                            ExprNonT(
+                              NoMinus(
+                              ) [NoMinus]
+                              TermF(
+                                FactorDes(
+                                  Designator(
+                                    DesigName(
+                                     bodovi
+                                    ) [DesigName]
+                                    NoDesigAddit(
+                                    ) [NoDesigAddit]
+                                  ) [Designator]
+                                  NoOptActParts(
+                                  ) [NoOptActParts]
+                                ) [FactorDes]
+                              ) [TermF]
+                              NoAddTerm(
+                              ) [NoAddTerm]
+                            ) [ExprNonT]
+                          ) [ExprOpt]
+                          NoNumPrint(
+                          ) [NoNumPrint]
+                        ) [StatementPrint]
+                      ) [MatchedStm]
+                    ) [StatementsNew]
+                    MatchedStm(
+                      MatchedDerived1(
+                      ) [MatchedDerived1]
+                    ) [MatchedStm]
+                  ) [StatementsNew]
+                  MatchedStm(
+                    MatchedDerived1(
+                    ) [MatchedDerived1]
+                  ) [MatchedStm]
+                ) [StatementsNew]
+                MatchedStm(
+                  MatchedDerived1(
+                  ) [MatchedDerived1]
+                ) [MatchedStm]
+              ) [StatementsNew]
+              MatchedStm(
+                StatementD(
+                  DesigAssign(
+                    Designator(
+                      DesigName(
+                       a
+                      ) [DesigName]
+                      NoDesigAddit(
+                      ) [NoDesigAddit]
+                    ) [Designator]
+                    AssignOpE(
+                    ) [AssignOpE]
+                    ExprOpt(
+                      ExprNonT(
+                        NoMinus(
+                        ) [NoMinus]
+                        TermF(
+                          FactorConst(
+                            NumConst(
+                             1
+                            ) [NumConst]
+                          ) [FactorConst]
+                        ) [TermF]
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                      ) [ExprNonT]
+                    ) [ExprOpt]
+                  ) [DesigAssign]
+                ) [StatementD]
+              ) [MatchedStm]
+            ) [StatementsNew]
+            MatchedStm(
+              StatementRead(
+                Designator(
+                  DesigName(
+                   bodovi
+                  ) [DesigName]
+                  NoDesigAddit(
+                  ) [NoDesigAddit]
+                ) [Designator]
+              ) [StatementRead]
+            ) [MatchedStm]
+          ) [StatementsNew]
+          MatchedStm(
+            MatchedDerived1(
+            ) [MatchedDerived1]
+          ) [MatchedStm]
+        ) [StatementsNew]
+        MatchedStm(
+          StatementPrint(
+            ExprOpt(
+              ExprNonT(
+                NoMinus(
+                ) [NoMinus]
+                TermF(
+                  FactorDes(
+                    Designator(
+                      DesigName(
+                       bodovi
+                      ) [DesigName]
+                      NoDesigAddit(
+                      ) [NoDesigAddit]
+                    ) [Designator]
+                    NoOptActParts(
+                    ) [NoOptActParts]
+                  ) [FactorDes]
+                ) [TermF]
+                NoAddTerm(
+                ) [NoAddTerm]
+              ) [ExprNonT]
+            ) [ExprOpt]
+            NoNumPrint(
+            ) [NoNumPrint]
+          ) [StatementPrint]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:30:35,448 - ===================================

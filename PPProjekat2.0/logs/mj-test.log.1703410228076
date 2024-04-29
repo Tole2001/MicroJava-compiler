@@ -1,0 +1,119 @@
+INFO  10:29:39,945 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  10:29:39,978 - #11 program
+INFO  10:29:39,979 - #47 test301
+INFO  10:29:39,979 - #12 namespace
+INFO  10:29:39,979 - #47 Konstante
+INFO  10:29:39,979 - #16 {
+INFO  10:29:39,980 - #47 int
+INFO  10:29:39,980 - #47 B
+INFO  10:29:39,981 - #8 ;
+INFO  10:29:39,982 - #47 char
+INFO  10:29:39,982 - #47 C
+INFO  10:29:39,982 - #8 ;
+INFO  10:29:39,982 - #16 {
+INFO  10:29:39,982 - #17 }
+INFO  10:29:39,983 - #17 }
+INFO  10:29:39,983 - #47 int
+INFO  10:29:39,983 - #47 a
+INFO  10:29:39,983 - #8 ;
+INFO  10:29:39,984 - #16 {
+INFO  10:29:39,984 - #26 void
+INFO  10:29:39,984 - #47 main
+INFO  10:29:39,985 - #10 (
+INFO  10:29:39,985 - #13 )
+INFO  10:29:39,985 - #16 {
+INFO  10:29:39,986 - #17 }
+INFO  10:29:39,986 - #17 }
+INFO  10:29:39,989 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      NameSpaceName(
+       Konstante
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        VarLists(
+          NoVarLists(
+          ) [NoVarLists]
+          VarPartNamespace(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarD(
+              VarDeclaration(
+               B
+                NoArray(
+                ) [NoArray]
+              ) [VarDeclaration]
+            ) [VarD]
+          ) [VarPartNamespace]
+        ) [VarLists]
+        VarPartNamespace(
+          VarType(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             C
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [VarPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:29:39,990 - ===================================
+INFO  10:29:39,992 - postoji ispravan main na liniji 3
+INFO  10:29:39,992 - ===================================
+INFO  10:29:39,992 - Parsiranje uspesno zavrseno!

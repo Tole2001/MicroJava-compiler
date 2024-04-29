@@ -1,0 +1,104 @@
+INFO  10:25:17,351 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  10:25:17,382 - #11 program
+INFO  10:25:17,382 - #47 test301
+INFO  10:25:17,382 - #12 namespace
+INFO  10:25:17,383 - #47 Konstante
+INFO  10:25:17,383 - #16 {
+INFO  10:25:17,383 - #21 const
+INFO  10:25:17,384 - #47 int
+INFO  10:25:17,384 - #47 a
+INFO  10:25:17,384 - #7 =
+INFO  10:25:17,384 - #46 5
+INFO  10:25:17,384 - #8 ;
+INFO  10:25:17,385 - #16 {
+INFO  10:25:17,385 - #17 }
+INFO  10:25:17,385 - #17 }
+INFO  10:25:17,385 - #47 int
+INFO  10:25:17,386 - #47 a
+INFO  10:25:17,386 - #8 ;
+INFO  10:25:17,387 - #16 {
+INFO  10:25:17,387 - #26 void
+INFO  10:25:17,388 - #47 main
+INFO  10:25:17,388 - #10 (
+INFO  10:25:17,389 - #13 )
+INFO  10:25:17,389 - #16 {
+INFO  10:25:17,389 - #17 }
+INFO  10:25:17,389 - #17 }
+INFO  10:25:17,393 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      NameSpaceName(
+       Konstante
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      VarLists(
+        NoVarLists(
+        ) [NoVarLists]
+        ConstPartNamespace(
+          ConstType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [ConstType]
+          ConstD(
+            ConstDeclaration(
+             a
+              NumConst(
+               5
+              ) [NumConst]
+            ) [ConstDeclaration]
+          ) [ConstD]
+        ) [ConstPartNamespace]
+      ) [VarLists]
+      NoMethodDecar(
+      ) [NoMethodDecar]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      VarType(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+      ) [VarType]
+      VarD(
+        VarDeclaration(
+         a
+          NoArray(
+          ) [NoArray]
+        ) [VarDeclaration]
+      ) [VarD]
+    ) [VarPart]
+  ) [InitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:25:17,393 - ===================================
+INFO  10:25:17,396 - postoji ispravan main na liniji 3
+INFO  10:25:17,396 - ===================================
+INFO  10:25:17,396 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,325 @@
+INFO  10:49:39,272 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  10:49:39,302 - #11 program
+INFO  10:49:39,302 - #47 test302
+INFO  10:49:39,302 - #12 namespace
+INFO  10:49:39,303 - #47 Addition
+INFO  10:49:39,303 - #16 {
+INFO  10:49:39,304 - #16 {
+INFO  10:49:39,304 - #47 int
+INFO  10:49:39,304 - #47 sum
+INFO  10:49:39,305 - #10 (
+INFO  10:49:39,305 - #47 int
+INFO  10:49:39,305 - #47 z
+INFO  10:49:39,305 - #9 ,
+INFO  10:49:39,306 - #47 int
+INFO  10:49:39,306 - #47 d
+INFO  10:49:39,306 - #13 )
+INFO  10:49:39,306 - #16 {
+INFO  10:49:39,306 - #25 return
+INFO  10:49:39,307 - #47 z
+INFO  10:49:39,307 - #2 +
+INFO  10:49:39,308 - #47 d
+INFO  10:49:39,309 - #8 ;
+INFO  10:49:39,310 - #17 }
+INFO  10:49:39,311 - #47 int
+INFO  10:49:39,311 - #47 inkrement
+INFO  10:49:39,311 - #10 (
+INFO  10:49:39,311 - #47 int
+INFO  10:49:39,311 - #47 a
+INFO  10:49:39,311 - #9 ,
+INFO  10:49:39,311 - #47 int
+INFO  10:49:39,311 - #47 inc
+INFO  10:49:39,311 - #13 )
+INFO  10:49:39,311 - #47 int
+INFO  10:49:39,311 - #47 pom
+INFO  10:49:39,311 - #8 ;
+INFO  10:49:39,312 - #16 {
+INFO  10:49:39,312 - #25 return
+INFO  10:49:39,312 - #47 pom
+INFO  10:49:39,312 - #8 ;
+INFO  10:49:39,312 - #17 }
+INFO  10:49:39,312 - #17 }
+INFO  10:49:39,312 - #17 }
+INFO  10:49:39,312 - #16 {
+INFO  10:49:39,313 - #26 void
+INFO  10:49:39,313 - #47 main
+INFO  10:49:39,314 - #10 (
+INFO  10:49:39,314 - #13 )
+INFO  10:49:39,314 - #47 int
+INFO  10:49:39,314 - #47 bodovi
+INFO  10:49:39,314 - #8 ;
+INFO  10:49:39,314 - #16 {
+INFO  10:49:39,314 - #47 bodovi
+INFO  10:49:39,314 - #7 =
+INFO  10:49:39,314 - #46 0
+INFO  10:49:39,315 - #8 ;
+INFO  10:49:39,315 - #17 }
+INFO  10:49:39,315 - #17 }
+INFO  10:49:39,318 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      NameSpaceName(
+       Addition
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      NoVarLists(
+      ) [NoVarLists]
+      MethodDeclarations(
+        MethodDeclarations(
+          NoMethodDecar(
+          ) [NoMethodDecar]
+          MethodDec(
+            MethodTypeName(
+              MType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [MType]
+             sum
+            ) [MethodTypeName]
+            FormParamL(
+              FormParametrs(
+                FormParamsCom(
+                  FormPar(
+                    FormalPar(
+                      OnceIdent(
+                       int
+                      ) [OnceIdent]
+                     z
+                      NoArray(
+                      ) [NoArray]
+                    ) [FormalPar]
+                  ) [FormPar]
+                ) [FormParamsCom]
+                FormalPar(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                 d
+                  NoArray(
+                  ) [NoArray]
+                ) [FormalPar]
+              ) [FormParametrs]
+            ) [FormParamL]
+            NoFieldDecl(
+            ) [NoFieldDecl]
+            StatementsNew(
+              NoStatements(
+              ) [NoStatements]
+              MatchedStm(
+                StatementReturn(
+                  ExprO(
+                    ExprOpt(
+                      ExprNonT(
+                        NoMinus(
+                        ) [NoMinus]
+                        TermF(
+                          FactorDes(
+                            Designator(
+                              DesigNameO(
+                               z
+                              ) [DesigNameO]
+                              NoDesigAddit(
+                              ) [NoDesigAddit]
+                            ) [Designator]
+                            NoOptActParts(
+                            ) [NoOptActParts]
+                          ) [FactorDes]
+                        ) [TermF]
+                        AddTermA(
+                          NoAddTerm(
+                          ) [NoAddTerm]
+                          PlusOp(
+                          ) [PlusOp]
+                          TermF(
+                            FactorDes(
+                              Designator(
+                                DesigNameO(
+                                 d
+                                ) [DesigNameO]
+                                NoDesigAddit(
+                                ) [NoDesigAddit]
+                              ) [Designator]
+                              NoOptActParts(
+                              ) [NoOptActParts]
+                            ) [FactorDes]
+                          ) [TermF]
+                        ) [AddTermA]
+                      ) [ExprNonT]
+                    ) [ExprOpt]
+                  ) [ExprO]
+                ) [StatementReturn]
+              ) [MatchedStm]
+            ) [StatementsNew]
+          ) [MethodDec]
+        ) [MethodDeclarations]
+        MethodDec(
+          MethodTypeName(
+            MType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [MType]
+           inkrement
+          ) [MethodTypeName]
+          FormParamL(
+            FormParametrs(
+              FormParamsCom(
+                FormPar(
+                  FormalPar(
+                    OnceIdent(
+                     int
+                    ) [OnceIdent]
+                   a
+                    NoArray(
+                    ) [NoArray]
+                  ) [FormalPar]
+                ) [FormPar]
+              ) [FormParamsCom]
+              FormalPar(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+               inc
+                NoArray(
+                ) [NoArray]
+              ) [FormalPar]
+            ) [FormParametrs]
+          ) [FormParamL]
+          FieldDecls(
+            Fld(
+              VarType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [VarType]
+              VarD(
+                VarDeclaration(
+                 pom
+                  NoArray(
+                  ) [NoArray]
+                ) [VarDeclaration]
+              ) [VarD]
+            ) [Fld]
+            NoFieldDecl(
+            ) [NoFieldDecl]
+          ) [FieldDecls]
+          StatementsNew(
+            NoStatements(
+            ) [NoStatements]
+            MatchedStm(
+              StatementReturn(
+                ExprO(
+                  ExprOpt(
+                    ExprNonT(
+                      NoMinus(
+                      ) [NoMinus]
+                      TermF(
+                        FactorDes(
+                          Designator(
+                            DesigNameO(
+                             pom
+                            ) [DesigNameO]
+                            NoDesigAddit(
+                            ) [NoDesigAddit]
+                          ) [Designator]
+                          NoOptActParts(
+                          ) [NoOptActParts]
+                        ) [FactorDes]
+                      ) [TermF]
+                      NoAddTerm(
+                      ) [NoAddTerm]
+                    ) [ExprNonT]
+                  ) [ExprOpt]
+                ) [ExprO]
+              ) [StatementReturn]
+            ) [MatchedStm]
+          ) [StatementsNew]
+        ) [MethodDec]
+      ) [MethodDeclarations]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  NoInitLists(
+  ) [NoInitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      FieldDecls(
+        Fld(
+          VarType(
+            OnceIdent(
+             int
+            ) [OnceIdent]
+          ) [VarType]
+          VarD(
+            VarDeclaration(
+             bodovi
+              NoArray(
+              ) [NoArray]
+            ) [VarDeclaration]
+          ) [VarD]
+        ) [Fld]
+        NoFieldDecl(
+        ) [NoFieldDecl]
+      ) [FieldDecls]
+      StatementsNew(
+        NoStatements(
+        ) [NoStatements]
+        MatchedStm(
+          StatementD(
+            DesigAssign(
+              Designator(
+                DesigNameO(
+                 bodovi
+                ) [DesigNameO]
+                NoDesigAddit(
+                ) [NoDesigAddit]
+              ) [Designator]
+              AssignOpE(
+              ) [AssignOpE]
+              ExprOpt(
+                ExprNonT(
+                  NoMinus(
+                  ) [NoMinus]
+                  TermF(
+                    FactorConst(
+                      NumConst(
+                       0
+                      ) [NumConst]
+                    ) [FactorConst]
+                  ) [TermF]
+                  NoAddTerm(
+                  ) [NoAddTerm]
+                ) [ExprNonT]
+              ) [ExprOpt]
+            ) [DesigAssign]
+          ) [StatementD]
+        ) [MatchedStm]
+      ) [StatementsNew]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  10:49:39,318 - ===================================
+INFO  10:49:39,321 - Pristup promenljivoj z na liniji 12
+INFO  10:49:39,321 - Pristup promenljivoj d na liniji 12
+INFO  10:49:39,322 - Pristup promenljivoj pom na liniji 19
+INFO  10:49:39,322 - Pristup promenljivoj bodovi na liniji 35
+INFO  10:49:39,322 - postoji ispravan main na liniji 3
+INFO  10:49:39,322 - ===================================
+INFO  10:49:39,322 - Parsiranje uspesno zavrseno!

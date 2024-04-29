@@ -1,0 +1,113 @@
+INFO  09:27:58,050 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:27:58,080 - #11 program
+INFO  09:27:58,080 - #47 test302
+INFO  09:27:58,080 - #12 namespace
+INFO  09:27:58,081 - #47 Unpacking
+INFO  09:27:58,081 - #16 {
+INFO  09:27:58,081 - #47 int
+INFO  09:27:58,081 - #47 niz
+INFO  09:27:58,082 - #14 [
+INFO  09:27:58,082 - #15 ]
+INFO  09:27:58,082 - #9 ,
+INFO  09:27:58,083 - #47 niz2
+INFO  09:27:58,083 - #14 [
+INFO  09:27:58,083 - #15 ]
+INFO  09:27:58,083 - #9 ,
+INFO  09:27:58,083 - #47 niz3
+INFO  09:27:58,083 - #14 [
+INFO  09:27:58,083 - #15 ]
+INFO  09:27:58,083 - #8 ;
+INFO  09:27:58,083 - #47 int
+INFO  09:27:58,084 - #47 a
+INFO  09:27:58,084 - #9 ,
+INFO  09:27:58,085 - #47 b
+INFO  09:27:58,085 - #8 ;
+INFO  09:27:58,086 - #16 {
+INFO  09:27:58,086 - #17 }
+INFO  09:27:58,086 - #17 }
+INFO  09:27:58,086 - #16 {
+INFO  09:27:58,086 - #17 }
+INFO  09:27:58,087 - Program(
+  Prog_id(
+   test302
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     Unpacking
+      InitLists(
+        InitLists(
+          NoInitLists(
+          ) [NoInitLists]
+          VarPart(
+            Var_dec(
+              VarType(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+              ) [VarType]
+              VarIdList(
+                VarListCm(
+                  VarIdList(
+                    VarListCm(
+                      VarOrArrayId(
+                        VarId(
+                         niz
+                          Array(
+                          ) [Array]
+                        ) [VarId]
+                      ) [VarOrArrayId]
+                    ) [VarListCm]
+                    VarId(
+                     niz2
+                      Array(
+                      ) [Array]
+                    ) [VarId]
+                  ) [VarIdList]
+                ) [VarListCm]
+                VarId(
+                 niz3
+                  Array(
+                  ) [Array]
+                ) [VarId]
+              ) [VarIdList]
+            ) [Var_dec]
+          ) [VarPart]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            VarType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [VarType]
+            VarIdList(
+              VarListCm(
+                VarOrArrayId(
+                  VarId(
+                   a
+                    NoArray(
+                    ) [NoArray]
+                  ) [VarId]
+                ) [VarOrArrayId]
+              ) [VarListCm]
+              VarId(
+               b
+                NoArray(
+                ) [NoArray]
+              ) [VarId]
+            ) [VarIdList]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  NoInitLists(
+  ) [NoInitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  09:27:58,087 - ===================================

@@ -1,0 +1,66 @@
+INFO  09:12:57,554 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:12:57,583 - #11 program
+INFO  09:12:57,584 - #47 mojProgram
+INFO  09:12:57,584 - #12 namespace
+INFO  09:12:57,584 - #47 sizes
+INFO  09:12:57,584 - #16 {
+INFO  09:12:57,584 - #21 const
+INFO  09:12:57,585 - #47 int
+INFO  09:12:57,585 - #47 tableSize
+INFO  09:12:57,585 - #7 =
+INFO  09:12:57,585 - #46 10
+INFO  09:12:57,585 - #8 ;
+INFO  09:12:57,586 - #16 {
+INFO  09:12:57,586 - #17 }
+INFO  09:12:57,586 - #17 }
+INFO  09:12:57,586 - #47 Table
+INFO  09:12:57,587 - #47 val
+INFO  09:12:57,587 - #8 ;
+INFO  09:12:57,587 - #47 int
+INFO  09:12:57,587 - #47 rows
+INFO  09:12:57,587 - #9 ,
+INFO  09:12:57,587 - #47 columns
+INFO  09:12:57,589 - #8 ;
+INFO  09:12:57,589 - #16 {
+INFO  09:12:57,589 - #26 void
+INFO  09:12:57,589 - #47 f
+INFO  09:12:57,589 - #10 (
+INFO  09:12:57,589 - #47 char
+INFO  09:12:57,589 - #47 ch
+INFO  09:12:57,589 - #9 ,
+INFO  09:12:57,589 - #47 int
+INFO  09:12:57,589 - #47 a
+INFO  09:12:57,589 - #9 ,
+INFO  09:12:57,590 - #47 int
+INFO  09:12:57,590 - #47 arg
+INFO  09:12:57,590 - #13 )
+INFO  09:12:57,590 - #47 int
+INFO  09:12:57,590 - #47 x
+INFO  09:12:57,590 - #8 ;
+INFO  09:12:57,590 - #16 {
+INFO  09:12:57,590 - #47 x
+INFO  09:12:57,591 - #7 =
+INFO  09:12:57,591 - #47 arg
+INFO  09:12:57,591 - #8 ;
+INFO  09:12:57,592 - #17 }
+INFO  09:12:57,592 - #26 void
+INFO  09:12:57,593 - #47 main
+INFO  09:12:57,593 - #10 (
+INFO  09:12:57,593 - #13 )
+INFO  09:12:57,593 - #47 char
+INFO  09:12:57,593 - #47 c
+INFO  09:12:57,593 - #9 ,
+INFO  09:12:57,593 - #47 int
+INFO  09:12:57,593 - #14 [
+INFO  09:12:57,593 - #15 ]
+INFO  09:12:57,593 - #47 arr
+ERROR 09:12:57,593 - 
+Sintaksna greska na liniji 17, 27
+INFO  09:12:57,594 - #8 ;
+INFO  09:12:57,594 - #16 {
+INFO  09:12:57,594 - #17 }
+INFO  09:12:57,594 - #17 }
+ERROR 09:12:57,594 - Sintaksa greska deklaracije globalne promenljive na liniji 9
+ERROR 09:12:57,594 - 
+Sintaksna greska na liniji 21, 0
+ERROR 09:12:57,595 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 21, 1

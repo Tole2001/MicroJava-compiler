@@ -1,0 +1,166 @@
+INFO  11:30:36,923 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  11:30:36,955 - #11 program
+INFO  11:30:36,955 - #47 test302
+INFO  11:30:36,955 - #12 namespace
+INFO  11:30:36,956 - #47 Addition
+INFO  11:30:36,956 - #16 {
+INFO  11:30:36,956 - #16 {
+INFO  11:30:36,957 - #47 int
+INFO  11:30:36,957 - #47 sum
+INFO  11:30:36,957 - #10 (
+INFO  11:30:36,958 - #47 int
+INFO  11:30:36,958 - #47 z
+INFO  11:30:36,958 - #9 ,
+INFO  11:30:36,958 - #47 int
+INFO  11:30:36,959 - #47 d
+INFO  11:30:36,959 - #13 )
+INFO  11:30:36,959 - #16 {
+INFO  11:30:36,959 - #25 return
+INFO  11:30:36,959 - #47 z
+INFO  11:30:36,960 - #2 +
+INFO  11:30:36,961 - #47 d
+INFO  11:30:36,962 - #8 ;
+INFO  11:30:36,964 - #17 }
+INFO  11:30:36,964 - #17 }
+INFO  11:30:36,965 - #17 }
+INFO  11:30:36,965 - #16 {
+INFO  11:30:36,966 - #26 void
+INFO  11:30:36,966 - #47 main
+INFO  11:30:36,966 - #10 (
+INFO  11:30:36,966 - #13 )
+INFO  11:30:36,966 - #16 {
+INFO  11:30:36,967 - #17 }
+INFO  11:30:36,967 - #17 }
+INFO  11:30:36,970 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+      NameSpaceName(
+       Addition
+      ) [NameSpaceName]
+      NameSpaceBegin(
+      ) [NameSpaceBegin]
+      NoVarLists(
+      ) [NoVarLists]
+      MethodDeclarations(
+        NoMethodDecar(
+        ) [NoMethodDecar]
+        MethodDec(
+          MethodTypeName(
+            MType(
+              OnceIdent(
+               int
+              ) [OnceIdent]
+            ) [MType]
+           sum
+          ) [MethodTypeName]
+          FormParamL(
+            FormParametrs(
+              FormParamsCom(
+                FormPar(
+                  FormalPar(
+                    OnceIdent(
+                     int
+                    ) [OnceIdent]
+                   z
+                    NoArray(
+                    ) [NoArray]
+                  ) [FormalPar]
+                ) [FormPar]
+              ) [FormParamsCom]
+              FormalPar(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+               d
+                NoArray(
+                ) [NoArray]
+              ) [FormalPar]
+            ) [FormParametrs]
+          ) [FormParamL]
+          NoFieldDecl(
+          ) [NoFieldDecl]
+          StatementsNew(
+            NoStatements(
+            ) [NoStatements]
+            MatchedStm(
+              StatementReturn(
+                ExprO(
+                  ExprOpt(
+                    ExprNonT(
+                      NoMinus(
+                      ) [NoMinus]
+                      TermF(
+                        FactorDes(
+                          Designator(
+                            DesigNameO(
+                             z
+                            ) [DesigNameO]
+                            NoDesigAddit(
+                            ) [NoDesigAddit]
+                          ) [Designator]
+                          NoOptActParts(
+                          ) [NoOptActParts]
+                        ) [FactorDes]
+                      ) [TermF]
+                      AddTermA(
+                        NoAddTerm(
+                        ) [NoAddTerm]
+                        PlusOp(
+                        ) [PlusOp]
+                        TermF(
+                          FactorDes(
+                            Designator(
+                              DesigNameO(
+                               d
+                              ) [DesigNameO]
+                              NoDesigAddit(
+                              ) [NoDesigAddit]
+                            ) [Designator]
+                            NoOptActParts(
+                            ) [NoOptActParts]
+                          ) [FactorDes]
+                        ) [TermF]
+                      ) [AddTermA]
+                    ) [ExprNonT]
+                  ) [ExprOpt]
+                ) [ExprO]
+              ) [StatementReturn]
+            ) [MatchedStm]
+          ) [StatementsNew]
+        ) [MethodDec]
+      ) [MethodDeclarations]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  NoInitLists(
+  ) [NoInitLists]
+  GlobalStart(
+  ) [GlobalStart]
+  MethodDeclarations(
+    NoMethodDecar(
+    ) [NoMethodDecar]
+    MethodDec(
+      MethodTypeName(
+        TVoid(
+        ) [TVoid]
+       main
+      ) [MethodTypeName]
+      NoFromParam(
+      ) [NoFromParam]
+      NoFieldDecl(
+      ) [NoFieldDecl]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:30:36,970 - ===================================
+INFO  11:30:36,973 - Pristup promenljivoj z na liniji 11
+INFO  11:30:36,973 - Pristup promenljivoj d na liniji 11
+INFO  11:30:36,973 - postoji ispravan main na liniji 3
+INFO  11:30:36,973 - ===================================
+INFO  11:30:36,974 - Parsiranje uspesno zavrseno!

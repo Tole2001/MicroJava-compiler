@@ -1,0 +1,132 @@
+INFO  09:22:36,420 - Compiling source file: C:\Users\Teodor\eclipse-workspace\PPProjekat2.0\test\program.mj
+INFO  09:22:36,451 - #11 program
+INFO  09:22:36,451 - #47 test301
+INFO  09:22:36,451 - #12 namespace
+INFO  09:22:36,452 - #47 Konstante
+INFO  09:22:36,452 - #16 {
+INFO  09:22:36,452 - #21 const
+INFO  09:22:36,452 - #47 int
+INFO  09:22:36,452 - #47 nula
+INFO  09:22:36,452 - #7 =
+INFO  09:22:36,452 - #46 0
+INFO  09:22:36,452 - #8 ;
+INFO  09:22:36,453 - #21 const
+INFO  09:22:36,453 - #47 int
+INFO  09:22:36,454 - #47 jedan
+INFO  09:22:36,454 - #7 =
+INFO  09:22:36,454 - #46 1
+INFO  09:22:36,454 - #8 ;
+INFO  09:22:36,454 - #21 const
+INFO  09:22:36,454 - #47 int
+INFO  09:22:36,454 - #47 pet
+INFO  09:22:36,454 - #7 =
+INFO  09:22:36,455 - #46 5
+INFO  09:22:36,455 - #8 ;
+INFO  09:22:36,456 - #17 }
+ERROR 09:22:36,456 - 
+Sintaksna greska na liniji 7, 0
+INFO  09:22:36,456 - #12 namespace
+INFO  09:22:36,456 - #47 Nizovi
+INFO  09:22:36,456 - #16 {
+INFO  09:22:36,456 - #47 int
+INFO  09:22:36,456 - #47 niz
+INFO  09:22:36,456 - #14 [
+INFO  09:22:36,456 - #15 ]
+INFO  09:22:36,456 - #8 ;
+INFO  09:22:36,456 - #47 char
+INFO  09:22:36,456 - #47 nizch
+INFO  09:22:36,456 - #14 [
+ERROR 09:22:36,456 - Sintaksa greska deklaracije globalne promenljive na liniji 6
+INFO  09:22:36,457 - #15 ]
+INFO  09:22:36,457 - #8 ;
+INFO  09:22:36,457 - #16 {
+INFO  09:22:36,457 - #17 }
+INFO  09:22:36,458 - #17 }
+INFO  09:22:36,458 - #47 int
+INFO  09:22:36,458 - #47 a
+INFO  09:22:36,458 - #8 ;
+INFO  09:22:36,458 - #16 {
+INFO  09:22:36,458 - #17 }
+INFO  09:22:36,459 - Program(
+  Prog_id(
+   test301
+  ) [Prog_id]
+  NamespaceDecls(
+    NoNamespaceDecl(
+    ) [NoNamespaceDecl]
+    NamespaceDecl(
+     Konstante
+      InitLists(
+        InitLists(
+          InitLists(
+            InitLists(
+              NoInitLists(
+              ) [NoInitLists]
+              ConstPart(
+                Const_dec(
+                  OnceIdent(
+                   int
+                  ) [OnceIdent]
+                 nula
+                  IntInitializer(
+                   0
+                  ) [IntInitializer]
+                  NoConstLista(
+                  ) [NoConstLista]
+                ) [Const_dec]
+              ) [ConstPart]
+            ) [InitLists]
+            ConstPart(
+              Const_dec(
+                OnceIdent(
+                 int
+                ) [OnceIdent]
+               jedan
+                IntInitializer(
+                 1
+                ) [IntInitializer]
+                NoConstLista(
+                ) [NoConstLista]
+              ) [Const_dec]
+            ) [ConstPart]
+          ) [InitLists]
+          ErrorGlobalParamsSemi(
+          ) [ErrorGlobalParamsSemi]
+        ) [InitLists]
+        VarPart(
+          Var_dec(
+            OnceIdent(
+             char
+            ) [OnceIdent]
+            VarOrArrayId(
+              VarArrayId(
+               nizch
+              ) [VarArrayId]
+            ) [VarOrArrayId]
+          ) [Var_dec]
+        ) [VarPart]
+      ) [InitLists]
+      NoMethods(
+      ) [NoMethods]
+    ) [NamespaceDecl]
+  ) [NamespaceDecls]
+  InitLists(
+    NoInitLists(
+    ) [NoInitLists]
+    VarPart(
+      Var_dec(
+        OnceIdent(
+         int
+        ) [OnceIdent]
+        VarOrArrayId(
+          VarId(
+           a
+          ) [VarId]
+        ) [VarOrArrayId]
+      ) [Var_dec]
+    ) [VarPart]
+  ) [InitLists]
+  NoMethods(
+  ) [NoMethods]
+) [Program]
+INFO  09:22:36,459 - ===================================
